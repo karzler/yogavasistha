@@ -9,3 +9,5 @@
 - [Sarga 1 — Invocations and the frame story (66 verses)](sarga-001.md)
 - [Sarga 2 — Who this teaching is for, and how it came to be written (31 verses)](sarga-002.md)
 - [Sarga 3 — The essence of the teaching, and Śrī Rāma's pilgrimage (42 verses)](sarga-003.md)
+- [Sarga 4 — Homecoming and daily life (12 verses)](sarga-004.md)
+- [Sarga 5 — Śrī Rāma's dejection (15 verses)](sarga-005.md)
