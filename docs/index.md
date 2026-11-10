@@ -36,6 +36,34 @@ Four features set it apart. The commentary on each verse returns to them often.
 
 These points draw on Swami Venkatesananda's [*Introduction to the Yoga Vasiṣṭha*](https://www.dlshq.org/discourse/introduction-to-the-yoga-vasistha/) (Divine Life Society), which is well worth reading in full.
 
+## The fruit of study (prayojana)
+
+Indian tradition introduces a scripture by four questions, the अनुबन्धचतुष्टय: *who* is it for (अधिकारी), *what* is it about (विषय), *how* does the text relate to its subject (सम्बन्ध), and *what fruit* does it give (प्रयोजन). The Yoga Vasiṣṭha answers all four in its own words, in its opening sargas.
+
+- **Who it is for:** one convinced *"I am bound; may I be free"*, neither wholly ignorant nor already a knower ([1.2.2](1-vairagya/sarga-002.md#1-2-2)).
+- **What it is about:** the Self, the one reality "from which all beings appear, in which they abide, and in which they come to rest" ([1.1.1](1-vairagya/sarga-001.md#1-1-1)).
+- **How it relates to that:** it is a *means*. The text names itself मोक्षोपाय, "the means to liberation" (2.17.6). It does not merely describe freedom; it leads the reader to it, through stories and teaching.
+- **What fruit it gives:** the text states this plainly, more than once:
+    - the one who reflects on it <span class="sa">न स भूयोऽभिजायते</span> — *is not born again* ([1.2.3](1-vairagya/sarga-002.md#1-2-3));
+    - it was asked for so that <span class="sa">येनेयं जनता दुःखान्मुच्यते</span> — *people may be freed from suffering* ([1.2.8](1-vairagya/sarga-002.md#1-2-8));
+    - hearing it, one crosses all delusion, as one crosses the ocean by Rāma's bridge ([1.2.10](1-vairagya/sarga-002.md#1-2-10));
+    - and it calls itself <span class="sa">निर्वाणदायिनी</span> — *the giver of nirvāṇa* (2.17.6).
+
+**The main fruit: liberation while living.** The highest prayojana is मोक्ष, freedom: the complete end of sorrow and the discovery of the Self as fullness and peace. The Yoga Vasiṣṭha's particular emphasis is that this freedom is to be lived *here*, in this body and this life, as a जीवन्मुक्त — one liberated while living — and not only after death.
+
+**The fruits along the way.** Before that final fruit, study brings intermediate fruits, which are also the means to it. A well-known verse of the text (5.92.18), quoted by Vidyāraṇya in his *Jīvanmuktiviveka*, names three: <span class="sa">तत्त्वज्ञानं मनोनाशो वासनाक्षय एव च । मिथः कारणतां गत्वा दुःसाध्यानि स्थितान्यतः ॥</span> — *knowledge of the truth, the dissolving of the mind, and the wearing away of latent tendencies: these three are each other's causes, and so are hard to achieve [one without the others].*
+
+- **Knowledge of the truth (तत्त्वज्ञान):** ignorance of one's own nature is removed, and with it the doubts that keep one from resting in it.
+- **Dissolving of the mind (मनोनाश):** the mind stops being a restless, separate master and becomes transparent to consciousness (see [Sarga 16](1-vairagya/sarga-016.md)).
+- **Wearing away of tendencies (वासनाक्षय):** the habits that bind are replaced by pure ones, until they fall away ([1.3.8–11](1-vairagya/sarga-003.md#1-3-8)).
+
+Alongside these, the text gives two practical gifts:
+
+- **Self-effort in place of fatalism.** Vasiṣṭha insists that पौरुष, one's own effort guided by scripture and discernment, is stronger than "fate", which is only the residue of one's past effort. Despair gives way to responsibility.
+- **Equanimity within ordinary life.** The teaching was given to a young prince about to take up his duties, not to an ascetic leaving them. Its fruit is visible in how one lives: acting fully, responding naturally, without being broken by hard situations (see the reflection at [1.14.3](1-vairagya/sarga-014.md#1-14-3)).
+
+**Reading is not yet the fruit.** The text promises its fruit not to one who merely reads, but to one who reflects — <span class="sa">यो विचारयति प्राज्ञः</span>, "the wise one who *inquires*" ([1.2.3](1-vairagya/sarga-002.md#1-2-3)). The fruit ripens through विचार, inquiry: reading slowly, turning each verse over, and testing it against one's own experience. That is why this site gives pointers for reflection rather than a finished commentary.
+
 ## How the traditions meet { #how-the-traditions-meet }
 
 The Yoga Vasiṣṭha does not argue against other schools so much as gather them in. Its view is that different traditions have named the one reality in different ways. Some concrete examples:
