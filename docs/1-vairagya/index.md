@@ -38,3 +38,4 @@
 - [Sarga 30 — Rāma's questions (27 verses)](sarga-030.md)
 - [Sarga 31 — Rāma falls silent (27 verses)](sarga-031.md)
 - [Sarga 32 — The rain of flowers (27 verses)](sarga-032.md)
+- [Sarga 33 — The sages assemble (46 verses)](sarga-033.md)

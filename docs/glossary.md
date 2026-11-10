@@ -56,6 +56,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">लीला</span> (līlā) | play, the divine sport of creation | [1.25.32](1-vairagya/sarga-025.md#1-25-32) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
+| <span class="sa">विमर्श</span> (vimarśa) | reflection; the self-aware power of consciousness | [1.33.36](1-vairagya/sarga-033.md#1-33-36) |
 | <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
 | <span class="sa">विश्रान्ति</span> (viśrānti) | rest; liberation as complete repose | [1.11.4](1-vairagya/sarga-011.md#1-11-4) |
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
@@ -67,6 +68,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
 | <span class="sa">संसार</span> (saṃsāra) | worldly existence; the cycle of birth and death | [1.1.47](1-vairagya/sarga-001.md#1-1-47) |
 | <span class="sa">सत्यात्मन्</span> (satyātman) | the Reality that is the Self | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
+| <span class="sa">सत्सङ्ग</span> (satsaṅga) | the company of the wise | [1.33.8](1-vairagya/sarga-033.md#1-33-8) |
 | <span class="sa">सन्तोष</span> (santoṣa) | contentment | [1.27.5](1-vairagya/sarga-027.md#1-27-5) |
 | <span class="sa">सिद्धि</span> (siddhi) | perfection, fulfilment | [1.1.13](1-vairagya/sarga-001.md#1-1-13) |
 | <span class="sa">सेतु</span> (setu) | bridge | [1.2.10](1-vairagya/sarga-002.md#1-2-10) |
