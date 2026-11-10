@@ -11,9 +11,11 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">अहंकार</span> (ahaṅkāra) | the ego, the sense of "I" | [1.15.1](1-vairagya/sarga-015.md#1-15-1) |
 | <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
+| <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">कल्पना</span> (kalpanā) | mental construction, imagination | [1.10.38](1-vairagya/sarga-010.md#1-10-38) |
+| <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
 | <span class="sa">जीवन्मुक्त</span> (jīvanmukta) | one liberated while living | [1.1.52](1-vairagya/sarga-001.md#1-1-52) |
 | <span class="sa">ज्ञ</span> (jña) | the Knower; pure knowing, prior to knower and known | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">ज्ञान</span> (jñāna) | knowledge | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
