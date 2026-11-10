@@ -48,3 +48,26 @@
   font-weight: 400;
   opacity: 0.75;
 }
+
+/* "Share this verse" button at the end of each verse */
+.md-typeset .verse-share-row {
+  margin: 1.2rem 0 0;
+}
+.md-typeset .verse-share {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  padding: 0.35em 0.8em;
+  font: inherit;
+  font-size: 0.75rem;
+  color: var(--md-primary-fg-color);
+  background: transparent;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: 999px;
+  cursor: pointer;
+}
+.md-typeset .verse-share:hover,
+.md-typeset .verse-share:focus-visible {
+  color: var(--md-primary-bg-color);
+  background: var(--md-primary-fg-color);
+}

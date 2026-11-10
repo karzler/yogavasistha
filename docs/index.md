@@ -130,7 +130,7 @@ It aims to:
 
 **Search and find.** Use the search box at the top to find any English or Sanskrit word. Key Sanskrit terms are rendered the same way throughout; the [Glossary](glossary.md) lists them with a link to the verse where each first appears.
 
-**Link to a verse.** Every verse has its own address. Hover over a verse heading and click the ¶ sign to get it; for example, verse 1.1.2 is at `…/1-vairagya/sarga-001/#1-1-2`.
+**Share a verse.** At the end of every verse is a **Share this verse** button. On a phone it opens your phone's share menu (WhatsApp, Messages, email and so on) with the verse, its translation and a link that opens the page at that verse. On a computer it copies the same text and link, ready to paste anywhere.
 
 **About the text.** The Sanskrit follows the commonly printed text. Where it has an obvious misprint, the verse is corrected and a **Reading note** says what was changed; where a reading is uncertain, it is left as printed and flagged.
 

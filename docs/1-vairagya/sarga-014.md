@@ -74,8 +74,11 @@
     - even after returning as king, he had to live apart from her again for the sake of his people.
 
     Yet his inner state was never shaken. In Vālmīki's account he accepts the exile at once, without anger at Kaikeyī. Tulsīdās opens the Ayodhyā Kāṇḍa of the Rāmacaritamānasa with a prayer to exactly this quality: <span class="parallel">प्रसन्नतां या न गताभिषेकतस्तथा न मम्ले वनवासदुःखतः । मुखाम्बुजश्री रघुनन्दनस्य मे सदास्तु सा मञ्जुलमङ्गलप्रदा ॥</span> — *the beauty of Rāghava's lotus face, which did not brighten at the news of his coronation, nor fade at the sorrow of exile in the forest — may it always bring me blessing.* Bad situations; no bad experience.
+
 - **Why, and how?** This is what the Yoga Vasiṣṭha is about to teach him. Rāma in this sarga is still the one who says life is only sorrow; the Rāma of the epic is the one who has heard Vasiṣṭha. The difference is knowledge (विज्ञातविज्ञेय) and rest in the vast state (विश्रान्ता वितते पदे), which is exactly what this verse names. The teaching does not promise better situations; it promises a mind that is free in every situation.
+
 - **The power of thought.** The Yoga Vasiṣṭha holds that the mind shapes experience — "the mind is the cause of all things" ([1.16.25](sarga-016.md#1-16-25)) — and that what we repeatedly think, we become (the pure and impure वासना of [1.3.11](sarga-003.md#1-3-11)). This makes a practice possible: in every situation, cultivate a positive वृत्ति, a thought of acceptance, trust or compassion, in place of resentment or fear. Patañjali gives the same method: <span class="parallel">वितर्कबाधने प्रतिपक्षभावनम्</span> — *when disturbed by negative thoughts, cultivate the opposite* (Yoga Sūtra 2.33).
+
 - **Gītā 2.14–15 and 2.56:** <span class="parallel">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥</span> — *contacts with objects bring cold and heat, pleasure and pain; they come and go, they do not last — endure them, Bhārata*; and the one of steady wisdom is <span class="parallel">दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः</span> — *undisturbed in sorrow, without craving in pleasure.* Kṛṣṇa does not promise Arjuna an easy war, only a steady mind within it.
 
 ## Verse 1.14.4 { #1-14-4 }

@@ -38,6 +38,9 @@ theme:
 extra_css:
   - assets/style.css
 
+extra_javascript:
+  - assets/share.js
+
 markdown_extensions:
   - attr_list
   - md_in_html
