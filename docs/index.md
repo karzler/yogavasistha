@@ -1,26 +1,28 @@
 # योगवासिष्ठ — Yoga Vasiṣṭha
 
-*Study notes and personal commentary, verse by verse.*
+*A verse-by-verse study: the Sanskrit text, word-by-word meanings, an English translation, and pointers for reflection.*
 
-In the Bhagavad Gītā the Lord is the Guru. In the Yoga Vasiṣṭha the Lord is the student: Śrī Rāma sits before the sage Vasiṣṭha and asks the questions that matter most. This site works through the text one verse at a time, for anyone who wishes to study it.
+## What is the Yoga Vasiṣṭha?
 
-[Why I love Yoga Vasistha](introduction/why-i-love.md){ .md-button .md-button--primary }
-[Start reading — Sarga 1](1-vairagya/sarga-001.md){ .md-button }
+The Yoga Vasiṣṭha is a dialogue between the sage Vasiṣṭha and the young prince Śrī Rāma. Troubled by the suffering and impermanence of life, Śrī Rāma asks his teacher what is real and how one should live. Vasiṣṭha answers through philosophy and through many stories.
 
-## How each verse is presented
+Traditionally attributed to Vālmīki, the full text has about 29,000 verses in six books, called prakaraṇas. Its central teaching is that the world is an appearance in consciousness, and that liberation is possible while living fully in the world.
 
-1. **The Sanskrit verse** in Devanagari.
-2. **Word by word** — each Sanskrit word in prose order, with its meaning.
-3. **Translation** — a plain English rendering.
-4. **Pointers for Reflection** — parallels, key words and cross-references.
+## How to use this site
 
-See [About this translation](introduction/about-translation.md) for details, and the [Glossary](glossary.md) for key terms.
+1. Begin with the introduction: [Why I love Yoga Vasistha](introduction/why-i-love.md) and [About this translation](introduction/about-translation.md).
+2. Then read the verses in order, starting with [Sarga 1](1-vairagya/sarga-001.md).
+3. Look up key Sanskrit terms in the [Glossary](glossary.md).
+
+Each verse is presented in four parts: the Sanskrit verse, its words in prose order with meanings, an English translation, and pointers for reflection.
+
+[Start reading — Sarga 1](1-vairagya/sarga-001.md){ .md-button .md-button--primary }
 
 ## The six prakaraṇas
 
 | | Prakaraṇa | Theme |
 | --- | --- | --- |
-| 1 | [वैराग्य — Vairāgya](1-vairagya/index.md) | Dispassion: Rama's despair at the nature of life |
+| 1 | [वैराग्य — Vairāgya](1-vairagya/index.md) | Dispassion: Śrī Rāma's despair at the nature of life |
 | 2 | [मुमुक्षु — Mumukṣu](2-mumukshu/index.md) | The seeker: the nature of one who longs for liberation |
 | 3 | [उत्पत्ति — Utpatti](3-utpatti/index.md) | Origination: how the world arises in the mind |
 | 4 | [स्थिति — Sthiti](4-sthiti/index.md) | Existence: how the world is sustained |
