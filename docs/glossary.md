@@ -5,6 +5,8 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | Term | Rendering | First appears |
 | --- | --- | --- |
 | <span class="sa">अकर्म</span> (akarma) | inaction, abstaining from action | [1.1.11](1-vairagya/sarga-001.md#1-1-11) |
+| <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
+| <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
@@ -20,9 +22,13 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
+| <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
+| <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
+| <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
 | <span class="sa">संसार</span> (saṃsāra) | worldly existence; the cycle of birth and death | [1.1.47](1-vairagya/sarga-001.md#1-1-47) |
 | <span class="sa">सत्यात्मन्</span> (satyātman) | the Reality that is the Self | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">सिद्धि</span> (siddhi) | perfection, fulfilment | [1.1.13](1-vairagya/sarga-001.md#1-1-13) |
+| <span class="sa">सेतु</span> (setu) | bridge | [1.2.10](1-vairagya/sarga-002.md#1-2-10) |
 | <span class="sa">स्वर्ग</span> (svarga) | heaven | [1.1.31](1-vairagya/sarga-001.md#1-1-31) |

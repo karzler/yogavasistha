@@ -7,3 +7,4 @@
 ## Sargas
 
 - [Sarga 1 — Invocations and the frame story (66 verses)](sarga-001.md)
+- [Sarga 2 — Who this teaching is for, and how it came to be written (30 verses)](sarga-002.md)
