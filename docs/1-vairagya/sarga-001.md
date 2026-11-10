@@ -169,7 +169,7 @@
     - Arjuna: तदेकं वद निश्चित्य. Sutīkṣṇa: विनिश्चित्य एकं कथय. The Yoga Vasiṣṭha opens with the Gītā's question.
 - **Gītā 5.1** asks it again: <span class="parallel">यच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम्</span> — *tell me with certainty which one of these two is better.*
 - **A debate across the schools.** Mīmāṃsā holds that action leads to the highest; Śaṅkara's Advaita holds that knowledge alone liberates; others hold that the two combine (ज्ञानकर्मसमुच्चय). Sutīkṣṇa's question puts the text in the middle of this debate from its first page.
-- **Connection to "Why I love Yoga Vasistha" (point 4).** Whether Rāma renounces or returns to rule depends on the answer to this very question.
+- **Connection to [wisdom lived, not renounced](../index.md#wisdom-lived).** Whether Rāma renounces or returns to rule depends on the answer to this very question.
 
 ## Verse 1.1.7 { #1-1-7 }
 
@@ -528,7 +528,7 @@
 
 **Pointers for Reflection:**
 
-- **साधु पृष्टम्.** "Well asked." A good question is praised before it is answered. Your second reason for loving this text — that it teaches which questions are worth asking — is built into its very style.
+- **साधु पृष्टम्.** "Well asked." A good question is praised before it is answered. One of the text's distinctive features — that it teaches [questions worth asking](../index.md#questions-worth-asking) — is built into its very style.
 - **राजर्षि.** A king who is also a sage: the ideal the whole text will hold up in Śrī Rāma.
 - **The sentence continues** into the next verse.
 - **Gītā 4.2:**
@@ -870,7 +870,7 @@
 - **Kaṭha Upaniṣad 1.1.26.** Naciketas answers Yama the same way:
     - <span class="parallel">श्वोभावा मर्त्यस्य यदन्तकैतत् … तवैव वाहास्तव नृत्यगीते ॥</span>
     - *These last only until tomorrow, O Death … keep your chariots, your dance and song for yourself.*
-- **Your first reason echoed.** Here a mortal king declines what the gods offer, because he wants truth, not reward.
+- **The theme of [the Lord as student](../index.md#the-lord-as-student) echoed.** Here a mortal king declines what the gods offer, because he wants truth, not reward.
 
 ## Verse 1.1.41 { #1-1-41 }
 
@@ -1100,7 +1100,7 @@
 
 **Pointers for Reflection:**
 
-- **जीवन्मुक्त — the key word of the whole text.** Liberation not after death, not in heaven, but here, in this life. This is the Yoga Vasiṣṭha's central promise, and the reason Śrī Rāma need not renounce (your fourth reason).
+- **जीवन्मुक्त — the key word of the whole text.** Liberation not after death, not in heaven, but here, in this life. This is the Yoga Vasiṣṭha's central promise, and the reason Śrī Rāma need not renounce (see [wisdom lived, not renounced](../index.md#wisdom-lived)).
 - **A different answer from the king's own plan.** In 1.1.41 the king meant to cast off his body through austerity. Vālmīki offers instead freedom while living, through understanding.
 - **श्रुत्वा, अवधार्य.** Hearing and careful understanding: श्रवण and मनन, the classical path of Vedānta.
 - **अखण्डित Rāmāyaṇa.** The Yoga Vasiṣṭha presents itself as the inner, complete Rāmāyaṇa: not Rāma's outer deeds, but his inner awakening.
@@ -1145,7 +1145,7 @@
 
 **Pointers for Reflection:**
 
-- **The central puzzle of your first reason.** If Rāma is God, why does he need a teacher? Is the Lord bound? The king asks exactly the question you raised in "Why I love Yoga Vasistha".
+- **The central puzzle of [the Lord as student](../index.md#the-lord-as-student).** If Rāma is God, why does he need a teacher? Is the Lord bound? The king asks exactly this question.
 - **Arjuna asks the same of Kṛṣṇa.** Gītā 11.31: <span class="parallel">आख्याहि मे को भवानुग्ररूपो</span> — *tell me, who are you, of such fierce form?*
 - **बद्धो वा मुक्त एव वा.** A good question to ask of oneself, not only of Rāma.
 
@@ -1165,7 +1165,7 @@
 
 **Pointers for Reflection:**
 
-- **The answer to your first reason.** The Lord becomes a student by taking on अज्ञान, ignorance, as a role. He is किञ्चिज्ज्ञ, "one who knows a little", not by nature but by choice.
+- **The answer to the puzzle of [the Lord as student](../index.md#the-lord-as-student).** The Lord becomes a student by taking on अज्ञान, ignorance, as a role. He is किञ्चिज्ज्ञ, "one who knows a little", not by nature but by choice.
 - **व्याज, pretext.** The curse is called a pretext. The deeper reason is that the Lord walks the seeker's path so that seekers may follow it.
 - **Gītā 4.6:**
     - <span class="parallel">अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् । प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥</span>

@@ -269,7 +269,7 @@
 **Pointers for Reflection:**
 
 - **Even Śiva fears it.** A strong poetic exaggeration. Śiva burned Kāma, the god of desire, with his third eye; even he is said to be wary of youth's darkness.
-- **Kashmir Śaivism** (your third reason): भैरव is the supreme form of Śiva in that tradition.
+- **Kashmir Śaivism** (see [the synthesis of traditions](../index.md#a-synthesis)): भैरव is the supreme form of Śiva in that tradition.
 
 ## Verse 1.20.16 { #1-20-16 }
 
@@ -663,7 +663,7 @@
 
 - **Reading note.** The online text prints सुतै यथा; corrected here to सुते यथा.
 - **A turn to compassion.** After all the criticism, Rāma asks for compassion towards youth, as for a dying child. This is the beginning of the change from aversion to wisdom: not hatred of the transient, but tenderness towards it.
-- **Your 1.10.46 point.** Rāma's detachment is still partly misplaced aversion; this verse shows it beginning to soften into compassion (करुणा), which will be one of the marks of the knower (1.20.43).
+- **Misplaced detachment softening (see 1.10.46).** Rāma's detachment is still partly misplaced aversion; this verse shows it beginning to soften into compassion (करुणा), which will be one of the marks of the knower (1.20.43).
 
 ## Verse 1.20.39 { #1-20-39 }
 

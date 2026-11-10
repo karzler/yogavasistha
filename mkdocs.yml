@@ -53,9 +53,6 @@ plugins:
 
 nav:
   - Home: index.md
-  - Introduction:
-      - Why I love Yoga Vasistha: introduction/why-i-love.md
-      - About this translation: introduction/about-translation.md
   - Glossary: glossary.md
   - 1. Vairāgya Prakaraṇa:
       - 1-vairagya/index.md

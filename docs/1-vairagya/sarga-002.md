@@ -59,7 +59,7 @@
 - **Gītā 7.3:**
     - <span class="parallel">मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये ।</span>
     - *Among thousands of people, one strives for perfection.*
-- **Your second reason, again.** "I am bound; may I be free" is the first real question. Many never ask it. This verse makes asking it the qualification for study.
+- **The theme of [questions worth asking](../index.md#questions-worth-asking), again.** "I am bound; may I be free" is the first real question. Many never ask it. This verse makes asking it the qualification for study.
 - **A question to sit with.** Do I truly feel bound? By what?
 - **Reading note.** The online editions vary in the last line (नोत ज्ञः / नो तज्ज्ञः). The sense is the same: "nor yet a knower". Check your printed edition.
 
@@ -424,7 +424,7 @@
     - <span class="parallel">स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव । स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम् ॥</span>
     - *What are the marks of one whose wisdom is steady, Keśava? How does such a one speak, sit and walk?*
     - Both students ask not "what is the truth?" but "how did the wise one live?" Bharadvāja's word is व्यवहृत, conduct in everyday life.
-- **व्यवहार — your fourth reason.** The question is how to live in the world, not how to leave it. This word will return often.
+- **व्यवहार — [wisdom lived, not renounced](../index.md#wisdom-lived).** The question is how to live in the world, not how to leave it. This word will return often.
 
 ## Verse 1.2.21 { #1-2-21 }
 
@@ -520,7 +520,7 @@
 
 **Pointers for Reflection:**
 
-- **The key verse of Sarga 2.** The whole teaching in one line: live (व्यवहर) like Rāma, happily (सुखी), unattached (असंसक्त). Not renunciation of life, but non-attachment within life. This is your fourth reason, stated by Vālmīki himself.
+- **The key verse of Sarga 2.** The whole teaching in one line: live (व्यवहर) like Rāma, happily (सुखी), unattached (असंसक्त). Not renunciation of life, but non-attachment within life. This is [wisdom lived, not renounced](../index.md#wisdom-lived), stated by Vālmīki himself.
 - **Gītā 5.10 — the lotus leaf:**
     - <span class="parallel">ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः । लिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥</span>
     - *One who acts, offering actions to Brahman and giving up attachment, is not stained by evil, as a lotus leaf is not wet by water.*

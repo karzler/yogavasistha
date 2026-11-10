@@ -287,7 +287,7 @@
 **Pointers for Reflection:**
 
 - **A harsh view, honestly shown.** The text does not soften Rāma's critical mood. Sargas 16–22 will contain his long reflections on the body and desire; here we see them beginning.
-- **A note for the reader.** This is the voice of a young man in crisis, not the text's final view. The Yoga Vasiṣṭha's end point is freedom within life (your fourth reason), not rejection of people.
+- **A note for the reader.** This is the voice of a young man in crisis, not the text's final view. The Yoga Vasiṣṭha's end point is freedom within life (see [wisdom lived, not renounced](../index.md#wisdom-lived)), not rejection of people.
 
 ## Verse 1.10.17 { #1-10-17 }
 
@@ -394,7 +394,7 @@
 
 **Pointers for Reflection:**
 
-- **The young renunciant.** Rāma is drifting toward the path of renunciation. This is precisely the path the Yoga Vasiṣṭha will gently correct: freedom does not require leaving the world (1.1.7–1.1.8; your fourth reason).
+- **The young renunciant.** Rāma is drifting toward the path of renunciation. This is precisely the path the Yoga Vasiṣṭha will gently correct: freedom does not require leaving the world (1.1.7–1.1.8; the theme of [wisdom lived, not renounced](../index.md#wisdom-lived)).
 - **Reading note.** The online text prints भूय सो; the correct form भूयः सो is used here.
 
 ## Verse 1.10.23 { #1-10-23 }
@@ -847,7 +847,7 @@
     - *Attraction and aversion lie in wait in every sense-object. Do not fall under their sway; they are the enemies on one's path.*
     - द्वेष, aversion, is the twin of राग. To recoil from life is still to be bound to it. Wanting to escape is still wanting.
 - **Two kinds of despair.** Arjuna's grief comes from attachment: he cannot bear to kill his kin (मोह). Rāma's comes from insight: he has seen the impermanence of everything. Rāma's is the more advanced crisis — his discernment (विवेक) is real. But both lack the same thing: knowledge of the Self that does not pass away. Without it, Arjuna clings and Rāma recoils.
-- **The same remedy, the same ending.** Both crises are answered not by escape but by teaching, and both teachings send the hero back into action. Arjuna ends: <span class="parallel">नष्टो मोहः स्मृतिर्लब्धा … करिष्ये वचनं तव</span> (Gītā 18.73) — *my delusion is gone, my memory restored; I will do as you say* — and he fights. Rāma will end the Yoga Vasiṣṭha by returning to life and ruling as one free while living (your fourth reason). Detachment, rightly understood, does not leave the world; it lives in it without being bound.
+- **The same remedy, the same ending.** Both crises are answered not by escape but by teaching, and both teachings send the hero back into action. Arjuna ends: <span class="parallel">नष्टो मोहः स्मृतिर्लब्धा … करिष्ये वचनं तव</span> (Gītā 18.73) — *my delusion is gone, my memory restored; I will do as you say* — and he fights. Rāma will end the Yoga Vasiṣṭha by returning to life and ruling as one free while living (see [wisdom lived, not renounced](../index.md#wisdom-lived)). Detachment, rightly understood, does not leave the world; it lives in it without being bound.
 - **The two wings again.** This verse shows what happens when the wing of dispassion flies without the wing of knowledge (1.1.7–1.1.8): the bird does not rise, it falls. The whole teaching that follows is the second wing.
 
 ## Verse 1.10.47 { #1-10-47 }
@@ -918,7 +918,7 @@
 
 **Pointers for Reflection:**
 
-- **प्रकृत व्यवहार — ordinary life.** The servant does not want Rāma to become a hermit; he wants him back in the world. That is exactly what the Yoga Vasiṣṭha will do: return Rāma to life, transformed (your fourth reason).
+- **प्रकृत व्यवहार — ordinary life.** The servant does not want Rāma to become a hermit; he wants him back in the world. That is exactly what the Yoga Vasiṣṭha will do: return Rāma to life, transformed (see [wisdom lived, not renounced](../index.md#wisdom-lived)).
 - **व्यवहार.** The word Bharadvāja used in 1.2.20 (कथं व्यवहृतः) and Vālmīki in 1.2.25 (तथा व्यवहर). The whole text is about how to live — व्यवहार — once one has seen through the world.
 
 ## Verse 1.10.51 { #1-10-51 }

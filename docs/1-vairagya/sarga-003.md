@@ -138,7 +138,7 @@
     - <span class="parallel">युञ्जन्नेवं सदात्मानं योगी नियतमानसः । शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥</span>
     - *Always uniting himself thus, the yogī with a disciplined mind reaches peace, the supreme nirvāṇa that rests in me.*
 - **मार्जन — wiping clean.** The image is of a mirror being cleaned. Nothing is added to the mind; only what clouds it is removed.
-- **निर्वाण and निर्वृति.** "Blowing out" and "deep contentment": both words for the same peace. The text uses nirvāṇa freely, one of many signs of its openness to Buddhist vocabulary (your third reason).
+- **निर्वाण and निर्वृति.** "Blowing out" and "deep contentment": both words for the same peace. The text uses nirvāṇa freely, one of many signs of its openness to Buddhist vocabulary (see [the synthesis of traditions](../index.md#a-synthesis)).
 
 ## Verse 1.3.7 { #1-3-7 }
 
@@ -561,7 +561,7 @@
 **Pointers for Reflection:**
 
 - **आलिङ्ग्यालिङ्ग्य.** The repetition (embracing, embracing) shows the mothers' reluctance to let go. A tender human detail in a philosophical text.
-- **Leaving home.** The outward journey from home will lead to an inward journey away from attachment, and finally back home as a free person (your fourth reason).
+- **Leaving home.** The outward journey from home will lead to an inward journey away from attachment, and finally back home as a free person (see [wisdom lived, not renounced](../index.md#wisdom-lived)).
 
 ## Verse 1.3.28 { #1-3-28 }
 
@@ -760,7 +760,7 @@
 **Pointers for Reflection:**
 
 - **Kārttikeya.** The god also called Skanda and Śarajanman — the form Sanatkumāra took because of Viṣṇu's curse (1.1.59). Rāma, who is Viṣṇu, visits the shrine of the one he once cursed.
-- **Hari and Hara together.** Viṣṇu's and Śiva's shrines are named side by side. The text honours both, as later it draws on Kashmir Śaivism too (your third reason).
+- **Hari and Hara together.** Viṣṇu's and Śiva's shrines are named side by side. The text honours both, as later it draws on Kashmir Śaivism too (see [the synthesis of traditions](../index.md#a-synthesis)).
 
 ## Verse 1.3.39 { #1-3-39 }
 

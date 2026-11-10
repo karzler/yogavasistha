@@ -9,7 +9,6 @@ The Yoga Vasiṣṭha studied verse by verse: Sanskrit, word-by-word meaning in 
 ```
 docs/
   index.md                 home page
-  introduction/            why I love Yoga Vasistha, about this translation
   glossary.md              key terms, rendered consistently
   1-vairagya/ … 6-nirvana/ one folder per prakaraṇa
     index.md               overview of the prakaraṇa

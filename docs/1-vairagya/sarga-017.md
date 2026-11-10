@@ -28,7 +28,7 @@
 
 - **तृष्णा — craving, literally "thirst".** The subject of this sarga, the longest so far. Sarga 15 called craving the flower of the ego's cloud (1.15.12); Sarga 16 called it the mind's wife (1.16.15). Now Rāma looks at her directly.
 - **Owls in the night.** Owls are active only in darkness. Faults flourish only where craving has darkened the heart.
-- **A synthesis with Buddhism** (your third reason). In the Buddha's second noble truth, तण्हा (Pāli for तृष्णा) is the cause of suffering. The Yoga Vasiṣṭha shares the diagnosis, and gives it an Advaitic cure: not only the ending of craving, but the knowing of the Self in whom craving never arose.
+- **A synthesis with Buddhism** (see [the synthesis of traditions](../index.md#a-synthesis)). In the Buddha's second noble truth, तण्हा (Pāli for तृष्णा) is the cause of suffering. The Yoga Vasiṣṭha shares the diagnosis, and gives it an Advaitic cure: not only the ending of craving, but the knowing of the Self in whom craving never arose.
 
 ## Verse 1.17.2 { #1-17-2 }
 

@@ -150,7 +150,7 @@
 **Pointers for Reflection:**
 
 - **न अहं रामः — "I am not Rāma."** An astonishing statement. Rāma rejects his own name and identity, the very ego-self. Compare 1.10.43, न चैवाहम्, "nor am I".
-- **जिन — the Jina.** A "conqueror", the title of the liberated teachers of Jainism (and also used of the Buddha). The Yoga Vasiṣṭha names the Jaina ideal of peaceful self-abiding as Rāma's model. **This is your third reason, explicitly in the text:** Advaita drawing on Jainism.
+- **जिन — the Jina.** A "conqueror", the title of the liberated teachers of Jainism (and also used of the Buddha). The Yoga Vasiṣṭha names the Jaina ideal of peaceful self-abiding as Rāma's model. **Here [the synthesis of traditions](../index.md#a-synthesis) is explicit in the text:** Advaita drawing on Jainism.
 - **Gītā 6.10:** <span class="parallel">योगी युञ्जीत सततमात्मानं रहसि स्थितः</span> — *the yogī should constantly unite himself with the Self, staying in solitude.*
 
 ## Verse 1.15.9 { #1-15-9 }
@@ -381,4 +381,4 @@
     - <span class="parallel">शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥</span>
     - *I am your student; teach me, I have taken refuge in you.*
     - Arjuna says शाधि मां; Rāma says मां समनुशाधि. Both crises end in the same words: "teach me". This is the moment the student formally asks the teacher.
-- **Your first reason, in action.** The Lord, as student, asks to be taught.
+- **The theme of [the Lord as student](../index.md#the-lord-as-student), in action.** The Lord, as student, asks to be taught.

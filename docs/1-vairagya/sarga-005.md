@@ -27,7 +27,7 @@
 
 **Pointers for Reflection:**
 
-- **Not yet sixteen.** The great questions of the Yoga Vasiṣṭha are asked by a teenager — your second reason, in the text's own words.
+- **Not yet sixteen.** The great questions of the Yoga Vasiṣṭha are asked by a teenager — [questions worth asking](../index.md#questions-worth-asking), in the text's own words.
 - **The sentence continues** through 1.5.4.
 
 ## Verse 1.5.2 { #1-5-2 }

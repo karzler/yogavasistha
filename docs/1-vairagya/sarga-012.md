@@ -172,7 +172,7 @@
 **Pointers for Reflection:**
 
 - **A profound image.** The world seems to be a web of connected things. Rāma sees that the connections — "mine", "my son", "my kingdom" — are made by the mind (कल्पना, 1.10.38).
-- **A Buddhist echo.** The idea that things are without inherent connection, and that relations are mental constructions, is close to Buddhist thought on dependent arising and the emptiness of inherent existence — another thread of the synthesis (your third reason).
+- **A Buddhist echo.** The idea that things are without inherent connection, and that relations are mental constructions, is close to Buddhist thought on dependent arising and the emptiness of inherent existence — another thread of the synthesis (see [the synthesis of traditions](../index.md#a-synthesis)).
 
 ## Verse 1.12.10 { #1-12-10 }
 
@@ -279,7 +279,7 @@
 
 - **कोऽहम् — "Who am I?"** The central question of all inquiry, here on Rāma's lips in the first speech. Later teachers (such as Ramaṇa Maharṣi) would make this question the whole path.
 - **Aitareya Upaniṣad 3.1.1:** <span class="parallel">कोऽयमात्मेति वयमुपास्महे</span> — *who is this Self, that we may worship it?*
-- **Your second reason, at its heart.** Of all the questions worth asking, this is the first. Rāma asks it at fifteen.
+- **The theme of [questions worth asking](../index.md#questions-worth-asking), at its heart.** Of all the questions worth asking, this is the first. Rāma asks it at fifteen.
 
 ## Verse 1.12.16 { #1-12-16 }
 
@@ -477,7 +477,7 @@
 
 **Pointers for Reflection:**
 
-- **A hard saying, from a young man in crisis.** The text will not leave Rāma in this view. In the end he will live a full householder's life (your fourth reason). Here we see the extreme from which he will be brought back.
+- **A hard saying, from a young man in crisis.** The text will not leave Rāma in this view. In the end he will live a full householder's life (see [wisdom lived, not renounced](../index.md#wisdom-lived)). Here we see the extreme from which he will be brought back.
 
 ## Verse 1.12.27 { #1-12-27 }
 

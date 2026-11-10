@@ -62,7 +62,7 @@
 
 **Pointers for Reflection:**
 
-- **The turning point of the sarga.** Life is not bad in itself. For the knower, life is सुख, happiness. This is the whole hope of the Yoga Vasiṣṭha: not escape from life, but a transformed life — your fourth reason.
+- **The turning point of the sarga.** Life is not bad in itself. For the knower, life is सुख, happiness. This is the whole hope of the Yoga Vasiṣṭha: not escape from life, but a transformed life — [wisdom lived, not renounced](../index.md#wisdom-lived).
 - **विज्ञातविज्ञेय.** Compare 1.1.50 (ज्ञातज्ञेय) and 1.3.15. The one who knows the knowable lives life as joy.
 - **Gītā 7.2:** <span class="parallel">यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते</span> — *knowing which, nothing more remains to be known.*
 

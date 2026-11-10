@@ -29,7 +29,7 @@
 
 - **देह, शरीर, काय — the body.** After wealth, life, ego, mind and craving, Rāma now turns to the body.
 - **Misplaced aversion again.** As with 1.10.46, Rāma's revulsion is real and honest, but not yet wisdom. The Gītā does not ask us to hate the body but to know we are not it (2.18, below at 1.18.53). Rāma's disgust is a stage on the way: the body loses its glamour before it is seen rightly.
-- **A traditional theme.** Meditation on the body's impurity (अशुचि-भावना in Jainism, असुभ in Buddhism) is a recognised practice for weakening attachment. Here the Yoga Vasiṣṭha draws on that shared Indian tradition (your third reason).
+- **A traditional theme.** Meditation on the body's impurity (अशुचि-भावना in Jainism, असुभ in Buddhism) is a recognised practice for weakening attachment. Here the Yoga Vasiṣṭha draws on that shared Indian tradition (see [the synthesis of traditions](../index.md#a-synthesis)).
 
 ## Verse 1.18.2 { #1-18-2 }
 

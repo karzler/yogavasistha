@@ -205,7 +205,7 @@
 
 **Pointers for Reflection:**
 
-- **गृहस्थ life in miniature.** Before any renunciation, the text shows a full and good household life. When Śrī Rāma later returns to such a life as a free person (your fourth reason), it will be the same life, seen differently.
+- **गृहस्थ life in miniature.** Before any renunciation, the text shows a full and good household life. When Śrī Rāma later returns to such a life as a free person (see [wisdom lived, not renounced](../index.md#wisdom-lived)), it will be the same life, seen differently.
 
 ## Verse 1.4.12 { #1-4-12 }
 

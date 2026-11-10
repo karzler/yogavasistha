@@ -118,7 +118,7 @@
 
 **Pointers for Reflection:**
 
-- **Your fourth reason, promised in advance.** The sage does not promise that Rāma will become a hermit. He promises that Rāma will return to his ordinary duties (प्रकृत व्यवहार) — with a full mind. This answers the servant's question exactly (1.10.50).
+- **The theme of [wisdom lived, not renounced](../index.md#wisdom-lived), promised in advance.** The sage does not promise that Rāma will become a hermit. He promises that Rāma will return to his ordinary duties (प्रकृत व्यवहार) — with a full mind. This answers the servant's question exactly (1.10.50).
 - **परिपूर्णमनाः — a complete mind.** Not an empty mind (शून्यमनाः, 1.10.24), but a full one. The difference between despair and freedom.
 
 ## Verse 1.11.7 { #1-11-7 }
