@@ -24,3 +24,4 @@
 - [Sarga 16 — On the mind (27 verses)](sarga-016.md)
 - [Sarga 17 — On craving (52 verses)](sarga-017.md)
 - [Sarga 18 — On the body (62 verses)](sarga-018.md)
+- [Sarga 19 — On childhood (31 verses)](sarga-019.md)
