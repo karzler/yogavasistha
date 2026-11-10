@@ -18,3 +18,5 @@
 - [Sarga 11 — The royal knowledge, and the four gatekeepers (73 verses)](sarga-011.md)
 - [Sarga 12 — Inquiry as the cure for saṃsāra (22 verses)](sarga-012.md)
 - [Sarga 13 — The knower, and the first gatekeeper: calm (84 verses)](sarga-013.md)
+- [Sarga 14 — The second gatekeeper: inquiry (54 verses)](sarga-014.md)
+- [Sarga 15 — The third gatekeeper: contentment (20 verses)](sarga-015.md)
