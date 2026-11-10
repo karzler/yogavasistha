@@ -20,6 +20,22 @@ Four features set it apart. The commentary on each verse returns to them often.
 
 4. <a id="wisdom-lived"></a>**Wisdom lived, not renounced.** Śrī Rāma does not take up renunciation. Having awakened, he goes on to live a full householder life, showing that liberation is possible in the midst of duty and the world.
 
+## The heart of the teaching
+
+**Who it is for.** The text names its own reader at the start: one who is convinced *"I am bound; may I be free"* — neither wholly ignorant nor yet a knower ([1.2.2](1-vairagya/sarga-002.md#1-2-2)). Its starting point is the questions every thoughtful person meets sooner or later: What is this life? Who am I? What should I do? Śrī Rāma's despair in the first book is the "dark night" that makes such a person ready to hear the answer.
+
+**The world as appearance.** The world is called भ्रम, an appearance, like the blue of the sky: we clearly see the colour, yet there is nothing blue up there ([1.3.2](1-vairagya/sarga-003.md#1-3-2)). Such an appearance is not removed by endlessly examining it, but by no longer taking it as real — "forgetting it", as that verse says.
+
+**Form and substance.** A favourite image of the text is gold and the bracelet. "Bracelet" is only a name given to a shape; what is really there is gold. In the same way, every object, event and person is a name and form, and what is really there is consciousness.
+
+**Three steps.** Read in this light, the teaching moves in three steps: see that the world is an appearance; see that its substance is the mind; and see that the substance of the mind is pure consciousness. This is why the text spends so long on the mind (see [Sarga 16](1-vairagya/sarga-016.md)): the mind is the doorway between the world and its source.
+
+**Diversity remains; separateness goes.** Awakening does not erase the variety of the world. Consciousness is infinite and expresses itself in countless forms, like figures that lie uncarved within a single block of stone. What falls away is the sense of things as separate, opposed objects.
+
+**Free, and fully alive.** The one who awakens does not withdraw. Vasiṣṭha's counsel is to live in the world completely free of sorrow, acting, feeling and responding naturally, but no longer bound. This is the meaning of a जीवन्मुक्त, one liberated while living — and it is the life Śrī Rāma goes on to lead.
+
+These points draw on Swami Venkatesananda's [*Introduction to the Yoga Vasiṣṭha*](https://www.dlshq.org/discourse/introduction-to-the-yoga-vasistha/) (Divine Life Society), which is well worth reading in full.
+
 ## How the traditions meet { #how-the-traditions-meet }
 
 The Yoga Vasiṣṭha does not argue against other schools so much as gather them in. Its view is that different traditions have named the one reality in different ways. Some concrete examples:
