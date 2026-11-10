@@ -15,8 +15,10 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
+| <span class="sa">काल</span> (kāla) | Time | [1.22.23](1-vairagya/sarga-022.md#1-22-23) |
 | <span class="sa">कल्पना</span> (kalpanā) | mental construction, imagination | [1.10.38](1-vairagya/sarga-010.md#1-10-38) |
 | <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
+| <span class="sa">जरा</span> (jarā) | old age | [1.22.1](1-vairagya/sarga-022.md#1-22-1) |
 | <span class="sa">जीवन्मुक्त</span> (jīvanmukta) | one liberated while living | [1.1.52](1-vairagya/sarga-001.md#1-1-52) |
 | <span class="sa">ज्ञ</span> (jña) | the Knower; pure knowing, prior to knower and known | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">ज्ञान</span> (jñāna) | knowledge | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
