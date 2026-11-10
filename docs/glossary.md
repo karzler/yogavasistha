@@ -7,6 +7,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">अकर्म</span> (akarma) | inaction, abstaining from action | [1.1.11](1-vairagya/sarga-001.md#1-1-11) |
 | <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
+| <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
@@ -18,6 +19,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">त्याग</span> (tyāga) | renunciation | [1.1.15](1-vairagya/sarga-001.md#1-1-15) |
 | <span class="sa">त्रिपुटी</span> (tripuṭī) | triad of subject, process and object (knower–knowing–known) | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
+| <span class="sa">नियति</span> (niyati) | destiny, fate | [1.8.30](1-vairagya/sarga-008.md#1-8-30) |
 | <span class="sa">निर्वाण</span> (nirvāṇa) | final peace, extinction of bondage | [1.3.6](1-vairagya/sarga-003.md#1-3-6) |
 | <span class="sa">परमं पदम्</span> (paramaṃ padam) | the supreme state | [1.1.7](1-vairagya/sarga-001.md#1-1-7) |
 | <span class="sa">पुण्य</span> (puṇya) | merit earned by good action | [1.1.36](1-vairagya/sarga-001.md#1-1-36) |

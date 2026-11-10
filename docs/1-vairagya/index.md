@@ -13,3 +13,4 @@
 - [Sarga 5 — Śrī Rāma's dejection (15 verses)](sarga-005.md)
 - [Sarga 6 — The arrival of Viśvāmitra (55 verses)](sarga-006.md)
 - [Sarga 7 — Viśvāmitra's request (28 verses)](sarga-007.md)
+- [Sarga 8 — Daśaratha's refusal (38 verses)](sarga-008.md)
