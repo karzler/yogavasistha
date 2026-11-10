@@ -13,6 +13,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
+| <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">कल्पना</span> (kalpanā) | mental construction, imagination | [1.10.38](1-vairagya/sarga-010.md#1-10-38) |
 | <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
@@ -40,6 +41,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
+| <span class="sa">यौवन</span> (yauvana) | youth | [1.20.1](1-vairagya/sarga-020.md#1-20-1) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
 | <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
