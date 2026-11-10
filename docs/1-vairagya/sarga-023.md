@@ -148,6 +148,7 @@
 
 **Pointers for Reflection:**
 
+- **Garuḍa and the snakes.** Garuḍa, Viṣṇu's eagle, is the natural enemy of serpents. The beautiful and the mighty are as helpless before Time as snakes before Garuḍa.
 
 
 ## Verse 1.23.9 { #1-23-9 }
