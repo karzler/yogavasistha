@@ -2,7 +2,9 @@
 
 <p class="shloka">वैराग्यप्रकरणम्</p>
 
-**Dispassion.** The young Rama returns from pilgrimage and falls into deep despair at the nature of life — its suffering, its brevity, its emptiness. His questions open the whole teaching.
+**Dispassion.** The young Śrī Rāma returns from pilgrimage and falls into deep despair at the nature of life — its suffering, its brevity, its emptiness. In a long speech before his father's court he examines wealth, life, ego, mind, craving, the body, the stages of life and Time, and asks how one can live free in the world. His questions open the whole teaching; the sages promise an answer.
+
+*All 33 sargas (1146 verses) are now available.*
 
 ## Sargas
 

@@ -5,7 +5,9 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | Term | Rendering | First appears |
 | --- | --- | --- |
 | <span class="sa">अकर्म</span> (akarma) | inaction, abstaining from action | [1.1.11](1-vairagya/sarga-001.md#1-1-11) |
+| <span class="sa">अज्ञता</span> (ajñatā) | ignorance (of one's own nature) | [1.29.16](1-vairagya/sarga-029.md#1-29-16) |
 | <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
+| <span class="sa">अन्तःकरण</span> (antaḥkaraṇa) | the inner instrument: mind, intellect, ego and memory | [1.30.4](1-vairagya/sarga-030.md#1-30-4) |
 | <span class="sa">अभिमान</span> (abhimāna) | pride, ego-identification | [1.10.25](1-vairagya/sarga-010.md#1-10-25) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
 | <span class="sa">अहंकार</span> (ahaṅkāra) | the ego, the sense of "I" | [1.15.1](1-vairagya/sarga-015.md#1-15-1) |
@@ -14,12 +16,16 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">आस्था</span> (āsthā) | trust, reliance | [1.26.1](1-vairagya/sarga-026.md#1-26-1) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
+| <span class="sa">उपाधि</span> (upādhi) | limiting condition, an adjunct that makes the limitless seem limited | [1.30.11](1-vairagya/sarga-030.md#1-30-11) |
 | <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
+| <span class="sa">कृतान्त</span> (kṛtānta) | Death, "the one who makes an end" | [1.25.5](1-vairagya/sarga-025.md#1-25-5) |
+| <span class="sa">काम</span> (kāma) | desire, lust | [1.20.3](1-vairagya/sarga-020.md#1-20-3) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">काल</span> (kāla) | Time | [1.22.23](1-vairagya/sarga-022.md#1-22-23) |
 | <span class="sa">कल्पना</span> (kalpanā) | mental construction, imagination | [1.10.38](1-vairagya/sarga-010.md#1-10-38) |
 | <span class="sa">क्षण</span> (kṣaṇa) | a moment | [1.28.25](1-vairagya/sarga-028.md#1-28-25) |
+| <span class="sa">गुण</span> (guṇa) | quality; the three qualities of nature — sattva (clarity), rajas (restlessness), tamas (dullness) | [1.26.16](1-vairagya/sarga-026.md#1-26-16) |
 | <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
 | <span class="sa">जरा</span> (jarā) | old age | [1.22.1](1-vairagya/sarga-022.md#1-22-1) |
 | <span class="sa">जीवन्मुक्त</span> (jīvanmukta) | one liberated while living | [1.1.52](1-vairagya/sarga-001.md#1-1-52) |
@@ -39,6 +45,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">पुण्य</span> (puṇya) | merit earned by good action | [1.1.36](1-vairagya/sarga-001.md#1-1-36) |
 | <span class="sa">पुरुषार्थ</span> (puruṣārtha) | the aims of human life: pleasure, wealth, duty and liberation | [1.27.15](1-vairagya/sarga-027.md#1-27-15) |
 | <span class="sa">पूर्णता</span> (pūrṇatā) | fullness | [1.30.26](1-vairagya/sarga-030.md#1-30-26) |
+| <span class="sa">पौरुष</span> (pauruṣa) | human effort, self-effort | [1.27.33](1-vairagya/sarga-027.md#1-27-33) |
 | <span class="sa">प्रतिज्ञा</span> (pratijñā) | a solemn promise, vow | [1.9.2](1-vairagya/sarga-009.md#1-9-2) |
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
@@ -47,22 +54,27 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">भावना</span> (bhāvanā) | mental imagining, the way the mind pictures things | [1.26.22](1-vairagya/sarga-026.md#1-26-22) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
 | <span class="sa">मनस्</span> (manas) | the mind | [1.16.6](1-vairagya/sarga-016.md#1-16-6) |
+| <span class="sa">मनोनाश</span> (manonāśa) | the dissolving of the mind as a separate, restless entity | [1.14.11](1-vairagya/sarga-014.md#1-14-11) |
 | <span class="sa">मर्यादा</span> (maryādā) | bounds of right conduct | [1.9.12](1-vairagya/sarga-009.md#1-9-12) |
 | <span class="sa">माया</span> (māyā) | illusion, the power that makes the unreal appear real | [1.15.5](1-vairagya/sarga-015.md#1-15-5) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
 | <span class="sa">यौवन</span> (yauvana) | youth | [1.20.1](1-vairagya/sarga-020.md#1-20-1) |
+| <span class="sa">रागद्वेष</span> (rāga-dveṣa) | attraction and aversion | [1.20.37](1-vairagya/sarga-020.md#1-20-37) |
 | <span class="sa">लीला</span> (līlā) | play, the divine sport of creation | [1.25.32](1-vairagya/sarga-025.md#1-25-32) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
+| <span class="sa">विकल्प</span> (vikalpa) | mental fancy, doubt, imagined alternative | [1.30.27](1-vairagya/sarga-030.md#1-30-27) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
 | <span class="sa">विमर्श</span> (vimarśa) | reflection; the self-aware power of consciousness | [1.33.36](1-vairagya/sarga-033.md#1-33-36) |
 | <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
 | <span class="sa">विश्रान्ति</span> (viśrānti) | rest; liberation as complete repose | [1.11.4](1-vairagya/sarga-011.md#1-11-4) |
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
+| <span class="sa">वृत्ति</span> (vṛtti) | a movement or modification of the mind | [1.16.5](1-vairagya/sarga-016.md#1-16-5) |
 | <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
 | <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
+| <span class="sa">शम</span> (śama) | calm, self-restraint | [1.21.10](1-vairagya/sarga-021.md#1-21-10) |
 | <span class="sa">शान्ति</span> (śānti) | peace | [1.29.23](1-vairagya/sarga-029.md#1-29-23) |
 | <span class="sa">श्रेयस्</span> (śreyas) | the highest good (as opposed to प्रेयस्, the merely pleasant) | [1.7.14](1-vairagya/sarga-007.md#1-7-14) |
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
@@ -70,7 +82,9 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">सत्यात्मन्</span> (satyātman) | the Reality that is the Self | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">सत्सङ्ग</span> (satsaṅga) | the company of the wise | [1.33.8](1-vairagya/sarga-033.md#1-33-8) |
 | <span class="sa">सन्तोष</span> (santoṣa) | contentment | [1.27.5](1-vairagya/sarga-027.md#1-27-5) |
+| <span class="sa">सार</span> (sāra) | the essence | [1.33.43](1-vairagya/sarga-033.md#1-33-43) |
 | <span class="sa">सिद्धि</span> (siddhi) | perfection, fulfilment | [1.1.13](1-vairagya/sarga-001.md#1-1-13) |
 | <span class="sa">सेतु</span> (setu) | bridge | [1.2.10](1-vairagya/sarga-002.md#1-2-10) |
+| <span class="sa">स्पन्द</span> (spanda) | vibration, pulsation (of consciousness) | [1.25.2](1-vairagya/sarga-025.md#1-25-2) |
 | <span class="sa">स्वधर्म</span> (svadharma) | one's own dharma, the duty proper to one's nature | [1.9.9](1-vairagya/sarga-009.md#1-9-9) |
 | <span class="sa">स्वर्ग</span> (svarga) | heaven | [1.1.31](1-vairagya/sarga-001.md#1-1-31) |
