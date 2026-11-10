@@ -11,3 +11,4 @@
 - [Sarga 3 — The essence of the teaching, and Śrī Rāma's pilgrimage (42 verses)](sarga-003.md)
 - [Sarga 4 — Homecoming and daily life (12 verses)](sarga-004.md)
 - [Sarga 5 — Śrī Rāma's dejection (15 verses)](sarga-005.md)
+- [Sarga 6 — The arrival of Viśvāmitra (55 verses)](sarga-006.md)
