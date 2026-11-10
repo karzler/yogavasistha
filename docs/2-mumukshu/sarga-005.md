@@ -132,7 +132,7 @@
 
 **Pointers for Reflection:**
 
-- **Another pair.** Not only past and present, but my effort and another's — in any contest. The law is the same: strength decides. This is the plain logic of the world, which Vasiṣṭha uses to rouse Rāma.
+- **Another pair.** Not only past and present, but one's own effort and another's — in any contest. The law is the same: strength decides. This is the plain logic of the world, which Vasiṣṭha uses to rouse Rāma.
 
 ## Verse 2.5.8 { #2-5-8 }
 
@@ -186,7 +186,7 @@
 **Pointers for Reflection:**
 
 - **The real enemy is a thought.** Not the past itself, but the belief that the past controls me. That belief paralyses. Vasiṣṭha tells Rāma to trample it.
-- **What is directly seen.** I can see myself acting now. That is certain. The supposed control of the past is an inference. Direct experience outranks inference (2.5.19).
+- **What is directly seen.** One can see oneself acting now. That is certain. The supposed control of the past is an inference. Direct experience outranks inference (2.5.19).
 
 ## Verse 2.5.11 { #2-5-11 }
 
@@ -527,7 +527,7 @@
 यदि जगति आलस्यं न भवेत् (if there were no laziness in the world), कः अनर्थः न स्यात् (what misfortune would not be removed)? कः बहु-धनकः बहु-श्रुतः वा न स्यात् (who would not be rich or learned)? आलस्यात् (because of laziness) इयं स-सागर-अन्ता अवनिः (this earth bounded by the sea) नर-पशुभिः निर्धनैः च संपूर्णा (is full of human beasts and the poor).
 </p>
 
-**Translation:** "If there were no laziness in the world, what misfortune would remain? Who would not be wealthy or learned? It is through laziness that this earth, to the ends of the sea, is filled with brutish people and the destitute."
+**Translation:** "Take sloth out of the world, and what trouble would be left? Who would not grow rich, or deeply learned? It is because of sloth that the whole earth, out to its oceans, swarms with the beastly and the penniless."
 
 **Pointers for Reflection:**
 
@@ -564,7 +564,7 @@
 अथ मुनौ इति उक्तवति (when the sage had spoken thus) दिवसः जगाम (the day passed); इनः (the sun) सायंतनाय विधये अस्तं जगाम (set for the evening rites); सभा कृत-नमस्करणा स्नातुं जगाम (the assembly bowed and went to bathe); श्यामा-क्षये (at the end of the night) रवि-करेण सह आजगाम (it returned with the sun's rays).
 </p>
 
-**Translation:** Śrī Vālmīki said: When the sage had spoken thus, the day ended and the sun went down for the evening rites. The assembly bowed and left to bathe, and at the end of night returned with the first rays of the sun.
+**Translation:** Śrī Vālmīki said: The sage fell silent, and the day was done; the sun sank for the evening rites. The assembly made its bows and went to bathe, and as the dark gave way, it came back with the first rays of the sun.
 
 **Pointers for Reflection:**
 

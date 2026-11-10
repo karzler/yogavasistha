@@ -73,7 +73,7 @@
 अस्मिन् जगति (in this world) आपत्-सरोजिन्याः हिमम् (the frost for the lotus-pond of calamity) मोह-नीहार-मारुतः (the wind against the mist of delusion) एकः साधुः साधु-समागमः जयति (good company alone is victorious).
 </p>
 
-**Translation:** "In this world the company of the good alone triumphs — frost to the lotus-pond of calamity, a wind to the mist of delusion."
+**Translation:** "Alone in all the world, the fellowship of the good wins out: it is the frost that withers the lotus-pond of misfortune, the breeze that clears the haze of delusion."
 
 **Pointers for Reflection:**
 
@@ -209,7 +209,7 @@
 विश्रान्त-मनसः धन्याः (blessed are those of rested mind) साधवः हि (the good) परेण प्रयत्नेन (with the greatest effort) प्रेक्षणीयाः (should be sought out), दरिद्रेण मणयः इव (as jewels by a poor man).
 </p>
 
-**Translation:** "Blessed are those whose minds are at rest. The good should be sought with the greatest effort, as a poor man searches for jewels."
+**Translation:** "Happy are they whose minds have come to rest. Search out such good people with all your strength, the way a pauper hunts for gems."
 
 **Pointers for Reflection:**
 
@@ -311,7 +311,7 @@
 संतोषः (contentment) साधु-सङ्गः च (good company) विचारः (inquiry) अथ शमः तथा (and calm) — एते एव (these alone) नृणां भव-अम्भोधौ तरणे उपायाः (are the means for people to cross the ocean of becoming).
 </p>
 
-**Translation:** "Contentment, good company, inquiry and calm — these alone are the means for people to cross the ocean of becoming."
+**Translation:** "Contentment, the fellowship of the good, inquiry and calm: no other means carry people over the sea of becoming."
 
 **Pointers for Reflection:**
 
@@ -345,7 +345,7 @@
 एते चत्वारः विमलाः उपायाः (these four pure means) भव-भेदने (for breaking through becoming); यैः ते अभ्यस्ताः (those who have practised them) ते मोह-वारि-भव-अर्णवात् उत्तीर्णाः (have crossed the ocean of becoming, whose water is delusion).
 </p>
 
-**Translation:** "These four are the pure means of breaking through becoming. Those who have practised them have crossed the ocean of becoming, whose waters are delusion."
+**Translation:** "These four are the clean tools that cut through becoming. Whoever has put them into practice has come out on the far side of becoming's sea, whose water is delusion."
 
 **Pointers for Reflection:**
 
@@ -516,7 +516,7 @@
 महा-बाहो (O mighty-armed one), देवः भव (be a god) अथ यक्षः वा (or a yakṣa) पुरुषः (a man) पादपः अथ वा (or even a tree) — तावत् (until then) तव इह कश्चन उपायः न अस्ति (there is no way for you here).
 </p>
 
-**Translation:** "Mighty-armed one, whether you are a god, a yakṣa, a man or even a tree, until then there is no way forward for you."
+**Translation:** "Be you god or yakṣa, human or tree, mighty-armed one: until that happens, no road lies open to you."
 
 **Pointers for Reflection:**
 

@@ -42,7 +42,7 @@
 भगवन् (O blessed one), [त्वं] विस्तीर्णां मोक्ष-संहिताम् (the extensive compendium on liberation) कथयिष्यसि (will tell); तावत् (first) क्षणं जातं (just arisen) इमं मे संशयं निवारय (remove this doubt of mine).
 </p>
 
-**Translation:** Śrī Rāma said: "Blessed one, you will tell me the full treatise on liberation. But first, clear away a doubt that has just arisen in me."
+**Translation:** Śrī Rāma said: "Blessed one, you are going to unfold the whole body of teaching on liberation; but before that, please settle a doubt that has only now come to me."
 
 **Pointers for Reflection:**
 

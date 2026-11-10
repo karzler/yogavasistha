@@ -3,6 +3,7 @@ site_description: The Yoga Vasiṣṭha verse by verse — Sanskrit, word-by-wor
 site_url: https://yogavasistha.bhaktology.com/
 repo_url: https://github.com/karzler/yogavasistha
 repo_name: karzler/yogavasistha
+edit_uri: edit/main/docs/
 copyright: Translation and commentary licensed under CC BY-SA 4.0
 
 theme:

@@ -23,7 +23,7 @@
 व्याधि-विनिर्मुक्तम् (free from disease) अल्प-आधि-वेदनं (with little mental pain) देहं प्राप्य (having obtained a body) आत्मनि तथा समादध्यात् (one should so settle [the mind] in the Self) यथा भूयः न जायते (that one is not born again).
 </p>
 
-**Translation:** Śrī Vasiṣṭha said: "Having gained a body free from disease and with little mental pain, fix your mind on the Self in such a way that you are not born again."
+**Translation:** Śrī Vasiṣṭha said: "Now that you have a body that is healthy and a mind little troubled, settle yourself in the Self so firmly that birth does not come round again."
 
 **Pointers for Reflection:**
 
@@ -75,7 +75,7 @@
 संवित्-स्पन्दः (stirring of awareness) मनः-स्पन्दः (stirring of mind) ऐन्द्रिय-स्पन्दः एव च (and stirring of the senses) — एतानि पुरुषार्थस्य रूपाणि (these are the forms of effort); एभ्यः फल-उदयः (from these the fruit arises).
 </p>
 
-**Translation:** "The stirring of awareness, the stirring of the mind and the stirring of the senses — these are the forms of effort, and from them results arise."
+**Translation:** "Effort takes three forms: a movement in awareness, a movement in the mind, a movement in the senses. Out of these, results come."
 
 **Pointers for Reflection:**
 
@@ -434,7 +434,7 @@
 देशात् देश-अन्तर-प्राप्तिः (getting from one place to another) हस्तस्य द्रव्य-धारणम् (the hand holding an object) तथा अङ्गानां व्यापारः च (and the working of the limbs) पौरुषेण (are by effort) न दैवतः (not by fate).
 </p>
 
-**Translation:** "Getting from one place to another, holding a thing in the hand, every movement of the limbs — these happen by effort, not by fate."
+**Translation:** "Going from one place to the next, gripping a thing in one's hand, every action of the limbs — all of it is the work of effort, none of it the work of fate."
 
 **Pointers for Reflection:**
 

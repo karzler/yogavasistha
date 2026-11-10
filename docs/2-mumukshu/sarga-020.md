@@ -260,7 +260,7 @@
 विदित-वेद्यम् इदं मुनेः मनः हि (this mind of the sage who has known what is to be known) विवशम् एव (of itself) परं पदं याति हि (goes to the supreme state); यत् अखण्डितम् उत्तमम् अवबुद्धम् (what has been understood as the unbroken highest) तत् (that) अवबोध-वशात् न जहाति हि (it never leaves, by the power of that understanding).
 </p>
 
-**Translation:** "The mind of the sage who has known what is to be known goes of itself to the supreme state; and what it has understood as the unbroken highest, it never leaves again, by the power of that understanding."
+**Translation:** "Once a sage has come to know what is to be known, his mind finds its own way to the highest state; and what it has grasped as the whole, unbroken supreme, it never lets go of again, held there by that very understanding."
 
 **Pointers for Reflection:**
 

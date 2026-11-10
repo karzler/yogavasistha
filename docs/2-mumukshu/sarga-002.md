@@ -97,7 +97,7 @@
 
 **Pointers for Reflection:**
 
-- **A working definition of mokṣa.** Not a distant event after death, but a direction one can measure now: are my tendencies thinning or hardening? This verse is one of the most practical in the whole text.
+- **A working definition of mokṣa.** Not a distant event after death, but a direction one can measure now: are one's tendencies thinning or hardening? This verse is one of the most practical in the whole text.
 - **The Buddha** gives the same measure: *rāgakkhayo dosakkhayo mohakkhayo — idaṃ vuccati nibbānaṃ* — *the wearing away of greed, hatred and delusion — this is called nibbāna* (Saṃyutta Nikāya 38.1).
 
 ## Verse 2.2.6 { #2-2-6 }
@@ -411,7 +411,7 @@
 गाधि-पुत्रेण इति उक्ते (when Gādhi's son had spoken thus) व्यास-नारद-पूर्वकाः ते मुनयः (those sages, Vyāsa, Nārada and the rest) तम् एव अर्थं (that very point) साधु साधु इति अपूजयन् (honoured, saying "well said, well said").
 </p>
 
-**Translation:** Śrī Vālmīki said: When the son of Gādhi had spoken, the sages led by Vyāsa and Nārada honoured his words, crying, "Well said! Well said!"
+**Translation:** Śrī Vālmīki said: When Gādhi's son had finished, the sages — Vyāsa, Nārada and the rest — welcomed what he had said with cries of "Well spoken! Well spoken!"
 
 **Pointers for Reflection:**
 

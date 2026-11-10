@@ -354,7 +354,7 @@
 निर्मले हृत्-आकाशे (in the clear sky of the heart) शम-आलोकिनि विवेक-अर्के (when the sun of discernment, whose light is calm, [shines]) अनर्थ-सार्थ-कर्तारः केतवः (the comets that bring hosts of misfortune) न उद्यन्ति किल (do not rise).
 </p>
 
-**Translation:** "When the sun of discernment, whose light is calm, shines in the clear sky of the heart, the comets that bring hosts of misfortune do not rise."
+**Translation:** "Once discernment rises like a sun in the clear sky of the heart, shedding the light of calm, the ill-omened comets that drag misfortunes behind them no longer appear."
 
 **Pointers for Reflection:**
 
@@ -422,7 +422,7 @@
 ज्ञः तु (but the knower) विषय-आसङ्ग-रूपिणि अवटे (into the pit that is attachment to objects) न पतति (does not fall); कः किल ज्ञात-सरणिः (who that knows the path) श्वभ्रं समनुधावति (would run into a chasm)?
 </p>
 
-**Translation:** "The knower does not fall into the pit of attachment to objects; who, knowing the road, would run into a chasm?"
+**Translation:** "The one who knows does not tumble into the pit that is clinging to sense-objects. Who that has learned the road goes running towards a ravine?"
 
 **Pointers for Reflection:**
 
@@ -473,7 +473,7 @@
 मोक्ष-उपाय-अवबोधेन (through understanding the means to liberation) शुद्ध-अन्तः-करणं जनम् (a person whose inner being is purified) भोग-ओघः (a flood of enjoyments) न खेदयति (does not trouble) न च आनन्दयति क्वचित् (nor ever elates).
 </p>
 
-**Translation:** "A flood of pleasures neither troubles nor elates one whose inner being has been purified by understanding the means to liberation."
+**Translation:** "Once a person's inner being has been made clean by grasping the means to liberation, a whole tide of pleasures neither wearies nor excites him."
 
 **Pointers for Reflection:**
 

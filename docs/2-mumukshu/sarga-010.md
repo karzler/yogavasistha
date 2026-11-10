@@ -125,7 +125,7 @@
 राम (O Rāma), मया वक्ष्यमाणं (to be told by me) सुख-दुःख-क्षय-करं (bringing an end to pleasure and pain) महा-आनन्द-एक-कारणम् (the sole cause of great bliss) इमं मोक्ष-उपायं शृणु (hear this means to liberation).
 </p>
 
-**Translation:** "— Rāma, listen to the means to liberation that I shall tell, which ends both pleasure and pain and is the one cause of great bliss."
+**Translation:** "— so listen, Rāma, to the way to freedom I shall now set out: it brings both pleasure and pain to an end, and it alone gives rise to great joy."
 
 **Pointers for Reflection:**
 
@@ -300,7 +300,7 @@
 सकल-लोक-कृत् ईशः (the Lord, maker of all worlds) एतस्य जनस्य तत् दुःखं दृष्ट्वा (seeing the suffering of these people) करुणाम् जगाम (was moved to compassion), पुत्र-दुःखात् पिता यथा (as a father at his son's pain).
 </p>
 
-**Translation:** "Seeing the suffering of these people, the Lord, maker of all the worlds, was moved to compassion, as a father is by his son's pain."
+**Translation:** "The Lord who made all the worlds looked on the misery of these people, and pity rose in him as it rises in a father who sees his child in pain."
 
 **Pointers for Reflection:**
 
@@ -505,7 +505,7 @@
 पुत्र (son), वानर-चञ्चलं ते चेतः (your mind, restless as a monkey) मुहूर्त-मात्रम् (for a moment) अज्ञानम् अभ्याविशतु (let ignorance enter), शशः शश-धरं यथा (as the hare [enters] the moon).
 </p>
 
-**Translation:** "'Son, for a moment let ignorance enter your mind, which is restless as a monkey — as the hare-mark enters the moon.'"
+**Translation:** "'For just a moment, son, let not-knowing settle on that monkey-quick mind of yours, as the hare's shadow settles on the moon.'"
 
 **Pointers for Reflection:**
 
@@ -575,7 +575,7 @@
 अथ (then) सः तातः माम् अभ्यधात् (my father said to me): "पुत्र, किं दुःखवान् असि (son, why are you sad)? दुःख-उपघातं मां पृच्छ (ask me how to end sorrow); नित्यं सुखी भविष्यसि (you will be happy forever)."
 </p>
 
-**Translation:** "Then my father said to me, 'Son, why are you sad? Ask me how sorrow is ended, and you will be happy for ever.'"
+**Translation:** "Then my father spoke to me: 'Why so downcast, son? Ask me what puts an end to sorrow, and gladness will never leave you.'"
 
 **Pointers for Reflection:**
 
@@ -643,7 +643,7 @@
 ततः (then) जगत्-कर्ता वक्ता सकल-कारणम् सः (he, maker of the world, speaker, cause of all) विदित-वेद्यं (who had known what is to be known) निजां प्रकृतिम् आस्थितम् (established in my own nature) माम् उवाच (said to me):
 </p>
 
-**Translation:** "Then he — maker of the world, the speaker, the cause of all — said to me, who now knew what is to be known and was established in my own nature:"
+**Translation:** "Then he who makes the world and speaks the teaching, the cause of everything, addressed me — for I now understood all there was to understand and stood in my own nature:"
 
 **Pointers for Reflection:**
 
@@ -749,7 +749,7 @@
 राघव (O Rāghava), इति (thus) तेन कमल-योनिना पित्रा नियुक्तः अहं (appointed by that father, the lotus-born) इह तिष्ठामि (I remain here) यावत् भूत-परम्परा (as long as the succession of beings lasts).
 </p>
 
-**Translation:** "Rāghava, so appointed by my father, the lotus-born, I remain here for as long as the succession of beings lasts."
+**Translation:** "Rāghava, that is the charge the lotus-born gave me, my father; and so I stay on here, as long as one generation of beings follows another."
 
 **Pointers for Reflection:**
 

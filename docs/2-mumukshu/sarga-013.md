@@ -75,7 +75,7 @@
 [ते] आयान्ति च न च आयान्ति (they come and do not come) प्रयान्ति च न यान्ति च (go and do not go) कुर्वन्ति अपि न कुर्वन्ति (act and do not act) न वदन्ति वदन्ति च (do not speak and speak).
 </p>
 
-**Translation:** "They come and do not come, go and do not go, act and do not act, speak and do not speak."
+**Translation:** "They arrive, and do not arrive; they set out, and do not leave; they act, and do not act; they are silent, and they speak."
 
 **Pointers for Reflection:**
 
@@ -284,7 +284,7 @@
 राम (O Rāma), चाण्डाल-आगार-वीथिषु (in the streets of outcastes' dwellings) शराव-हस्तस्य (with a begging-bowl in hand) भिक्षा-अर्थम् अटनं वरम् (wandering for alms is better), न मौर्ख्य-हत-जीवितम् (than a life ruined by foolishness).
 </p>
 
-**Translation:** "Rāma, it is better to wander begging, bowl in hand, through the lanes of the lowest dwellings than to live a life ruined by foolishness."
+**Translation:** "Rāma, better to go from door to door with a begging bowl through the lanes where outcastes live than to drag out a life wrecked by foolishness."
 
 **Pointers for Reflection:**
 
@@ -403,7 +403,7 @@
 यत् अनन्तम् अनायासं तत् पदं (that state which is endless and effortless) विजानता पुरुषेण (by a person who knows) सार-सिद्धये (to attain the essence) प्रयत्नेन साधनीयम् (should be pursued with effort).
 </p>
 
-**Translation:** "That state, which is endless and effortless, should be pursued with effort by the one who understands, to reach the essence."
+**Translation:** "That endless state, which asks for no exertion, is the very thing a person of understanding should work hard to reach, for the sake of what is essential."
 
 **Pointers for Reflection:**
 
@@ -437,7 +437,7 @@
 ये दुष्ट-मनसः (those of corrupt mind who) संभोग-अशन-मात्रेण (by mere enjoyment and eating) राज्य-आदिषु सुखेषु संतुष्टाः (are content with pleasures like kingship) — तान् अन्ध-दर्दुरान् विद्धि (know them to be blind frogs).
 </p>
 
-**Translation:** "Those of corrupt mind who are content with the pleasures of kingship and the like, with mere enjoyment and food — know them to be blind frogs."
+**Translation:** "Those whose minds are spoiled and who settle for the comforts of a throne and the like — no more than enjoying and eating — are blind frogs, you should know."
 
 **Pointers for Reflection:**
 
@@ -624,7 +624,7 @@
 अनपायि (unfailing) निराशङ्कं (free of fear) विगत-विभ्रमं (free of confusion) स्वास्थ्यं (well-being) भुवन-त्रये (in the three worlds) केवली-भावात् विना न विद्यते (does not exist apart from the state of oneness).
 </p>
 
-**Translation:** "Unfailing, fearless well-being, free of confusion, is found nowhere in the three worlds except in the state of oneness."
+**Translation:** "A well-being that never fails, never fears and is never deceived exists nowhere in the three worlds, except in the state where the Self stands alone."
 
 **Pointers for Reflection:**
 
@@ -777,7 +777,7 @@
 तिष्ठता गच्छता च एव (by one standing or walking) पतता भ्रमता तथा (falling or wandering) रक्षसा दानवेन अपि (by a demon or titan) देवेन पुरुषेण वा (by a god or a human) —
 </p>
 
-**Translation:** "Whether one is standing or walking, falling or wandering, whether demon, titan, god or human —"
+**Translation:** "— whether standing still or moving, stumbling or roaming, whether one is a demon, a titan, a god or a man —"
 
 **Pointers for Reflection:**
 
@@ -847,7 +847,7 @@
 मोक्ष-द्वारे (at the gate of liberation) इमान् द्वार-पालान् (these gatekeepers) यथा-क्रमं शृणु (hear in order), येषाम् एकतम-आसक्त्या (by devotion to any one of whom) मोक्ष-द्वारं प्रविश्यते (the gate of liberation is entered).
 </p>
 
-**Translation:** "Now hear in order about the gatekeepers at the gate of liberation; through devotion to any one of them, the gate is entered."
+**Translation:** "Listen now, one by one, to the guards who stand at liberation's door. Hold fast to even one of them, and that door lets you in."
 
 **Pointers for Reflection:**
 
@@ -1069,7 +1069,7 @@
 राघव (O Rāghava), सर्व-आधि-व्याधि-चलितं (shaken by every ill of mind and body) तृष्णा-वरत्रया क्रान्तं (gripped by the rope of craving) मनः (the mind) शम-अमृत-आसेकैः समाश्वासय (soothe with sprinklings of the nectar of calm).
 </p>
 
-**Translation:** "Rāghava, the mind is shaken by every ill of mind and body and gripped by the rope of craving. Soothe it with sprinklings of the nectar of calm."
+**Translation:** "Rāghava, your mind is tossed by every ache of mind and body and held in the noose of craving. Calm it by sprinkling it with the nectar of peace."
 
 **Pointers for Reflection:**
 
@@ -1240,7 +1240,7 @@
 यः (whoever) सर्व-भूतेषु समः (is even towards all beings) भावि न काङ्क्षति न उज्झति (neither longs for nor shuns what is to come) यत्नेन इन्द्रियाणि जित्वा (having conquered the senses with effort), सः शान्तः इति कथ्यते (he is called calm).
 </p>
 
-**Translation:** "One who is even towards all beings, who neither longs for nor shuns what is to come, having mastered his senses with effort, is called calm."
+**Translation:** "Even-handed towards every creature, neither hungry for nor pushing away what lies ahead, the senses brought under rein by effort — such a one is called calm."
 
 **Pointers for Reflection:**
 
@@ -1393,7 +1393,7 @@
 शम-संसक्त-मनसां महतां गुण-शालिनां (of great, virtuous people whose minds are joined with calm) चित्तात् (from the mind) निर्वृतिः उदेति (bliss rises), सित-रोचिषः ज्योत्स्ना इव (as moonlight from the white-rayed moon).
 </p>
 
-**Translation:** "From the minds of great and virtuous people devoted to calm, bliss rises as moonlight rises from the moon."
+**Translation:** "In great and gifted souls whose minds cling to calm, bliss wells up out of the heart, the way moonlight streams from the white moon."
 
 **Pointers for Reflection:**
 

@@ -42,12 +42,12 @@ Indian tradition introduces a scripture by four questions, the अनुबन�
 
 - **Who it is for:** one convinced *"I am bound; may I be free"*, neither wholly ignorant nor already a knower ([1.2.2](1-vairagya/sarga-002.md#1-2-2)).
 - **What it is about:** the Self, the one reality "from which all beings appear, in which they abide, and in which they come to rest" ([1.1.1](1-vairagya/sarga-001.md#1-1-1)).
-- **How it relates to that:** it is a *means*. The text names itself मोक्षोपाय, "the means to liberation" (2.17.6). It does not merely describe freedom; it leads the reader to it, through stories and teaching.
+- **How it relates to that:** it is a *means*. The text names itself मोक्षोपाय, "the means to liberation" ([2.17.6](2-mumukshu/sarga-017.md#2-17-6)). It does not merely describe freedom; it leads the reader to it, through stories and teaching.
 - **What fruit it gives:** the text states this plainly, more than once:
     - the one who reflects on it <span class="sa">न स भूयोऽभिजायते</span> — *is not born again* ([1.2.3](1-vairagya/sarga-002.md#1-2-3));
     - it was asked for so that <span class="sa">येनेयं जनता दुःखान्मुच्यते</span> — *people may be freed from suffering* ([1.2.8](1-vairagya/sarga-002.md#1-2-8));
     - hearing it, one crosses all delusion, as one crosses the ocean by Rāma's bridge ([1.2.10](1-vairagya/sarga-002.md#1-2-10));
-    - and it calls itself <span class="sa">निर्वाणदायिनी</span> — *the giver of nirvāṇa* (2.17.6).
+    - and it calls itself <span class="sa">निर्वाणदायिनी</span> — *the giver of nirvāṇa* ([2.17.6](2-mumukshu/sarga-017.md#2-17-6)).
 
 **The main fruit: liberation while living.** The highest prayojana is मोक्ष, freedom: the complete end of sorrow and the discovery of the Self as fullness and peace. The Yoga Vasiṣṭha's particular emphasis is that this freedom is to be lived *here*, in this body and this life, as a जीवन्मुक्त — one liberated while living — and not only after death.
 
@@ -59,7 +59,7 @@ Indian tradition introduces a scripture by four questions, the अनुबन�
 
 Alongside these, the text gives two practical gifts:
 
-- **Self-effort in place of fatalism.** Vasiṣṭha insists that पौरुष, one's own effort guided by scripture and discernment, is stronger than "fate", which is only the residue of one's past effort. Despair gives way to responsibility.
+- **Self-effort in place of fatalism.** Vasiṣṭha insists that पौरुष, one's own effort guided by scripture and discernment, is stronger than "fate", which is only the residue of one's past effort. Despair gives way to responsibility ([Sargas 4–9](2-mumukshu/sarga-004.md) of the Mumukṣu Prakaraṇa).
 - **Equanimity within ordinary life.** The teaching was given to a young prince about to take up his duties, not to an ascetic leaving them. Its fruit is visible in how one lives: acting fully, responding naturally, without being broken by hard situations (see the reflection at [1.14.3](1-vairagya/sarga-014.md#1-14-3)).
 
 **Reading is not yet the fruit.** The text promises its fruit not to one who merely reads, but to one who reflects — <span class="sa">यो विचारयति प्राज्ञः</span>, "the wise one who *inquires*" ([1.2.3](1-vairagya/sarga-002.md#1-2-3)). The fruit ripens through विचार, inquiry: reading slowly, turning each verse over, and testing it against one's own experience. That is why this site gives pointers for reflection rather than a finished commentary.
@@ -77,6 +77,8 @@ The Yoga Vasiṣṭha does not argue against other schools so much as gather the
 - *Craving as the root of suffering.* The Buddha's second noble truth names craving (Sanskrit तृष्णा, Pāli *taṇhā*) as the cause of suffering. Śrī Rāma devotes a whole sarga to it ([Sarga 17](1-vairagya/sarga-017.md)) and calls the giving up of longing "the healing mantra" ([1.17.43](1-vairagya/sarga-017.md#1-17-43)).
 - *Nirvāṇa as blowing out.* The image of craving vanishing "like the flame of a lamp blown out" ([1.15.13](1-vairagya/sarga-015.md#1-15-13)) is the literal sense of the word *nirvāṇa*, and the sixth book itself is called the *Nirvāṇa Prakaraṇa*.
 - *The world as mind.* "The mind is the cause of all things; while it exists, the three worlds exist" ([1.16.25](1-vairagya/sarga-016.md#1-16-25)). This is very close to the Yogācāra teaching that the world is "mind only", and it becomes the central theme of the Utpatti Prakaraṇa.
+- *Reason over authority.* "A reasoned statement should be accepted even from a child; anything else should be cast aside like straw, even if Brahmā said it" ([2.18.3](2-mumukshu/sarga-018.md#2-18-3)). The Buddha gave the Kālāmas the same advice: test a teaching for yourself rather than accept it on tradition or the teacher's standing.
+- *Noble friendship.* Of the four "gatekeepers of liberation" — calm, inquiry, contentment and the company of the good ([2.11.59](2-mumukshu/sarga-011.md#2-11-59)) — the last is praised as helping above all ([Sarga 16](2-mumukshu/sarga-016.md)). The Buddha called noble friendship (*kalyāṇamittatā*) "the whole of the holy life".
 - *Momentariness.* The text constantly calls things क्षणभङ्गुर, "breaking in a moment" — a key Buddhist idea — as when life itself is called "fragile as a drop of water at a leaf's tip" ([1.14.1](1-vairagya/sarga-014.md#1-14-1)).
 
 **Jainism.**
@@ -84,9 +86,12 @@ The Yoga Vasiṣṭha does not argue against other schools so much as gather the
 - *The Jina as a model.* At [1.15.8](1-vairagya/sarga-015.md#1-15-8) Śrī Rāma says <span class="sa">नाहं रामो न मे वाञ्छा भावेषु न च मे मनः । शान्त आसितुमिच्छामि स्वात्मनीव जिनो यथा ॥</span> — *I am not Rāma… like a Jina in his own Self, I wish to rest in peace.* The Jina, "the conqueror" of the passions, is the liberated teacher of Jainism; here he is the model for Rāma himself.
 - *Meditation on the body.* [Sarga 18](1-vairagya/sarga-018.md) dwells on the impurity and impermanence of the body, a practice shared by Jaina (*aśuci-bhāvanā*) and Buddhist traditions to loosen attachment. The Yoga Vasiṣṭha completes it with the Vedāntic insight "I am not the body" ([1.18.53](1-vairagya/sarga-018.md#1-18-53)).
 
+- *The kevalin.* The liberated state is called केवलीभाव, "being alone" — the Self without a second ([2.2.12](2-mumukshu/sarga-002.md#2-2-12)). Jainism calls its liberated knower the *kevalin* and his omniscience *kevala-jñāna*: the same word for the same summit.
+- *One's own effort.* The Jaina path leaves no room for an outside power that decides one's fate; the soul binds and frees itself. Vasiṣṭha's teaching on effort ([Sargas 4–9](2-mumukshu/sarga-004.md)) is close in spirit to Mahāvīra's "O man, you are your own friend".
+
 **Kashmir Śaivism.**
 
-- *Origin.* Modern scholarship traces the text to Kashmir. Its earlier form, the *Mokṣopāya* — the name the text gives itself in 2.17.6, "The Means to Liberation" — is dated by Walter Slaje to tenth-century Kashmir, and was later reworked, with ideas from the Śaiva Trika school, into the Yoga Vasiṣṭha read today.
+- *Origin.* Modern scholarship traces the text to Kashmir. Its earlier form, the *Mokṣopāya* — the name the text gives itself in [2.17.6](2-mumukshu/sarga-017.md#2-17-6), "The Means to Liberation" — is dated by Walter Slaje to tenth-century Kashmir, and was later reworked, with ideas from the Śaiva Trika school, into the Yoga Vasiṣṭha read today.
 - *Spanda, the vibration of consciousness.* Kashmir Śaivism teaches that consciousness is not inert but has an inner pulse, *spanda*, through which the world appears and disappears. The Yoga Vasiṣṭha uses the same language: the world is the स्पन्द, the vibration, of consciousness, as waves are the movement of water.
 - *Worship of Śiva as consciousness.* In the Nirvāṇa Prakaraṇa, Vasiṣṭha recounts how Śiva himself taught him the true *deva-pūjā*: the God to be worshipped is consciousness, and the real worship is knowing it, not offerings of flowers.
 
@@ -97,7 +102,7 @@ The Yoga Vasiṣṭha does not argue against other schools so much as gather the
 
 **The Gītā and the way of action.**
 
-- *Effort over fate.* In the Mumukṣu Prakaraṇa Vasiṣṭha insists that human effort (पौरुष) shapes one's life, and that "fate" is only the effect of one's own past effort.
+- *Effort over fate.* In the Mumukṣu Prakaraṇa Vasiṣṭha insists that human effort (पौरुष) shapes one's life, and that "fate" is only one's own past effort ([2.6.1](2-mumukshu/sarga-006.md#2-6-1)). When Śrī Rāma protests that his old tendencies drive him and he is helpless, he uses the very word, कृपण, with which Arjuna confesses his helplessness in the Gītā (2.7); Vasiṣṭha answers, as Kṛṣṇa does, with a call to act — "do as you choose" ([2.7.20](2-mumukshu/sarga-007.md#2-7-20); compare Gītā 18.63).
 - *Arjuna's story.* In the Nirvāṇa Prakaraṇa Vasiṣṭha tells Śrī Rāma how Kṛṣṇa will one day teach Arjuna on the battlefield — the teaching of the Bhagavad Gītā retold inside the Yoga Vasiṣṭha. The Lord who is the student here is shown, in another age, as the teacher.
 
 What holds all this together is Advaita Vedānta: one consciousness appearing as many, and freedom as knowing this while still living and acting in the world. The other traditions are not borrowed to be refuted, but welcomed as partial views of that one truth.
@@ -109,7 +114,7 @@ The Yoga Vasiṣṭha is one of the great works of Indian thought, yet it is far
 It aims to:
 
 - **Keep the Sanskrit in view.** Every verse is given in Devanagari with its words in prose order and their meanings, so the translation can be checked word by word, and a reader can slowly learn to read the original.
-- **Read the text as scripture.** The pointers for reflection connect each verse to the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit, so that the Lord as student can be read beside the Lord as teacher.
+- **Read the text as scripture.** The pointers for reflection connect each verse to the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit, so that the Lord as student can be read beside the Lord as teacher. Where they shed light, Buddhist and Jaina teachings are added too — the Buddha's discourses, Śāntideva's *Bodhicaryāvatāra* (*The Way of the Bodhisattva*), and the Jaina sūtras — in keeping with the text's own synthesis.
 - **Invite reflection, not replace it.** The pointers for reflection are not a finished commentary. They open doors: a key word to dwell on, a link to another verse, a question the verse raises, a parallel in the Gītā or the Upaniṣads. The reflection itself is left to the reader, because this text is meant to be contemplated, not only read.
 - **Make every verse reachable.** Each verse has its own link, everything is searchable, and it works on any device, so a single verse can be shared with a friend or a study group.
 - **Stay open.** The work is freely licensed, so it may be shared, quoted, corrected and built upon.
@@ -126,13 +131,13 @@ It aims to:
 1. **The Sanskrit verse** in Devanagari, with its reference: Prakaraṇa.Sarga.Verse, so 1.2.5 is the fifth verse of the second sarga of the first prakaraṇa.
 2. **Word by word.** The verse's words rearranged into prose order (anvaya), each followed by its meaning in brackets. Compounds are split with hyphens, and words added to complete the sense are shown in square brackets.
 3. **Translation.** A plain English rendering of the whole verse, made from the Sanskrit.
-4. **Pointers for Reflection.** Key words, connections with other verses, and parallels in the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit with an English rendering. They are starting points for your own reflection, not a final word.
+4. **Pointers for Reflection.** Key words, connections with other verses, and parallels in the Bhagavad Gītā and the Upaniṣads — and, where relevant, in Buddhist and Jaina texts — quoted in the original with an English rendering. They are starting points for your own reflection, not a final word.
 
 **Search and find.** Use the search box at the top to find any English or Sanskrit word. Key Sanskrit terms are rendered the same way throughout; the [Glossary](glossary.md) lists them with a link to the verse where each first appears.
 
-**Share a verse.** At the end of every verse is a **Share this verse** button. On a phone it opens your phone's share menu (WhatsApp, Messages, email and so on) with the verse, its translation and a link that opens the page at that verse. On a computer it copies the same text and link, ready to paste anywhere.
+**Share a verse.** At the end of every verse are two buttons. **Share this verse** sends the verse, its translation and a link that opens the page at that verse: on a phone it opens your share menu (WhatsApp, Messages, email and so on); on a computer it copies them, ready to paste anywhere. **Copy link** copies just the link to that verse.
 
-**About the text.** The Sanskrit follows the commonly printed text. Where it has an obvious misprint, the verse is corrected and a **Reading note** says what was changed; where a reading is uncertain, it is left as printed and flagged.
+**About the text.** The Sanskrit follows the commonly printed text. Where it has an obvious misprint, the verse is corrected and a **Reading note** says what was changed; where a reading is uncertain, it is left as printed and flagged. The few verses missing from the online source are marked where they belong.
 
 [Start reading — Sarga 1](1-vairagya/sarga-001.md){ .md-button .md-button--primary }
 

@@ -250,7 +250,7 @@
 
 **Pointers for Reflection:**
 
-- **Fate is others' effort, unseen.** What I call luck — another's success, my own setback — is often effort I did not see. "Fate" is the name for causes one does not understand.
+- **Fate is others' effort, unseen.** What is called luck — another's success, one's own setback — is often effort that went unseen. "Fate" is the name for causes one does not understand.
 
 ## Verse 2.6.15 { #2-6-15 }
 
@@ -452,7 +452,7 @@
 यः (whoever) शुभ-ईहितैः (by good endeavours) तुच्छं प्राक्तनं कर्म न निहन्ति (does not strike down petty past karma), असौ अज्ञः जन्तुः (that ignorant creature) आत्मनः सुख-दुःखयोः अनीशः (is not master of his own joy and sorrow).
 </p>
 
-**Translation:** "The ignorant creature who does not strike down his petty past karma by good effort is not master of his own joy and sorrow."
+**Translation:** "A creature who will not knock down his paltry past karma by striving for the good is ignorant, and has no say over his own pleasure and pain."
 
 **Pointers for Reflection:**
 

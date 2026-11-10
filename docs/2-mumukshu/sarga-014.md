@@ -58,7 +58,7 @@
 अनन्त-ईहा-परिपल्लवित-आकृति (whose form is covered with the endless shoots of desire) आपत्-वनम् (the forest of calamities) विचार-क्रकच-छिन्नं (cut down by the saw of inquiry) भूयः न एव प्ररोहति (never grows again).
 </p>
 
-**Translation:** "The forest of calamities, thick with the endless shoots of desire, once cut down by the saw of inquiry, never grows again."
+**Translation:** "The jungle of misfortune, every branch sprouting with desires without end, once sawn down by inquiry, never grows back."
 
 **Pointers for Reflection:**
 
@@ -109,7 +109,7 @@
 बलं बुद्धिः च तेजः च (strength, intelligence, vigour) प्रतिपत्तिः (right understanding) क्रिया-फलम् (the fruit of action) — एतानि सर्वाणि (all these) धीमतां विचारेण एव फलन्ति (bear fruit for the wise through inquiry alone).
 </p>
 
-**Translation:** "Strength, intelligence, vigour, right understanding, the success of action — all these bear fruit for the wise through inquiry alone."
+**Translation:** "Power, intelligence, brilliance, sound judgement and successful action — for the thoughtful, every one of these ripens only through inquiry."
 
 **Pointers for Reflection:**
 
@@ -177,7 +177,7 @@
 राघव (O Rāghava), राज्यानि (kingdoms) स्फाराः संपदः (great riches) भोगः (enjoyment) शाश्वतः मोक्षः च (and lasting liberation) — एतानि (these) विचार-कल्प-वृक्षस्य फलानि (are the fruits of the wishing tree of inquiry).
 </p>
 
-**Translation:** "Kingdoms, great riches, enjoyment and lasting liberation — Rāghava, these are the fruits of the wishing tree of inquiry."
+**Translation:** "Rāghava, inquiry is a wishing-tree whose fruits are kingdoms, abundant wealth, enjoyment, and freedom that lasts for ever."
 
 **Pointers for Reflection:**
 
@@ -194,7 +194,7 @@
 इह (here) महतां (of the great) याः विवेक-विकासिन्यः मतयः (minds that blossom with discernment) ताः (they) विपदि न मज्जन्ति (do not sink in calamity), वारिणि तुम्बकानि इव (as gourds [do not sink] in water).
 </p>
 
-**Translation:** "The minds of the great, blossoming with discernment, do not sink in calamity, as dried gourds do not sink in water."
+**Translation:** "In the great, minds that open out through discernment never go under in a crisis, just as a dried gourd will not sink in a river."
 
 **Pointers for Reflection:**
 
@@ -535,7 +535,7 @@
 तत्-पद-आलम्बनं चेतः (the mind that rests on that state) स्फारम् आभासम् आगतम् (vast and luminous) न अस्तम् एति न च उदेति (neither sets nor rises), खम् इव अतितत-अन्तरम् (like the sky, infinitely wide within).
 </p>
 
-**Translation:** "The mind that rests in that state becomes vast and luminous; it neither rises nor sets, like the sky, boundless within."
+**Translation:** "A mind that leans on that state grows wide and full of light. Like the sky, unbounded within, it has no rising and no setting."
 
 **Pointers for Reflection:**
 
@@ -724,7 +724,7 @@
 परम-आत्म-मयी (made of the supreme Self) मान्या (to be honoured) महा-आनन्द-एक-साधिनी (the one means to great bliss) विचार-चमत्कृतिः (the wonder of inquiry) एकं क्षणं न परित्याज्या (should not be given up for a single moment).
 </p>
 
-**Translation:** "The wonder of inquiry, made of the supreme Self and the one means to great bliss, should be honoured and never given up for a single moment."
+**Translation:** "Inquiry is a marvel, one with the supreme Self and the single path to great joy. Honour it, and do not let it go for even an instant."
 
 **Pointers for Reflection:**
 
@@ -792,7 +792,7 @@
 कर्दमे एकत्वं वरं (better to be one with the mud) मल-कीटकता वरम् (better to be a worm in filth) अन्ध-गुहा-अहित्वं वरम् (better to be a snake in a dark cave) — न नरस्य अविचारिता (than for a human to be thoughtless).
 </p>
 
-**Translation:** "Better to be one with the mud, better to be a worm in filth, better to be a snake in a dark cave, than for a human being to live without inquiry."
+**Translation:** "Sooner be mud, sooner a maggot in dung, sooner a snake coiled in a lightless cave, than be a human being who never inquires."
 
 **Pointers for Reflection:**
 
@@ -911,7 +911,7 @@
 विचारात् तत्त्वं ज्ञायते (by inquiry the truth is known); तत्त्वात् आत्मनि विश्रान्तिः (from the truth, rest in the Self); अतः मनसि शान्तत्वं (from that, peace in the mind) सर्व-दुःख-परिक्षयः (and the end of all sorrow).
 </p>
 
-**Translation:** "Through inquiry the truth is known; from the truth comes rest in the Self; from that, peace of mind and the end of all sorrow."
+**Translation:** "Inquiry brings the truth to light; the truth brings repose in the Self; repose brings a quiet mind; and with that, every sorrow is gone."
 
 **Pointers for Reflection:**
 

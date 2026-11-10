@@ -341,7 +341,7 @@
 
 **Pointers for Reflection:**
 
-- **Fate from oneself.** The word is turned inside out: my "destiny" is what I make.
+- **Fate from oneself.** The word is turned inside out: one's "destiny" is what one makes.
 
 ## Verse 2.9.20 { #2-9-20 }
 
@@ -408,7 +408,7 @@
 मुने (O sage), यथा (as) प्राक्तनं वासना-जालं (the net of past tendencies) मां नियोजयति (drives me), तथा एव (just so) अहं कृपणः तिष्ठामि (I remain, helpless); किं करोमि (what can I do)?
 </p>
 
-**Translation:** Śrī Rāma said: "Sage, as the net of my past tendencies drives me, so I remain, helpless. What can I do?"
+**Translation:** Śrī Rāma said: "Sage, I am a poor, helpless thing: I go wherever the tangle of my old tendencies pushes me. What am I to do?"
 
 **Pointers for Reflection:**
 
@@ -461,7 +461,7 @@
 वासना-ओघेन शुद्धेन (by a pure stream of tendencies) अद्य तत्र चेत् नीयसे (if you are carried there today), तत् (then) क्रमेण (gradually) शुभेन एव (by the good alone) शाश्वतं पदं प्राप्स्यसि (you will reach the eternal state).
 </p>
 
-**Translation:** "If today you are carried by a pure stream of tendencies, then, by that good alone, you will gradually reach the lasting state."
+**Translation:** "Should a clean current of tendencies be carrying you along today, then that good current alone will bring you, step by step, to the state that endures."
 
 **Pointers for Reflection:**
 

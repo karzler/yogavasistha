@@ -23,7 +23,7 @@
 राघव (O Rāghava), इह (here) यः एवम् अन्तः-विवेकः (one who has such inner discernment) सः महान् (he is great) ज्ञान-गिरः श्रोतुं योग्यः (and fit to hear words of knowledge), राजा इव नय-भारतीम् (as a king [is fit to hear] words of statecraft).
 </p>
 
-**Translation:** Śrī Vasiṣṭha said: "Rāghava, one who has such inner discernment is great, and fit to hear the words of knowledge, as a king is fit to hear counsel on governing."
+**Translation:** Śrī Vasiṣṭha said: "Rāghava, whoever has discernment of this inward kind is truly great; he is ready for the words of wisdom, as a king is ready for advice on statecraft."
 
 **Pointers for Reflection:**
 
@@ -485,7 +485,7 @@
 पङ्कात् इव अभिरचितं (as if shaped from clay) स-चेतनम् अ-चेतनम् (both sentient and insentient). ततः (then) चतुर्थं स्थिति-प्रकरणं परिकल्पितम् (the fourth book, on Existence, has been composed).
 </p>
 
-**Translation:** "— as if shaped from clay, the sentient and the insentient alike. Then the fourth book, on *Existence*, has been composed —"
+**Translation:** "— moulded, as it were, out of clay, both the living and the lifeless. After that, the fourth book, on *Existence*, has been laid out —"
 
 **Pointers for Reflection:**
 
@@ -553,7 +553,7 @@
 पञ्चमं पावनं प्रोक्तम् (the fifth, called purifying) युक्ति-संतति-सुन्दरम् (lovely with its chain of reasoning): "इदं जगत् अहं त्वं च सः" इति ("this world, I, you and he") भ्रान्तिः उत्थिता (the delusion that has arisen) —
 </p>
 
-**Translation:** "— the fifth, purifying, lovely with its chain of reasoning: how the delusion that has arisen as 'this world, I, you, he' —"
+**Translation:** "— the fifth book, which purifies, beautiful in its unbroken line of argument, tells how the delusion 'this world, I, you, he' —"
 
 **Pointers for Reflection:**
 
@@ -828,7 +828,7 @@
 नष्ट-अहंकार-वेतालः (the ghost of ego destroyed) देहवान् अकलेवरः (embodied yet bodiless) — तस्य (of him) कस्मिंश्चित् रोम-कोटि-अग्रे (on the tip of a single hair) इयं जगत्-लक्ष्मीः अवतिष्ठते (this whole splendour of the world rests), महा-मेरोः क्वचित् पुष्पे अलिनी इव (as a bee on some flower of mighty Meru).
 </p>
 
-**Translation:** "— the ghost of ego destroyed, embodied yet bodiless. On the tip of one of his hairs the whole splendour of the world rests, as a bee rests on some flower of mighty Meru."
+**Translation:** "— the phantom of ego gone, he has a body and yet no body. On the point of a single hair of his, the glory of the whole world sits, like a bee on some blossom of mighty Meru."
 
 **Pointers for Reflection:**
 

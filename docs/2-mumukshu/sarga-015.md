@@ -244,7 +244,7 @@
 स्वयं (by oneself) आत्मना (through the Self) स्व-आत्मनि एव पूर्णताम् अलम् आश्रित्य (relying fully on the fullness in one's own Self) पौरुषेण प्रयत्नेन (with personal effort) सर्वत्र तृष्णां वर्जयेत् (one should give up craving everywhere).
 </p>
 
-**Translation:** "Relying fully on the fullness within one's own Self, by one's own effort, one should give up craving in everything."
+**Translation:** "Lean entirely on the fullness that is already in your own Self, and by your own exertion, from within, put away craving wherever it appears."
 
 **Pointers for Reflection:**
 

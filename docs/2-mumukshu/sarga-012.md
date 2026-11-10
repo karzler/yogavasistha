@@ -59,7 +59,7 @@
 त्वयि (in you) प्रच्छकस्य सर्वा एव गुण-आवली विद्यते (are all the qualities of a questioner); मयि च एव वक्तुः गुणाः (and in me those of a speaker), जलधौ रत्न-श्रीः यथा (as the wealth of jewels in the ocean).
 </p>
 
-**Translation:** "All the qualities of a good questioner are in you, and those of a good speaker are in me, as jewels lie in the ocean."
+**Translation:** "Every gift a questioner should have is found in you, and every gift a teacher needs is found in me — as gems lie gathered in the sea."
 
 **Pointers for Reflection:**
 
@@ -252,7 +252,7 @@
 संसार-रागः हि अतितरां विषमः (attachment to saṃsāra is exceedingly dangerous): भोगी इव दशति (it bites like a serpent) असिः इव छिनत्ति (cuts like a sword) कुन्तः इव वेधयति (pierces like a spear) रज्जुः इव आवेष्टयति (binds like a rope) पावकः इव दहति (burns like fire) रात्रिः इव अन्धयति (blinds like night) अशङ्कित-परिपतित-पुरुषान् पाषाणः इव विवशी-करोति (crushes the unsuspecting like a falling rock); प्रज्ञां हरति (it steals wisdom) स्थितिं नाशयति (destroys stability) मोह-अन्ध-कूपे पातयति (throws into the blind well of delusion); तृष्णा जर्जरी-करोति (craving wears one out); न तत् किंचित् दुःखम् अस्ति (there is no sorrow) यत् संसारी न प्राप्नोति (that the worldly person does not meet).
 </p>
 
-**Translation:** "Attachment to saṃsāra is dangerous beyond measure. It bites like a serpent, cuts like a sword, pierces like a spear, binds like a rope, burns like fire, blinds like night, and crushes the unwary like a falling rock. It steals wisdom, destroys stability and casts one into the blind well of delusion; craving wears one to pieces. There is no sorrow the worldly person does not meet."
+**Translation:** "Passion for saṃsāra is perilous past all telling. Like a serpent it bites; like a sword it slashes; like a spear it runs one through; like a rope it ties; like fire it scorches; like night it blinds; like a boulder it pins down those who never saw it coming. It robs one of wisdom, wrecks one's footing and pitches one into the dark well of delusion; craving wears one to shreds. There is no grief the worldly person escapes."
 
 **Pointers for Reflection:**
 

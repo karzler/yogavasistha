@@ -375,7 +375,7 @@
 दानव-ईश्वराः (the lords of the Dānavas) देव-संघातं उत्साद्य (having overthrown the host of gods) पौरुषेण एव यत्नेन (by effort alone) त्रि-भुवन-उदरे साम्राज्यं चक्रुः (established empire over the three worlds).
 </p>
 
-**Translation:** "The lords of the demons overthrew the host of gods and established their empire over the three worlds by effort alone."
+**Translation:** "The demon lords drove out the whole company of the gods and ruled an empire over the three worlds — through their own effort and nothing else."
 
 **Pointers for Reflection:**
 

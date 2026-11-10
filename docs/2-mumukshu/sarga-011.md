@@ -145,7 +145,7 @@
 यथा अहं तेन प्रहितः (as I was sent by him) तथा अन्ये च महर्षयः (so were other great sages) सनत्कुमार-प्रमुखाः (led by Sanatkumāra) नारद-आद्याः च (Nārada and others) भूरिशः (many).
 </p>
 
-**Translation:** "As I was sent, so were many other great sages — Sanatkumāra, Nārada and others."
+**Translation:** "I was not the only one sent. Many other great seers went too — Sanatkumāra at their head, and Nārada, and more besides."
 
 **Pointers for Reflection:**
 
@@ -179,7 +179,7 @@
 पुरा (long ago) कृत-युगे क्षीणे (when the Kṛta age had passed) क्रमात् (gradually) पृथिव्याः शुद्धे क्रिया-क्रमे (the pure order of works on earth) तनुतां गते (having grown thin) — ततः तैः तैः महर्षिभिः (then, by those great sages) —
 </p>
 
-**Translation:** "Long ago, when the Kṛta age had passed and the pure order of works on earth had gradually grown thin, those great sages —"
+**Translation:** "In the distant past, once the Kṛta age was over and the clean order of rites on earth had little by little worn thin, those sages —"
 
 **Pointers for Reflection:**
 
@@ -299,7 +299,7 @@
 तेन (so) इयम् अध्यात्म-विद्या (this knowledge of the Self) पूर्वं राजसु वर्णिता (was first taught among kings); तत्-अनु (afterwards) लोके प्रसृता (it spread in the world) "राज-विद्या" इति उदाहृता (and was called "the royal knowledge").
 </p>
 
-**Translation:** "So this knowledge of the Self was first taught among kings; later it spread through the world and came to be called the royal knowledge."
+**Translation:** "That is why this knowledge of the Self was first expounded to kings. Later it travelled across the world, and people named it the royal knowledge."
 
 **Pointers for Reflection:**
 
@@ -316,7 +316,7 @@
 राघव (O Rāghava), राजानः (kings) राज-विद्यां राज-गुह्यम् उत्तमम् अध्यात्म-ज्ञानं ज्ञात्वा (knowing the royal knowledge, the royal secret, the supreme knowledge of the Self) परां निर्दुःखतां गताः (reached the highest freedom from sorrow).
 </p>
 
-**Translation:** "Rāghava, by knowing this royal knowledge, the royal secret, the supreme knowledge of the Self, kings reached the highest freedom from sorrow."
+**Translation:** "Rāghava, once they had grasped this kingly learning, this kingly secret, the knowledge of the Self that stands above all others, kings passed beyond sorrow altogether."
 
 **Pointers for Reflection:**
 
@@ -333,7 +333,7 @@
 अथ (now) राम (O Rāma), बहुषु अमल-कीर्तिषु राजसु अतीतेषु (after many kings of spotless fame have passed) अस्मात् दशरथात् (from this Daśaratha) अद्य त्वम् इह अवनौ जातः (you have now been born here on earth).
 </p>
 
-**Translation:** "And now, Rāma, after many kings of spotless fame have passed, you have been born on earth to Daśaratha here."
+**Translation:** "Many kings of untarnished name have come and gone since then, Rāma; and now you have been born into the world as the son of this Daśaratha."
 
 **Pointers for Reflection:**
 
@@ -367,7 +367,7 @@
 राम (O Rāma), सर्वस्य एव हि सर्वस्य (for everyone without exception) साधोः अपि विवेकिनः (even a good and discerning person) निमित्त-पूर्वं वैराग्यं (dispassion with a cause) राजसं जायते (arises as rājasa).
 </p>
 
-**Translation:** "Rāma, for everyone, even a good and discerning person, dispassion that has an outer cause is of the nature of rajas."
+**Translation:** "Rāma, when dispassion is set off by some outward event, it carries the stamp of rajas — for anyone at all, even a good and discerning person."
 
 **Pointers for Reflection:**
 
@@ -436,7 +436,7 @@
 हि (indeed) जन्तुः (a person) स्व-विवेक-चमत्कार-परामर्श-विरक्तया धिया (with a mind dispassionate through reflecting on the wonder of its own discernment) राजते (shines), युवा वर-मालया इव (like a young man with a fine garland).
 </p>
 
-**Translation:** "A person shines with a mind made dispassionate by reflecting on the wonder of his own discernment, as a young man shines with a fine garland."
+**Translation:** "Dispassion that comes from pondering the wonder of one's own discernment sets a person shining, like a young man wearing a splendid garland."
 
 **Pointers for Reflection:**
 
@@ -521,7 +521,7 @@
 परम-ईशस्य नाथस्य परम-आत्मनः प्रसादात् (by the grace of the supreme Lord, the protector, the supreme Self) त्वादृशस्य शुभा बुद्धिः (the good intellect of one like you) विवेकम् अनुधावति (follows discernment).
 </p>
 
-**Translation:** "By the grace of the supreme Lord, the protector, the supreme Self, the good mind of one such as you runs after discernment."
+**Translation:** "Through the grace of the supreme Lord, the guardian, the highest Self, a fine mind like yours keeps running after discernment."
 
 **Pointers for Reflection:**
 
@@ -539,7 +539,7 @@
 महता क्रिया-क्रमेण (by a great course of works) तपसा नियमेन च (by austerity and discipline) दानेन (by giving) तीर्थ-यात्राभिः (by pilgrimages) चिर-कालं (over a long time) विवेकतः (and by discernment) —
 </p>
 
-**Translation:** "Through a great course of good works, through austerity, discipline, giving and pilgrimage over a long time, and through discernment —"
+**Translation:** "By a long round of rites and works, by austerity, by self-discipline, by giving and by pilgrimage, carried on for many years, and by discernment —"
 
 **Pointers for Reflection:**
 
@@ -590,7 +590,7 @@
 इदं संसारं यथाभूतं दृष्ट्वा (seeing this saṃsāra as it is) तत्-मयीं धियं परित्यज्य (giving up the mind absorbed in it) परं यान्ति (they go to the highest), निरालानाः गजाः इव (like elephants freed from their tethering-posts).
 </p>
 
-**Translation:** "Seeing saṃsāra as it truly is and giving up the mind absorbed in it, they go to the highest, like elephants freed from their posts."
+**Translation:** "They look at saṃsāra for what it is, drop the mind that was steeped in it, and pass on to the highest, like elephants loosed from their tethering-posts."
 
 **Pointers for Reflection:**
 
@@ -828,7 +828,7 @@
 यः बालः (the childish one who) प्रवक्तारम् अनिर्णीय (without judging the speaker) प्रश्नं करोति (asks), सः अधमः प्रच्छकः स्यात् (he is a poor questioner) न महा-अर्थस्य भाजनम् (and not a vessel for great meaning).
 </p>
 
-**Translation:** "One who, like a child, asks without first judging the speaker is a poor questioner, and no vessel for great truths."
+**Translation:** "The one who blurts out his question like a child, without first weighing up the speaker, is a poor questioner and no fit vessel for deep truth."
 
 **Pointers for Reflection:**
 
@@ -1034,7 +1034,7 @@
 एते (these) चत्वारः (four) द्वौ त्रयः अथवा (or two or three) प्रयत्नेन सेव्याः (should be served with effort); एते (they) मोक्ष-राज-गृहे (in the royal palace of liberation) तथा द्वारम् उद्घाटयन्ति (thus open the door).
 </p>
 
-**Translation:** "Serve these four with effort — or two, or three. They open the door of the royal palace of liberation."
+**Translation:** "Tend these four with care — or if not all four, then two or three. Together they swing open the gate of liberation's royal palace."
 
 **Pointers for Reflection:**
 
@@ -1120,7 +1120,7 @@
 सत्-मते (O good-minded one), त्वम् (you) उद्धत-कर्णः (with ears pricked up) इमां ज्ञान-गिरं श्रोतुम् अवबोद्धुं च अर्हसि (are fit to hear and understand these words of knowledge), जन्तुः वीणा-स्वनं यथा (as a creature [listens] to the sound of a vīṇā).
 </p>
 
-**Translation:** "Good-minded one, you are fit to hear and understand these words of knowledge, ears pricked up like a deer listening to the sound of a vīṇā."
+**Translation:** "Good-hearted Rāma, you are ready to take in and grasp these words of wisdom, alert as a deer whose ears stand up at the sound of a vīṇā."
 
 **Pointers for Reflection:**
 
@@ -1137,7 +1137,7 @@
 राम (O Rāma), वैराग्य-अभ्यास-योगेन (by the yoga of dispassion and practice) सम-सौजन्य-संपदाम् अर्जनां कुरुताम् (let one acquire the riches of evenness and goodness) यत्र नाशः न विद्यते (where there is no loss).
 </p>
 
-**Translation:** "Rāma, through the discipline of dispassion and practice, let one gain the riches of evenness and goodness, which can never be lost."
+**Translation:** "Rāma, by joining dispassion to steady practice, one should lay up a treasure of evenness and kindness that no loss can touch."
 
 **Pointers for Reflection:**
 

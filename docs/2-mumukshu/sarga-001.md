@@ -243,7 +243,7 @@
 एकदा (once) सः अमल-प्रज्ञः (he of pure wisdom) मेरौ एकान्त-सुस्थितं (sitting at ease in solitude on Meru) पितरं कृष्ण-द्वैपायनं मुनिं (his father, the sage Kṛṣṇa Dvaipāyana) भक्त्या पप्रच्छ (asked with devotion).
 </p>
 
-**Translation:** "Once, that pure-minded one went with devotion to his father, the sage Kṛṣṇa Dvaipāyana, who sat at ease in solitude on Mount Meru, and asked him:"
+**Translation:** "One day that clear-minded youth came reverently to his father, the sage Kṛṣṇa Dvaipāyana, who was sitting quietly apart on Mount Meru, and put a question to him:"
 
 **Pointers for Reflection:**
 
@@ -620,7 +620,7 @@
 महाबाहो (O mighty-armed one), तत् एतत् किम् (what then is this)? मम अचलं सत्यं ब्रूहि (tell me the unshakeable truth); जगत् भ्रमता चेतसा (with my mind that has wandered the world) त्वत्तः विश्रान्तिम् आप्नोमि (I [seek to] find rest from you).
 </p>
 
-**Translation:** "Mighty-armed one, what then is this? Tell me the truth that cannot be shaken. My mind has wandered the whole world; from you I would find rest."
+**Translation:** "Mighty-armed one, what is all this, then? Give me the truth that does not waver. My mind has roamed through the whole world; in you I hope to find rest."
 
 **Pointers for Reflection:**
 
@@ -639,7 +639,7 @@
 मुने (O sage), अतः परतरः अपरः कश्चित् निश्चयः न अस्ति (there is no other conclusion higher than this); त्वया स्वयम् एव ज्ञातम् (you have known it yourself) गुरुतः च पुनः श्रुतम् (and heard it again from your teacher).
 </p>
 
-**Translation:** Janaka said: "Sage, there is no conclusion higher than this. You have known it yourself, and heard it again from your teacher."
+**Translation:** Janaka said: "Sage, nothing stands higher than this conclusion. You found it on your own, and then you heard it once more from your teacher."
 
 **Pointers for Reflection:**
 
@@ -693,7 +693,7 @@
 बाल (O child) महावीर (O great hero), तव मतिः (your mind) दीर्घ-रोगेभ्यः भोगेभ्यः (from pleasures, which are long diseases) विरतिम् आगता (has reached dispassion); अन्यत् किं श्रोतुम् इच्छसि (what else do you wish to hear)?
 </p>
 
-**Translation:** "Child, great hero, your mind has turned away from pleasures, those lingering diseases. What more do you want to hear?"
+**Translation:** "My boy, my hero, your mind has turned its back on pleasures — those slow, chronic sicknesses. What is left for you to hear?"
 
 **Pointers for Reflection:**
 
@@ -765,7 +765,7 @@
 महात्मना जनकेन (by the great-souled Janaka) इति एवम् अनुशिष्टः सः शुकः (Śuka, so instructed) तूष्णीं (silently) स्वच्छे परम-वस्तुनि अतिष्ठत् (rested in the clear supreme reality).
 </p>
 
-**Translation:** "So instructed by the great-souled Janaka, Śuka rested in silence in the clear, supreme reality."
+**Translation:** "Taught in this way by the great-souled Janaka, Śuka fell silent and came to rest in that clear, highest reality."
 
 **Pointers for Reflection:**
 
