@@ -37,9 +37,11 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">परमं पदम्</span> (paramaṃ padam) | the supreme state | [1.1.7](1-vairagya/sarga-001.md#1-1-7) |
 | <span class="sa">पुण्य</span> (puṇya) | merit earned by good action | [1.1.36](1-vairagya/sarga-001.md#1-1-36) |
 | <span class="sa">पुरुषार्थ</span> (puruṣārtha) | the aims of human life: pleasure, wealth, duty and liberation | [1.27.15](1-vairagya/sarga-027.md#1-27-15) |
+| <span class="sa">पूर्णता</span> (pūrṇatā) | fullness | [1.30.26](1-vairagya/sarga-030.md#1-30-26) |
 | <span class="sa">प्रतिज्ञा</span> (pratijñā) | a solemn promise, vow | [1.9.2](1-vairagya/sarga-009.md#1-9-2) |
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
+| <span class="sa">प्रसाद</span> (prasāda) | clarity, serenity of mind | [1.30.16](1-vairagya/sarga-030.md#1-30-16) |
 | <span class="sa">बुद्ध</span> (buddha) | the awakened one | [1.26.39](1-vairagya/sarga-026.md#1-26-39) |
 | <span class="sa">भावना</span> (bhāvanā) | mental imagining, the way the mind pictures things | [1.26.22](1-vairagya/sarga-026.md#1-26-22) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
@@ -59,6 +61,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
 | <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
+| <span class="sa">शान्ति</span> (śānti) | peace | [1.29.23](1-vairagya/sarga-029.md#1-29-23) |
 | <span class="sa">श्रेयस्</span> (śreyas) | the highest good (as opposed to प्रेयस्, the merely pleasant) | [1.7.14](1-vairagya/sarga-007.md#1-7-14) |
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
 | <span class="sa">संसार</span> (saṃsāra) | worldly existence; the cycle of birth and death | [1.1.47](1-vairagya/sarga-001.md#1-1-47) |

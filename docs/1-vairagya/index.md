@@ -34,3 +34,5 @@
 - [Sarga 26 — Is there anything to trust? (43 verses)](sarga-026.md)
 - [Sarga 27 — Nothing brings rest (41 verses)](sarga-027.md)
 - [Sarga 28 — Everything changes (43 verses)](sarga-028.md)
+- [Sarga 29 — Rāma's resolve (23 verses)](sarga-029.md)
+- [Sarga 30 — Rāma's questions (27 verses)](sarga-030.md)
