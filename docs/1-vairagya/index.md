@@ -14,3 +14,4 @@
 - [Sarga 6 — The arrival of Viśvāmitra (55 verses)](sarga-006.md)
 - [Sarga 7 — Viśvāmitra's request (28 verses)](sarga-007.md)
 - [Sarga 8 — Daśaratha's refusal (38 verses)](sarga-008.md)
+- [Sarga 9 — Vasiṣṭha's counsel (23 verses)](sarga-009.md)
