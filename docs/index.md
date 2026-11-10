@@ -6,7 +6,12 @@
 
 The Yoga Vasiṣṭha is a dialogue between the sage Vasiṣṭha and the young prince Śrī Rāma. Troubled by the suffering and impermanence of life, Śrī Rāma asks his teacher what is real and how one should live. Vasiṣṭha answers through philosophy and through many stories.
 
-Traditionally attributed to Vālmīki, the full text has about 29,000 verses in six books, called prakaraṇas. Its central teaching is that the world is an appearance in consciousness, and that liberation is possible while living fully in the world.
+Traditionally attributed to Vālmīki, the text is arranged in six books, called prakaraṇas. Its central teaching is that the world is an appearance in consciousness, and that liberation is possible while living fully in the world.
+
+!!! info "32,000 or 29,000 verses?"
+    The text describes itself as having 32,000 verses. In 2.17.6 Vasiṣṭha calls it <span class="sa">मोक्षोपायाभिधानेयं संहिता सारसंमिता । त्रिंशद्द्वे च सहस्राणि ज्ञाता निर्वाणदायिनी ॥</span> — *this collection, named "The Means to Liberation", full of essence, is known to have thirty-two thousand [verses], and grants nirvāṇa.*
+
+    The editions that actually survive are a little shorter: the standard printed text (the Nirṇaya Sāgar edition) has about 29,300 verses. The gap is normal for a work handed down in manuscripts over many centuries: verses were lost, merged or counted differently, and different regions preserved different versions. "32,000" is the text's own traditional figure; "about 29,000" is what the printed text contains. There is also a much shorter abridgement, the *Laghu Yoga Vasiṣṭha*, of about 6,000 verses.
 
 Four features set it apart. The commentary on each verse returns to them often.
 
@@ -14,9 +19,47 @@ Four features set it apart. The commentary on each verse returns to them often.
 
 2. <a id="questions-worth-asking"></a>**Questions worth asking.** Often we do not even know what to ask. Here Śrī Rāma, still a teenager, asks the questions that matter most — about suffering, time, the mind and the meaning of life. The text teaches how to ask before it teaches the answers.
 
-3. <a id="a-synthesis"></a>**A synthesis.** The text is Advaita Vedānta at its core, yet it weaves in insights from other traditions, such as Jainism, Buddhism and Kashmir Śaivism, into one whole.
+3. <a id="a-synthesis"></a>**A synthesis.** The text is Advaita Vedānta at its core, yet it weaves in insights from other traditions, such as Jainism, Buddhism and Kashmir Śaivism, into one whole. [Examples are given below](#how-the-traditions-meet).
 
 4. <a id="wisdom-lived"></a>**Wisdom lived, not renounced.** Śrī Rāma does not take up renunciation. Having awakened, he goes on to live a full householder life, showing that liberation is possible in the midst of duty and the world.
+
+## How the traditions meet { #how-the-traditions-meet }
+
+The Yoga Vasiṣṭha does not argue against other schools so much as gather them in. Its view is that different traditions have named the one reality in different ways. Some concrete examples:
+
+**The one reality under many names.** In 5.87.18 the text describes the final state as
+<span class="sa">यच्छून्यवादिनां शून्यं ब्रह्म ब्रह्मविदां वरम् । विज्ञानमात्रं विज्ञानविदां यदमलं पदम् ॥</span>
+— *that which is the Void for those who teach emptiness, the supreme Brahman for the knowers of Brahman, pure consciousness for those who teach consciousness: that stainless state.* "The Void" is the term of the Buddhist Madhyamaka school of Nāgārjuna; "consciousness only" is that of the Buddhist Vijñānavāda (Yogācāra); "Brahman" is that of the Upaniṣads and Vedānta. The verse treats all three as pointing to one place. Elsewhere the Self is also called by the Sāṅkhya name *puruṣa*.
+
+**Buddhism.**
+
+- *Craving as the root of suffering.* The Buddha's second noble truth names craving (Sanskrit तृष्णा, Pāli *taṇhā*) as the cause of suffering. Śrī Rāma devotes a whole sarga to it ([Sarga 17](1-vairagya/sarga-017.md)) and calls the giving up of longing "the healing mantra" ([1.17.43](1-vairagya/sarga-017.md#1-17-43)).
+- *Nirvāṇa as blowing out.* The image of craving vanishing "like the flame of a lamp blown out" ([1.15.13](1-vairagya/sarga-015.md#1-15-13)) is the literal sense of the word *nirvāṇa*, and the sixth book itself is called the *Nirvāṇa Prakaraṇa*.
+- *The world as mind.* "The mind is the cause of all things; while it exists, the three worlds exist" ([1.16.25](1-vairagya/sarga-016.md#1-16-25)). This is very close to the Yogācāra teaching that the world is "mind only", and it becomes the central theme of the Utpatti Prakaraṇa.
+- *Momentariness.* The text constantly calls things क्षणभङ्गुर, "breaking in a moment" — a key Buddhist idea — as when life itself is called "fragile as a drop of water at a leaf's tip" ([1.14.1](1-vairagya/sarga-014.md#1-14-1)).
+
+**Jainism.**
+
+- *The Jina as a model.* At [1.15.8](1-vairagya/sarga-015.md#1-15-8) Śrī Rāma says <span class="sa">नाहं रामो न मे वाञ्छा भावेषु न च मे मनः । शान्त आसितुमिच्छामि स्वात्मनीव जिनो यथा ॥</span> — *I am not Rāma… like a Jina in his own Self, I wish to rest in peace.* The Jina, "the conqueror" of the passions, is the liberated teacher of Jainism; here he is the model for Rāma himself.
+- *Meditation on the body.* [Sarga 18](1-vairagya/sarga-018.md) dwells on the impurity and impermanence of the body, a practice shared by Jaina (*aśuci-bhāvanā*) and Buddhist traditions to loosen attachment. The Yoga Vasiṣṭha completes it with the Vedāntic insight "I am not the body" ([1.18.53](1-vairagya/sarga-018.md#1-18-53)).
+
+**Kashmir Śaivism.**
+
+- *Origin.* Modern scholarship traces the text to Kashmir. Its earlier form, the *Mokṣopāya* — the name the text gives itself in 2.17.6 above — is dated by Walter Slaje to tenth-century Kashmir, and was later reworked, with ideas from the Śaiva Trika school, into the Yoga Vasiṣṭha read today.
+- *Spanda, the vibration of consciousness.* Kashmir Śaivism teaches that consciousness is not inert but has an inner pulse, *spanda*, through which the world appears and disappears. The Yoga Vasiṣṭha uses the same language: the world is the स्पन्द, the vibration, of consciousness, as waves are the movement of water.
+- *Worship of Śiva as consciousness.* In the Nirvāṇa Prakaraṇa, Vasiṣṭha recounts how Śiva himself taught him the true *deva-pūjā*: the God to be worshipped is consciousness, and the real worship is knowing it, not offerings of flowers.
+
+**Sāṅkhya and Yoga.**
+
+- *Sāṅkhya terms.* The names *puruṣa* (the Self) and *prakṛti* (nature, with its three guṇas) are used freely, but reinterpreted: nature is identified with ignorance (*avidyā*), not treated as a second reality.
+- *Yogic practice.* The stories of Bhuśuṇḍa and of Queen Cūḍālā describe breath-control (*prāṇāyāma*) and yogic powers, and the text teaches a ladder of seven stages of knowledge (*sapta-bhūmikā*), from the first longing for truth (शुभेच्छा) and inquiry (विचारणा) to the "fourth" (तुर्यगा), the state beyond waking, dream and sleep.
+
+**The Gītā and the way of action.**
+
+- *Effort over fate.* In the Mumukṣu Prakaraṇa Vasiṣṭha insists that human effort (पौरुष) shapes one's life, and that "fate" is only the effect of one's own past effort.
+- *Arjuna's story.* In the Nirvāṇa Prakaraṇa Vasiṣṭha tells Śrī Rāma how Kṛṣṇa will one day teach Arjuna on the battlefield — the teaching of the Bhagavad Gītā retold inside the Yoga Vasiṣṭha. The Lord who is the student here is shown, in another age, as the teacher.
+
+What holds all this together is Advaita Vedānta: one consciousness appearing as many, and freedom as knowing this while still living and acting in the world. The other traditions are not borrowed to be refuted, but welcomed as partial views of that one truth.
 
 ## How to use this site
 
