@@ -14,6 +14,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">आस्था</span> (āsthā) | trust, reliance | [1.26.1](1-vairagya/sarga-026.md#1-26-1) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
+| <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">काल</span> (kāla) | Time | [1.22.23](1-vairagya/sarga-022.md#1-22-23) |
