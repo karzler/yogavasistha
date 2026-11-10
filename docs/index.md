@@ -10,11 +10,6 @@ Traditionally attributed to Vālmīki, the full text has about 32,000 verses in 
 
 The Yoga Vasiṣṭha is also a great synthesis. At its core is Advaita Vedānta, the teaching of the Upaniṣads that there is one consciousness appearing as many. Around that core it gathers ideas from Buddhism, Jainism, Kashmir Śaivism, Sāṅkhya and Yoga, and the Bhagavad Gītā, treating them not as rivals but as different names for the one truth. [See how the traditions meet](#how-the-traditions-meet), with concrete examples.
 
-!!! info "Why 32,000 verses?"
-    The text describes itself as having 32,000 verses. In 2.17.6 Vasiṣṭha calls it <span class="sa">मोक्षोपायाभिधानेयं संहिता सारसंमिता । त्रिंशद्द्वे च सहस्राणि ज्ञाता निर्वाणदायिनी ॥</span> — *this collection, named "The Means to Liberation", full of essence, is known to have thirty-two thousand [verses], and grants nirvāṇa.*
-
-    The editions that actually survive are a little shorter: the standard printed text (the Nirṇaya Sāgar edition) has about 29,300 verses. The gap is normal for a work handed down in manuscripts over many centuries: verses were lost, merged or counted differently, and different regions preserved different versions. This site follows the text's own traditional figure of 32,000. There is also a much shorter abridgement, the *Laghu Yoga Vasiṣṭha*, of about 6,000 verses.
-
 Four features set it apart. The commentary on each verse returns to them often.
 
 1. <a id="the-lord-as-student"></a>**The Lord as student.** In the Bhagavad Gītā the Lord is the Guru, teaching Arjuna. In the Yoga Vasiṣṭha the Lord is the student: Śrī Rāma sits before Vasiṣṭha to learn. Together the two texts show the teaching from both sides.
