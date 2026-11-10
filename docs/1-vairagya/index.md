@@ -33,3 +33,4 @@
 - [Sarga 25 — The dance of Fate and Death (32 verses)](sarga-025.md)
 - [Sarga 26 — Is there anything to trust? (43 verses)](sarga-026.md)
 - [Sarga 27 — Nothing brings rest (41 verses)](sarga-027.md)
+- [Sarga 28 — Everything changes (43 verses)](sarga-028.md)
