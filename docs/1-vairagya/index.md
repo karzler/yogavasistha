@@ -26,3 +26,4 @@
 - [Sarga 18 — On the body (62 verses)](sarga-018.md)
 - [Sarga 19 — On childhood (31 verses)](sarga-019.md)
 - [Sarga 20 — On youth (43 verses)](sarga-020.md)
+- [Sarga 21 — On woman and desire (36 verses)](sarga-021.md)
