@@ -811,7 +811,7 @@
 **Pointers for Reflection:**
 
 - **The key verse of Sarga 10.** न मूढो न च मुक्तः — "neither deluded nor free". This is exactly the qualified student of 1.2.2: नात्यन्तमज्ञो नोत ज्ञः, "neither wholly ignorant nor a knower". Rāma is now the perfect अधिकारी for the teaching.
-- **The danger of the in-between.** Without a teacher, this state is painful and dangerous (1.10.46). With a teacher, it is the doorway to freedom.
+- **The danger of the in-between.** Without a teacher, this state is painful and can turn against life itself (1.10.46). With a teacher, it is the doorway to freedom.
 - **A question to sit with.** Have I been in this in-between state — no longer satisfied by the world, not yet at peace beyond it?
 
 ## Verse 1.10.46 { #1-10-46 }
@@ -829,9 +829,26 @@
 
 **Pointers for Reflection:**
 
-- **A grave moment.** Dispassion without understanding has turned into a wish to give up life itself. The text names this danger honestly.
-- **Why a teacher is needed.** This is the strongest reason the Yoga Vasiṣṭha gives for the teaching: vairāgya alone can lead to despair. Only knowledge turns it into freedom (the two wings, 1.1.7).
-- **A note for readers.** If you recognise this state in yourself, please do not face it alone. Speak with someone you trust or with a professional. The Yoga Vasiṣṭha itself shows that the answer to such despair comes through being heard and helped.
+- **The darkest point of the Vairāgya Prakaraṇa.** Rāma's dispassion has turned against life itself. He no longer asks only "what is the use of wealth and kingdom?" but "what is the use of living?" This is detachment without understanding: true in what it sees, mistaken in what it concludes.
+- **Arjuna, too, preferred death.** Gītā 1.46:
+    - <span class="parallel">यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः । धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥</span>
+    - *If the sons of Dhṛtarāṣṭra, weapons in hand, were to kill me in battle, unarmed and unresisting, that would be better for me.*
+    - Both heroes reach a point where giving up life seems better than going on. Both teachings begin from that edge.
+- **"What use is a kingdom?" — Gītā 2.8:**
+    - <span class="parallel">न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम् । अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ॥</span>
+    - *I see nothing that could remove this grief that dries up my senses — not an unrivalled, prosperous kingdom on earth, not even lordship over the gods.*
+    - Arjuna's किं राज्येन, almost. Neither kingdom nor heaven can answer this kind of sorrow, because the sorrow is not about things.
+- **Wise words from a grieving mind — Gītā 2.11:**
+    - <span class="parallel">अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे ।</span>
+    - *You grieve for what should not be grieved for, and yet you speak words of wisdom.*
+    - Rāma speaks true things — all is unreal (1.10.18), pleasures please only at first (1.10.30), fortune and misfortune are the mind's constructions (1.10.38). But he speaks them from sorrow. Kṛṣṇa's diagnosis fits him exactly: the words are wise; the state is not.
+- **Why the detachment is misplaced.** Real वैराग्य is freedom from both attraction and aversion. Rāma has escaped attraction, but has fallen into aversion — towards pleasures, people, even life. Gītā 3.34:
+    - <span class="parallel">इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ । तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥</span>
+    - *Attraction and aversion lie in wait in every sense-object. Do not fall under their sway; they are the enemies on one's path.*
+    - द्वेष, aversion, is the twin of राग. To recoil from life is still to be bound to it. Wanting to escape is still wanting.
+- **Two kinds of despair.** Arjuna's grief comes from attachment: he cannot bear to kill his kin (मोह). Rāma's comes from insight: he has seen the impermanence of everything. Rāma's is the more advanced crisis — his discernment (विवेक) is real. But both lack the same thing: knowledge of the Self that does not pass away. Without it, Arjuna clings and Rāma recoils.
+- **The same remedy, the same ending.** Both crises are answered not by escape but by teaching, and both teachings send the hero back into action. Arjuna ends: <span class="parallel">नष्टो मोहः स्मृतिर्लब्धा … करिष्ये वचनं तव</span> (Gītā 18.73) — *my delusion is gone, my memory restored; I will do as you say* — and he fights. Rāma will end the Yoga Vasiṣṭha by returning to life and ruling as one free while living (your fourth reason). Detachment, rightly understood, does not leave the world; it lives in it without being bound.
+- **The two wings again.** This verse shows what happens when the wing of dispassion flies without the wing of knowledge (1.1.7–1.1.8): the bird does not rise, it falls. The whole teaching that follows is the second wing.
 
 ## Verse 1.10.47 { #1-10-47 }
 
