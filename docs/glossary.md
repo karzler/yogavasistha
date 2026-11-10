@@ -26,6 +26,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">उपाधि</span> (upādhi) | limiting condition, an adjunct that makes the limitless seem limited | [1.30.11](1-vairagya/sarga-030.md#1-30-11) |
 | <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
 | <span class="sa">एकवाक्यता</span> (ekavākyatā) | agreement of one's own experience, scripture and the teacher | [2.13.11](2-mumukshu/sarga-013.md#2-13-11) |
+| <span class="sa">कृतकृत्य</span> (kṛtakṛtya) | one who has done what was to be done; the freed one | [2.17.43](2-mumukshu/sarga-017.md#2-17-43) |
 | <span class="sa">कृतान्त</span> (kṛtānta) | Death, "the one who makes an end" | [1.25.5](1-vairagya/sarga-025.md#1-25-5) |
 | <span class="sa">काम</span> (kāma) | desire, lust | [1.20.3](1-vairagya/sarga-020.md#1-20-3) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
@@ -58,6 +59,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">पुरुषार्थ</span> (puruṣārtha) | the aims of human life: pleasure, wealth, duty and liberation | [1.27.15](1-vairagya/sarga-027.md#1-27-15) |
 | <span class="sa">पूर्णता</span> (pūrṇatā) | fullness | [1.30.26](1-vairagya/sarga-030.md#1-30-26) |
 | <span class="sa">पौरुष</span> (pauruṣa) | human effort, self-effort | [1.27.33](1-vairagya/sarga-027.md#1-27-33) |
+| <span class="sa">प्रकरण</span> (prakaraṇa) | a book or section of the work; the Yoga Vasiṣṭha has six | [2.17.10](2-mumukshu/sarga-017.md#2-17-10) |
 | <span class="sa">प्रतिज्ञा</span> (pratijñā) | a solemn promise, vow | [1.9.2](1-vairagya/sarga-009.md#1-9-2) |
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
