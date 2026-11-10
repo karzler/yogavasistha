@@ -59,7 +59,7 @@
 अयं विपर्ययः (this reversal) अस्य राघवाणां कुलस्य अयुक्तः (is unworthy of this line of the Raghus); शीत-अंशोः (from the cool-rayed moon) उष्ण-रश्मयः (hot rays) न कदाचन जायन्ते (are never born).
 </p>
 
-**Translation:** "This reversal is unworthy of the line of the Raghus. Hot rays are never born from the cool-rayed moon."
+**Translation:** "Such a turnabout ill becomes the house of the Raghus. The moon, whose rays are cool, never gives off scorching ones."
 
 **Pointers for Reflection:**
 
@@ -245,7 +245,7 @@
 पुरुष-सिंहेन गुप्तं (protected by this lion among men) ज्वलनेन अमृतं यथा (as nectar is guarded by fire), कृत-अस्त्रम् अकृत-अस्त्रं वा (whether skilled in weapons or not) एनं राक्षसाः न शक्ष्यन्ति (the rākṣasas will not be able to harm him).
 </p>
 
-**Translation:** "Protected by this lion among men, as the nectar of immortality is guarded by fire, Rāma cannot be harmed by the rākṣasas, whether he is skilled in weapons or not."
+**Translation:** "With this lion of a man to guard him, as fire guards the amṛta, Rāma is beyond the reach of rākṣasas — trained in arms or not."
 
 **Pointers for Reflection:**
 
@@ -298,7 +298,7 @@
 न देवाः (not gods) न ऋषयः केचित् (nor any seers) न असुराः न च राक्षसाः (nor asuras nor rākṣasas) न नागाः यक्ष-गन्धर्वाः (nor nāgas, yakṣas, gandharvas) समेताः (even all together) मुनेः सदृशाः (are equal to this sage).
 </p>
 
-**Translation:** "Neither gods nor seers, asuras nor rākṣasas, nāgas, yakṣas nor gandharvas — not even all of them together — are equal to this sage."
+**Translation:** "No god, no ṛṣi, no asura or rākṣasa, no nāga, yakṣa or gandharva — not even all of them gathered together — can stand comparison with this muni."
 
 **Pointers for Reflection:**
 

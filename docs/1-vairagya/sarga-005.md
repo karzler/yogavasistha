@@ -242,7 +242,7 @@
 ततः (then) दशरथः राजा (King Daśaratha) रामः किं खेदवान् इति (why is Rāma downcast?) सर्व-कार्य-ज्ञं वदतां वरं वसिष्ठम् अपृच्छत् (asked Vasiṣṭha, who knew all matters and was the best of speakers).
 </p>
 
-**Translation:** Then King Daśaratha asked Vasiṣṭha, who understood all matters and was the best of speakers: "Why is Rāma so downcast?"
+**Translation:** Then King Daśaratha put a question to Vasiṣṭha, foremost of speakers, who knew the right course in every affair: "What has made Rāma so weary at heart?"
 
 **Pointers for Reflection:**
 

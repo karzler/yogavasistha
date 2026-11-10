@@ -164,7 +164,7 @@
 तस्मिन् महा-क्रतौ (for that great rite) सा मम ईदृशी यज्ञ-दीक्षा (such is my consecration); त्वत्-प्रसादात् (by your grace) अविघ्नेन (without obstruction) महा-फलं प्रापयेयम् (may I reach its great fruit).
 </p>
 
-**Translation:** "Such is my consecration for that great rite. By your grace, may I reach its great fruit without obstruction."
+**Translation:** "This is the vow I have taken for that great sacrifice. Through your kindness, may I carry it through unhindered and win its full reward."
 
 **Pointers for Reflection:**
 
@@ -199,7 +199,7 @@
 तव (you have) श्रीमान् (a glorious) दृप्त-शार्दूल-विक्रमः (with the valour of a proud tiger) वीर्ये महेन्द्र-सदृशः (equal to Indra in strength) रक्षः-विदारणः (a destroyer of rākṣasas) रामः तनयः अस्ति (son, Rāma).
 </p>
 
-**Translation:** "You have a glorious son, Rāma, with the valour of a proud tiger, equal to Indra in strength, a destroyer of rākṣasas."
+**Translation:** "You have a son, Rāma, radiant, bold as a fierce tiger, a match for Indra in might, one who tears the rākṣasas apart."
 
 **Pointers for Reflection:**
 
@@ -250,7 +250,7 @@
 अस्य (for him) बहु-रूपम् अनन्तकं श्रेयः च करिष्यामि (I will also bring about many kinds of endless good), येन (by which) त्रयाणाम् अपि लोकानां पूज्यः भविष्यति (he will be honoured by all three worlds).
 </p>
 
-**Translation:** "And I will bring him endless good of many kinds, by which he will be honoured in all three worlds."
+**Translation:** "I, for my part, will do him good beyond measure and in many forms, so that the three worlds will come to revere him."
 
 **Pointers for Reflection:**
 
@@ -303,7 +303,7 @@
 वीर्य-उत्सिक्ताः ते पापाः (those wicked ones, swollen with power) रणे काल-कूट-उपमाः (are like deadly poison in battle), खर-दूषणयोः भृत्याः (servants of Khara and Dūṣaṇa) कुपिताः कृतान्ताः इव (like enraged gods of death).
 </p>
 
-**Translation:** "Swollen with power, those wicked ones are like deadly poison in battle, servants of Khara and Dūṣaṇa, like enraged gods of death."
+**Translation:** "Those evil ones, drunk on their own strength, are deadly as the kālakūṭa poison in a fight — henchmen of Khara and Dūṣaṇa, like Death in a rage."
 
 **Pointers for Reflection:**
 
@@ -320,7 +320,7 @@
 राज-शार्दूल (tiger among kings), [ते] रामस्य सायकान् न सहिष्यन्ते (they will not withstand Rāma's arrows), जलदस्य अनारत-गताः धाराः पांसवः इव (as dust cannot withstand a cloud's unceasing downpour).
 </p>
 
-**Translation:** "Tiger among kings, they will not withstand Rāma's arrows, as dust cannot withstand the steady downpour of a rain cloud."
+**Translation:** "O lion among kings, they will not bear up under Rāma's shafts, any more than dust can stand against the unbroken streams of a rain cloud."
 
 **Pointers for Reflection:**
 

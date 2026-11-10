@@ -770,7 +770,7 @@
 सु-चिरं प्रभुतां कृत्वा (having ruled for a long time) विभव-श्रियं संसेव्य (having enjoyed the splendour of wealth) कायः (the body) न उच्छ्रायम् एति (does not become great) न स्थैर्यम् (nor steady); किम् इति पाल्यते (why then is it cherished?).
 </p>
 
-**Translation:** "Even after ruling for a long time and enjoying the splendour of wealth, the body gains neither greatness nor stability. Why then is it cherished?"
+**Translation:** "Long years of lordship, of tasting the glory of riches — and still the body grows no taller and no firmer. What, then, is all this tending of it for?"
 
 **Pointers for Reflection:**
 
@@ -822,7 +822,7 @@
 इह संसार-अब्धौ (here in the ocean of saṃsāra) दहन-एक-अर्थ-योग्यानि (fit only for burning) काय-काष्ठानि (logs of bodies) भूरिशः उह्यन्ते (are carried along in great numbers); तेषु कंचित् (among them, some one) नरं विदुः (they call a [true] human).
 </p>
 
-**Translation:** "In the ocean of saṃsāra, countless logs of bodies, good only for burning, drift along. Among them, only a rare one is known as a true human being."
+**Translation:** "In this sea of becoming, bodies float past in their thousands, timber fit only for the pyre; just one here and there is recognised as a man."
 
 **Pointers for Reflection:**
 
@@ -996,7 +996,7 @@
 अस्मिन् दृश्ये (in this visible world) किंचित् अपि सत्यं न (nothing at all is real); चित्रम् (it is a wonder) तेन हत-आत्मना दग्ध-शरीरेण (by that wretched, cursed body) जनता विप्रलभ्यते (people are deceived).
 </p>
 
-**Translation:** "Nothing at all in this visible world is real. It is a wonder that people are so deceived by this wretched, cursed body."
+**Translation:** "In all this that is seen, there is nothing true. And yet — a marvel! — the whole world is taken in by this wretched, ill-fated body."
 
 **Pointers for Reflection:**
 

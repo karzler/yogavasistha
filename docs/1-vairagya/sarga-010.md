@@ -59,7 +59,7 @@
 राज्ञा इति विसृष्टः असौ (sent thus by the king) अन्तःपुर-मन्दिरं गत्वा (going to the inner palace) मुहूर्त-मात्रेण आगत्य (returning in a moment) महीपतिं समुवाच (said to the king):
 </p>
 
-**Translation:** Sent by the king, the doorkeeper went to the inner palace, came back in a moment, and said to the king:
+**Translation:** Dismissed by the king, he went off to the inner apartments, returned within moments, and spoke to the lord of the earth:
 
 **Pointers for Reflection:**
 
@@ -353,7 +353,7 @@
 विलोल-अलक-वल्लर्यः (with swaying, vine-like curls) हेला-वलित-लोचनाः (with playfully turning eyes) नार्यः (women) तं न आनन्दयन्ति (do not delight him), मृग्यः वन-तरुं यथा (as does do not delight a tree in the forest).
 </p>
 
-**Translation:** "Women with swaying curls and playful glances do not delight him, any more than deer delight a forest tree."
+**Translation:** "Women with dancing locks and sidelong, playful eyes give him no joy — no more than does a doe to a tree of the forest."
 
 **Pointers for Reflection:**
 
@@ -482,7 +482,7 @@
 प्रत्यहं कृशताम् एति (day by day he grows thinner) प्रत्यहं पाण्डुतां याति (day by day paler) प्रत्यहं विरागं याति (day by day more dispassionate), शरत्-अन्ते द्रुमः इव (like a tree at the end of autumn).
 </p>
 
-**Translation:** "Day by day he grows thinner, day by day paler, day by day more dispassionate, like a tree at the end of autumn."
+**Translation:** "With each passing day he wastes a little more and loses more of his colour; with each day his detachment deepens, like a tree as autumn draws to its close."
 
 **Pointers for Reflection:**
 
@@ -644,7 +644,7 @@
 कान्ता-मध्य-गतस्य अपि (even when among beautiful women) अस्य दुर्भेद्यं मनः (his impenetrable mind) मदन-इषवः न भेदयन्ति (the arrows of love do not pierce), धाराः महा-उपलम् इव (as rain does not split a great rock).
 </p>
 
-**Translation:** "Even among beautiful women, the arrows of love cannot pierce his mind, as rain cannot split a great rock."
+**Translation:** "Sit him among lovely women, and still Kāma's arrows fail to pierce that impenetrable mind, as streams of rain fail to break a great boulder."
 
 **Pointers for Reflection:**
 

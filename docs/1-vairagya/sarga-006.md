@@ -58,7 +58,7 @@
 एतस्मिन् एव काले तु (at that very time) विश्वामित्रः इति श्रुतः महर्षिः (the great seer known as Viśvāmitra) तम् अयोध्या-नर-अधिपं द्रष्टुम् अभ्यगात् (came to see that king of Ayodhyā).
 </p>
 
-**Translation:** … at that very moment the great seer known as Viśvāmitra arrived to see the king of Ayodhyā.
+**Translation:** … just then the great ṛṣi famed as Viśvāmitra came to Ayodhyā to see its ruler.
 
 **Pointers for Reflection:**
 
@@ -128,7 +128,7 @@
 राज्ञः दर्शन-आकाङ्क्षी (wishing to see the king) सः (he) द्वार-अध्यक्षान् उवाच ह (said to the doorkeepers): शीघ्रम् आख्यात (announce quickly) मां गाधिनः सुतं कौशिकं प्राप्तम् (that I, Kauśika, son of Gādhi, have come).
 </p>
 
-**Translation:** Wishing to see the king, he said to the doorkeepers: "Announce quickly that I, Kauśika, son of Gādhi, have come."
+**Translation:** Eager for an audience with the king, he told the keepers of the gate: "Go at once and say that Kauśika, Gādhi's son, is here."
 
 **Pointers for Reflection:**
 
@@ -162,7 +162,7 @@
 ते प्रतीहाराः (those doorkeepers) राज-सदनं गत्वा (going to the palace) ततः (then) तदा पत्युः (to their master) विश्वामित्रम् ऋषिं प्राप्तम् आवेदयामासुः (announced that the seer Viśvāmitra had arrived).
 </p>
 
-**Translation:** Reaching the palace, the doorkeepers announced to their master that the seer Viśvāmitra had come.
+**Translation:** The gatekeepers made their way into the royal hall and informed their lord that the ṛṣi Viśvāmitra had arrived.
 
 **Pointers for Reflection:**
 
@@ -281,7 +281,7 @@
 यत्र असौ महा-मुनिः विश्वामित्रः (where that great sage Viśvāmitra was) तत्र जगाम (he went), द्वार-भूमौ अवस्थितं मुनि-शार्दूलं ददर्श (and saw that tiger among sages standing at the gate).
 </p>
 
-**Translation:** … he went to where the great sage Viśvāmitra was, and saw that tiger among sages standing at the gate.
+**Translation:** … he made his way to the spot where Viśvāmitra, the great muni, stood, and found that tiger of sages waiting at the threshold.
 
 **Pointers for Reflection:**
 
@@ -460,7 +460,7 @@
 ततः (then) वसिष्ठ-प्रमुखाः सर्वे एव द्विजातयः (all the twice-born, led by Vasiṣṭha) आदृताः (respectfully) स्वागत-आदि-क्रमेण (with welcome and the other rites in order) एनं पूजयामासुः (honoured him).
 </p>
 
-**Translation:** Then all the brāhmaṇas, led by Vasiṣṭha, respectfully honoured him with words of welcome and the other customary rites.
+**Translation:** After that, every one of the twice-born, Vasiṣṭha at their head, received him with reverence, offering welcome and the rest of the honours in due order.
 
 **Pointers for Reflection:**
 
@@ -918,7 +918,7 @@
 मुनि-पुङ्गव (bull among sages), यत् कार्यं (whatever task) येन वा अर्थेन (or whatever purpose) प्राप्तः असि (you have come for), तत् कृतम् इति एव विद्धि (know it as already done), [यतः] सदा मम मान्यः असि (for you are always honoured by me).
 </p>
 
-**Translation:** "Best of sages, whatever task or purpose you have come for, know it as already done, for you are always to be honoured by me."
+**Translation:** "Foremost of munis, whatever work or aim has brought you here, count it as accomplished; you have always had my reverence."
 
 **Pointers for Reflection:**
 

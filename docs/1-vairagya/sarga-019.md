@@ -58,7 +58,7 @@
 रोष-रोदन-रौद्रासु (fierce with anger and crying) दैन्य-जर्जरितासु च (and broken by wretchedness) दशासु (in such states) बाल्यं बन्धनम् (childhood is a bondage), करिणाम् आलानम् इव (like the tethering post of elephants).
 </p>
 
-**Translation:** "In states fierce with anger and crying, and broken with misery, childhood is a bondage, like the post to which an elephant is tied."
+**Translation:** "Childhood, in its moods of tantrum and tears and its spells of misery, is a fetter — the tethering post to which an elephant is chained."
 
 **Pointers for Reflection:**
 
@@ -420,7 +420,7 @@
 बालः (a child) स्वेन बलवता मनोरथ-विलासिना मनसा (by its own powerful mind, playing with wishes) नित्यं तप्यते (is always tormented), ग्रीष्मेण वन-स्थली इव (as a forest by summer).
 </p>
 
-**Translation:** "A child is always tormented by its own powerful mind playing with wishes, as a forest is parched by summer."
+**Translation:** "The child is scorched, without respite, by its own strong mind and its play of wishes, the way summer heat scorches a woodland."
 
 **Pointers for Reflection:**
 

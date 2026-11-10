@@ -114,7 +114,7 @@
 [अहम्] एकाग्रः (I, with focused mind) विनीताय (to the humble) धीमते (wise) शिष्याय भरद्वाजाय (disciple Bharadvāja) तस्मै (to him) दत्तवान् अस्मि (gave [them]), अब्धिः अर्थिने मणिम् इव (as the ocean gives a jewel to one who seeks it).
 </p>
 
-**Translation:** "… and with a focused mind I gave them to my humble and wise disciple Bharadvāja, as the ocean gives a jewel to one who seeks it."
+**Translation:** "… and I, with undivided attention, handed it on to Bharadvāja, my disciple, modest and intelligent — as the sea yields up a gem to the one who asks for it."
 
 **Pointers for Reflection:**
 
@@ -315,7 +315,7 @@
 तत् एवम् एव अर्थं वक्तुम् (to say just this) अयम् अहम् आगतवान् (I have come here); त्वं लोक-हित-अर्थं शास्त्रं कुरु (compose the teaching for the good of the world) इति अजः उक्तवान् (so said the Unborn one).
 </p>
 
-**Translation:** "'I have come here just to say this: compose this teaching for the good of the world.' So spoke the Unborn Creator."
+**Translation:** "'This is the very thing I came to tell you: make this śāstra, for the welfare of the world.' Thus the Unborn spoke."
 
 **Pointers for Reflection:**
 

@@ -41,7 +41,7 @@
 अथ (then) प्रथम-आगतः राघवः (Rāghava, just arrived) पितरं (his father) वसिष्ठं (Vasiṣṭha) भ्रातृ-बान्धवान् (brothers and relatives) ब्राह्मणान् कुल-वृद्धान् च (brāhmaṇas and family elders) प्रणनाम (bowed to).
 </p>
 
-**Translation:** Then, as soon as he arrived, Rāma bowed to his father, to Vasiṣṭha, to his brothers and relatives, to the brāhmaṇas and to the elders of the family.
+**Translation:** Rāghava, who had come in first, then made his obeisance — to his father, to Vasiṣṭha, to his brothers and kin, to the brāhmaṇas and to the elders of the clan.
 
 **Pointers for Reflection:**
 
@@ -201,7 +201,7 @@
 एवं-प्राय-दिन-आचारः (with such a daily routine) राघवः (Rāghava) तीर्थ-यात्रायाः आगत्य (having returned from pilgrimage) भ्रातृभ्यां सह (with his two brothers) पितुः गृहे समुवास (lived in his father's house).
 </p>
 
-**Translation:** Such was Rāma's daily life after he returned from pilgrimage, living with his two brothers in his father's house.
+**Translation:** Back from his pilgrimage, Rāghava lived in his father's house together with his two brothers, and his days passed mostly in this manner.
 
 **Pointers for Reflection:**
 
@@ -218,7 +218,7 @@
 अनघ (sinless one), सः (he) नृपति-संव्यवहार-मनोज्ञया (pleasing in his dealings with kings) सुजन-चेतसि अनया चन्द्रिकया [इव] (like moonlight in the hearts of good people) स्तुत-सुधा-रस-पेशलया (gentle as praised nectar) चेष्टया (by his conduct) दिनानि परिनिनाय (passed his days).
 </p>
 
-**Translation:** In this way, O sinless one, he passed his days, his conduct charming in his dealings with kings, like moonlight in the hearts of good people, gentle as celebrated nectar.
+**Translation:** So, O blameless one, he let the days go by, his ways pleasing in all his dealings with princes, a moonlight to the minds of good people, soft as the nectar the poets praise.
 
 **Pointers for Reflection:**
 

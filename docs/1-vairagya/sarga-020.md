@@ -110,7 +110,7 @@
 महा-नरक-बीजेन (the seed of great hell) सन्तत-भ्रम-दायिना (giving constant delusion) यौवनेन (by youth) ये न नष्टाः (those who are not ruined), ते जनाः (those people) अन्येन न नष्टाः (are ruined by nothing else).
 </p>
 
-**Translation:** "Those who are not ruined by youth, the seed of great hell, giver of constant delusion, cannot be ruined by anything else."
+**Translation:** "Youth sows the seed of the deepest hells and keeps a person ever spinning. Whoever survives youth unruined will be ruined by nothing else."
 
 **Pointers for Reflection:**
 
@@ -299,7 +299,7 @@
 यौवने (in youth) जन्तुः (a creature) कान्ता-वियोग-जातेन (born of separation from the beloved) हृदि दुः-स्पर्श-वह्निना (by a fire in the heart, painful to touch) दावाग्निना तरुः यथा (like a tree by a forest fire) दह्यते (is burned).
 </p>
 
-**Translation:** "In youth, a person is burned by the fire in the heart, born of separation from the beloved — painful to touch — as a tree is burned by a forest fire."
+**Translation:** "In youth a creature burns as a tree burns in a forest fire, with a fire in the heart — one that cannot bear to be touched — kindled by separation from the one it loves."
 
 **Pointers for Reflection:**
 
@@ -384,7 +384,7 @@
 यौवनं हि (youth indeed) मद-आर्तस्य (afflicted with rut) दोष-मौक्तिक-धारिणः (bearing the pearls of faults) अभिमान-महा-इभस्य (of the great elephant of pride) नाशाय एव (only for its ruin) नित्य-आलानम् (is a permanent tethering post).
 </p>
 
-**Translation:** "Youth is the permanent tethering post of the great elephant of pride — maddened by rut, wearing the pearls of faults — and it leads only to its ruin."
+**Translation:** "For the great bull-elephant of pride, crazed with rut and decked in pearls that are really faults, youth is a tethering post it never leaves — and it is there only for its undoing."
 
 **Pointers for Reflection:**
 
@@ -401,7 +401,7 @@
 बत (alas) यौवनं (youth) मनः-विपुल-मूलानाम् (with the mind as their wide root) दोष-आशीविष-धारिणाम् (bearing the serpents of faults) शोष-रोदन-वृक्षाणाम् (of the trees of withering and weeping) काननम् (is the forest).
 </p>
 
-**Translation:** "Alas, youth is a forest of trees of withering and weeping, rooted wide in the mind and bearing the serpents of faults."
+**Translation:** "Alas, youth is a grove of trees that bear withering and weeping, their roots spreading wide in the mind, serpents of faults coiled in their branches."
 
 **Pointers for Reflection:**
 
@@ -572,7 +572,7 @@
 शरीर-शर्वरी-ज्योत्स्ना (the moonlight of the body's night) चित्त-केसरिणः सटा (the mane of the lion of the mind) जीवित-अम्भोधेः लहरी (a wave of the ocean of life) युवता (youth) मे तुष्टये न (gives me no satisfaction).
 </p>
 
-**Translation:** "Youth is moonlight on the body's night, the mane of the mind's lion, a wave on the ocean of life — it gives me no satisfaction."
+**Translation:** "Moonlight for the night of the body, a mane on the lion of the mind, a swell on the sea of living — even so, youth does not content me."
 
 **Pointers for Reflection:**
 

@@ -287,7 +287,7 @@
 मुनि-शार्दूल (tiger among sages), मानवैः (by people) असवः अथ धनं दाराः (life, wealth and wives) सुखं त्यज्यन्ते (are easily given up), न पुत्रः (but not a son); एषः हि जन्तुषु स्वभावः (this is the nature of living beings).
 </p>
 
-**Translation:** "Tiger among sages, people will give up life, wealth and even their wives easily, but not a son. Such is the nature of living beings."
+**Translation:** "O tiger of sages, a person will readily part with breath, with wealth, with a wife — but never with a son. That is how creatures are made."
 
 **Pointers for Reflection:**
 
@@ -343,7 +343,7 @@
 कौशिक (Kauśika), मम जातस्य (since my birth) नव-वर्ष-सहस्राणि (nine thousand years [have passed]); मया (by me) एते चत्वारः पुत्रकाः (these four dear sons) दुःखेन उत्पादिताः तु (were born only with great difficulty).
 </p>
 
-**Translation:** "Kauśika, nine thousand years have passed since I was born, and these four dear sons came to me only after great hardship."
+**Translation:** "Kauśika, I am nine thousand years old, and it was only through much suffering that these four little sons were born to me."
 
 **Pointers for Reflection:**
 
@@ -428,7 +428,7 @@
 ते राक्षसाः तु किं-वीर्याः (what is the strength of those rākṣasas)? कस्य पुत्राः (whose sons)? ते कथं च (and how are they)? कियत्-प्रमाणाः (how big)? के च एव (and who are they)? इति मे स्फुटं वर्णय (describe it clearly to me).
 </p>
 
-**Translation:** "What is the strength of these rākṣasas? Whose sons are they? What are they like, how large, and who exactly are they? Describe it clearly to me."
+**Translation:** "Tell me plainly: how strong are these rākṣasas? Whose offspring are they, of what kind, what size — and who, precisely, are they?"
 
 **Pointers for Reflection:**
 
@@ -445,7 +445,7 @@
 ब्रह्मन् (O seer), तेषां कूट-योधिनां रक्षसां (of those treacherous rākṣasas) तेन रामेण (by Rāma) मामकैः बालकैः (by my boys) मया वा (or by me) कथं प्रकर्तव्यम् (how should they be dealt with)?
 </p>
 
-**Translation:** "O seer, how should those treacherous rākṣasas be dealt with — by Rāma, by my boys, or by me?"
+**Translation:** "And how, O brāhmaṇa, is Rāma to deal with these demons who fight by trickery — or my young sons, or I myself?"
 
 **Pointers for Reflection:**
 
@@ -534,7 +534,7 @@
 अद्य अस्मिन् तु काले (but now, in this age) वयं रावण-आदिषु शत्रुषु (before enemies like Rāvaṇa) पुरः स्थातुं न समर्थाः (are not able to stand); एषः नियतेः निश्चयः (this is the decree of destiny).
 </p>
 
-**Translation:** "But in this age we cannot stand before enemies like Rāvaṇa. This is the decree of destiny."
+**Translation:** "At this time, though, we are no match for foes like Rāvaṇa; we could not even face them. Fate has settled it so."
 
 **Pointers for Reflection:**
 

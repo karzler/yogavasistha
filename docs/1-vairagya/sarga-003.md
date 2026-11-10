@@ -87,7 +87,7 @@
 सः च (and that [understanding]) इह सम्भवति एव (is certainly possible here); तत्-अर्थम् (for that purpose) इदं शास्त्रम् आततम् (this teaching has been set out at length). [इदम्] आकर्णयसि चेत् (if you listen to it) तत्त्वम् आप्स्यसि (you will reach the truth), न अन्यथा (not otherwise).
 </p>
 
-**Translation:** "And that understanding is possible here, in this life. For that purpose this teaching has been set out at length. If you listen to it, you will reach the truth; not otherwise."
+**Translation:** "Such understanding can be had here and now; it is for this that the teaching has been laid out in full. Hear it, and you will arrive at the truth — there is no other way."
 
 **Pointers for Reflection:**
 
@@ -175,7 +175,7 @@
 ब्रह्मन् (O sage), वासनानाम् (of the vāsanās, latent tendencies) यः अशेषेण उत्तमः परित्यागः (the complete and supreme giving-up), [सः] मोक्षः इति उच्यते (is called liberation); सः एव विमल-क्रमः (that alone is the pure path).
 </p>
 
-**Translation:** "The complete, supreme giving up of all latent tendencies (vāsanās) is called liberation, O sage. That alone is the pure path."
+**Translation:** "When vāsanās are let go entirely, without remainder, that highest letting-go is what is named liberation, O sage. It alone is the stainless way."
 
 **Pointers for Reflection:**
 
@@ -219,7 +219,7 @@
 अयं भूत-पञ्जरः देहः (this body, a cage of elements) अन्तः-निविष्टेन तनुना तन्तुना (by a thin thread running inside) मुक्त-ओघः यथा (as a string of pearls [is held]), [तथा] वासनया ध्रियते (is held together by vāsanā).
 </p>
 
-**Translation:** "This body, a cage made of the elements, is held together by vāsanā, as a string of pearls is held by the fine thread running through it."
+**Translation:** "Vāsanā holds this body together — this cage of elements — the way a fine thread hidden inside keeps a strand of pearls from scattering."
 
 **Pointers for Reflection:**
 
@@ -240,7 +240,7 @@
 वासना द्वि-विधा प्रोक्ता (vāsanā is said to be of two kinds): शुद्धा च तथा मलिना (pure and impure). मलिना जन्मनः हेतुः (the impure is the cause of birth); शुद्धा जन्म-विनाशिनी (the pure ends birth).
 </p>
 
-**Translation:** "Vāsanā is said to be of two kinds, pure and impure. The impure is the cause of rebirth; the pure brings rebirth to an end."
+**Translation:** "Two sorts of vāsanā are taught: the clean and the stained. The stained one gives rise to birth; the clean one puts an end to it."
 
 **Pointers for Reflection:**
 
@@ -410,7 +410,7 @@
 अथ (then) काले गच्छति तु (as time passed), नृपे अवनिं पालयति [सति] (while the king ruled the earth), प्रजासु वीत-शोकासु (the people being free of sorrow) विगत-ज्वरं स्थितासु (and living without distress) …
 </p>
 
-**Translation:** "As time went on, while the king ruled the earth and his people lived free of sorrow and distress …"
+**Translation:** "Time passed. The king governed the land, and his subjects lived without grief and without fever of mind …"
 
 **Pointers for Reflection:**
 
@@ -428,7 +428,7 @@
 तत्र (then) कदाचित् (one day) गुण-शालिनः रामस्य मनः (the mind of virtuous Rāma) तीर्थ-पुण्य-आश्रम-श्रेणीः (the many sacred places and holy hermitages) द्रष्टुं (to see) भृशम् उत्कण्ठितम् अभूत् (became deeply eager).
 </p>
 
-**Translation:** "… one day the mind of the virtuous Rāma became deeply eager to see the many sacred fords and holy hermitages."
+**Translation:** "… and at some point a strong longing arose in the heart of Rāma, rich in good qualities, to visit the holy fords, places of merit and lines of hermitages."
 
 **Pointers for Reflection:**
 
@@ -592,7 +592,7 @@
 ग्रामीण-ललना-लोल-हस्त-पद्म-अपनोदितैः (thrown by the restless lotus-hands of the village women) लाज-वर्षैः (by showers of parched grain) विकीर्ण-आत्मा (covered all over), हिमैः हिमाचलः इव (like the Himālaya with snow).
 </p>
 
-**Translation:** "… covered with showers of parched grain thrown by the lively, lotus-like hands of the village women, like the Himālaya covered with snow."
+**Translation:** "… strewn all over with puffed rice tossed by the restless lotus-hands of the village women, so that he looked like the Himālaya under a fall of snow."
 
 **Pointers for Reflection:**
 
@@ -773,7 +773,7 @@
 नाना-आश्चर्य-विचित्राणि (full of many wonders) चतुः-अब्धि-तटानि च (and the shores of the four seas), विन्ध्य-मन्दर-कुञ्जान् च (the groves of Vindhya and Mandara), कुल-शैल-स्थलानि च (and the regions of the great mountain ranges) …
 </p>
 
-**Translation:** "… the wondrous shores of the four seas, the groves of the Vindhya and Mandara mountains, and the lands of the great mountain ranges …"
+**Translation:** "… the coasts of the four oceans, full of every kind of marvel, the thickets of the Vindhya and Mandara hills, and the uplands of the great ranges …"
 
 **Pointers for Reflection:**
 

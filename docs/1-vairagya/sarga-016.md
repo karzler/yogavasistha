@@ -128,7 +128,7 @@
 कल्लोल-कलित-आवर्तं (with whirlpools formed by waves) माया-मकर-मालितम् (garlanded with the crocodiles of illusion) मनः-मय-महा-अर्णवं (the great ocean of mind) निरोद्धुं समर्थः न अस्मि (I am not able to restrain).
 </p>
 
-**Translation:** "I cannot restrain this great ocean of the mind, with its whirlpools of waves and its crocodiles of illusion."
+**Translation:** "This vast sea that is the mind — swirling with eddies its own waves have made, wreathed with the crocodiles of māyā — is beyond my power to hold in check."
 
 **Pointers for Reflection:**
 
@@ -444,7 +444,7 @@
 चित्तं (the mind) अर्थानां कारणम् (is the cause of things); तस्मिन् सति (when it exists) जगत्-त्रयम् [अस्ति] (the three worlds exist); तस्मिन् क्षीणे (when it wanes) जगत् क्षीणम् (the world wanes); [तस्मात्] तत् प्रयत्नतः चिकित्स्यम् (so it must be treated with effort).
 </p>
 
-**Translation:** "The mind is the cause of all things. While it exists, the three worlds exist; when it wanes, the world wanes. So the mind must be healed with great effort."
+**Translation:** "All objects have the mind as their cause. With mind present, the three worlds are present; with mind dwindled, the world dwindles. It is the mind, then, that must be treated, and treated with care."
 
 **Pointers for Reflection:**
 

@@ -649,7 +649,7 @@
 [तृष्णा] संसार-नाटक-नटी (the actress in the drama of the world) कार्य-आलय-विहंगमी (a bird nesting in the house of activity) मानस-अरण्य-हरिणी (a doe in the forest of the mind) स्मर-संगीत-वल्लकी (the lute in the music of love).
 </p>
 
-**Translation:** "Craving is the actress in the drama of the world, a bird nesting in the house of activity, a doe in the forest of the mind, the lute in the concert of love."
+**Translation:** "She is the dancer on the stage of saṃsāra, the bird that roosts in the house of busy-ness, the doe of the mind's wilderness, the vīṇā on which love plays its tunes."
 
 **Pointers for Reflection:**
 
@@ -666,7 +666,7 @@
 [तृष्णा] व्यवहार-अब्धि-लहरी (a wave in the ocean of worldly dealings) मोह-मातङ्ग-शृङ्खला (the chain of the elephant of delusion) सर्ग-न्यग्रोध-सु-लता (the vine on the banyan of creation) दुःख-कैरव-चन्द्रिका (the moonlight for the night-lily of sorrow).
 </p>
 
-**Translation:** "Craving is a wave in the ocean of worldly dealings, the chain that holds the elephant of delusion, the creeper on the banyan of creation, the moonlight that opens the night-lily of sorrow."
+**Translation:** "She is a ripple on the sea of transactions, a fetter on the rutting elephant of delusion, a vine twined round the banyan of creation, and the moonlight under which the lilies of sorrow open."
 
 **Pointers for Reflection:**
 
