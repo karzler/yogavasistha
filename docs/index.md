@@ -58,6 +58,20 @@ The Yoga Vasiṣṭha does not argue against other schools so much as gather the
 
 What holds all this together is Advaita Vedānta: one consciousness appearing as many, and freedom as knowing this while still living and acting in the world. The other traditions are not borrowed to be refuted, but welcomed as partial views of that one truth.
 
+## Purpose of this site
+
+The Yoga Vasiṣṭha is one of the great works of Indian thought, yet it is far less read than the Bhagavad Gītā. Complete translations are old and hard to find; the well-known modern versions are abridgements that do not show the Sanskrit. This site exists so that anyone, anywhere, can study the text itself, verse by verse, freely.
+
+It aims to:
+
+- **Keep the Sanskrit in view.** Every verse is given in Devanagari with its words in prose order and their meanings, so the translation can be checked word by word, and a reader can slowly learn to read the original.
+- **Read the text as scripture.** The pointers for reflection connect each verse to the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit, so that the Lord as student can be read beside the Lord as teacher.
+- **Make every verse reachable.** Each verse has its own link, everything is searchable, and it works on any device, so a single verse can be shared with a friend or a study group.
+- **Stay open.** The work is freely licensed, so it may be shared, quoted, corrected and built upon.
+- **Support study as practice.** The text itself teaches that freedom comes through विचार, inquiry. Reading slowly, word by word, is a form of that inquiry (स्वाध्याय).
+
+**How it is made.** The word-by-word meanings, translations and pointers are drafted from the Sanskrit with AI assistance and reviewed for accuracy. Mistakes are still possible, especially in long compounds; corrections are welcome through the repository's issues on GitHub.
+
 ## How to use this site
 
 **Read in order.** The text builds on itself, so start at [Sarga 1](1-vairagya/sarga-001.md) and go on from there. Use the menu to move between prakaraṇas and sargas, and the links at the foot of each page to go to the next or previous sarga. Each prakaraṇa's page lists its sargas with a one-line summary, and each sarga opens with a short box giving its outline.
@@ -66,7 +80,7 @@ What holds all this together is Advaita Vedānta: one consciousness appearing as
 
 1. **The Sanskrit verse** in Devanagari, with its reference: Prakaraṇa.Sarga.Verse, so 1.2.5 is the fifth verse of the second sarga of the first prakaraṇa.
 2. **Word by word.** The verse's words rearranged into prose order (anvaya), each followed by its meaning in brackets. Compounds are split with hyphens, and words added to complete the sense are shown in square brackets.
-3. **Translation.** A plain English rendering of the whole verse, made directly from the Sanskrit.
+3. **Translation.** A plain English rendering of the whole verse, made from the Sanskrit.
 4. **Pointers for Reflection.** Key words, connections with other verses, and parallels in the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit with an English rendering. They are starting points for your own reflection, not a final word.
 
 **Search and find.** Use the search box at the top to find any English or Sanskrit word. Key Sanskrit terms are rendered the same way throughout; the [Glossary](glossary.md) lists them with a link to the verse where each first appears.
