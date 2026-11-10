@@ -2,6 +2,11 @@
 
 <p class="shloka">मुमुक्षुव्यवहारप्रकरणम्</p>
 
-**The seeker.** The nature of one who longs for liberation, and the qualities that make a seeker ready for the teaching.
+**The seeker.** Śrī Rāma's questions have been heard; now the teaching begins. Viśvāmitra first tells the story of Śuka, who knew the truth yet found no rest until Janaka confirmed it. Vasiṣṭha then takes up the instruction. He tells how this knowledge came down from Brahmā, and sets out what a seeker needs: self-effort (पौरुष) rather than reliance on fate, and the four gatekeepers of liberation — tranquillity (शम), inquiry (विचार), contentment (संतोष) and the company of the wise (सत्सङ्ग). He closes by describing the whole work and how it should be studied.
 
-*Sargas will appear here as the study reaches them.*
+## Sargas
+- [Sarga 1 — The story of Śuka (45 verses)](sarga-001.md)
+- [Sarga 2 — Viśvāmitra's request to Vasiṣṭha (28 verses)](sarga-002.md)
+- [Sarga 3 — Endless worlds, and Vyāsa's freedom (36 verses)](sarga-003.md)
+- [Sarga 4 — Freedom with and without a body; the power of effort (20 verses)](sarga-004.md)
+- [Sarga 5 — Effort and the struggle with the past (32 verses)](sarga-005.md)
