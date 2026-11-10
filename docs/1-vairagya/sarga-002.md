@@ -1,6 +1,6 @@
 # Sarga 2
 
-*Vairāgya Prakaraṇa · Who this teaching is for, and how it came to be written (30 verses)*
+*Vairāgya Prakaraṇa · Who this teaching is for, and how it came to be written (31 verses)*
 
 !!! info "Who is speaking? Sarga 2 at a glance"
     Vālmīki is still answering **King Ariṣṭanemi** (the frame from Sarga 1).
@@ -8,15 +8,14 @@
     1. A new invocation, and who is fit for this teaching (1.2.1–1.2.3).
     2. Vālmīki tells the king how he taught **Bharadvāja**, how **Brahmā** granted Bharadvāja a boon, and how Brahmā came to ask Vālmīki to complete the work (1.2.4–1.2.19).
     3. Bharadvāja asks how Rāma and his household lived and became free from sorrow (1.2.20–1.2.23).
-    4. Vālmīki begins his answer to Bharadvāja: live as Rāma lived, unattached and happy (1.2.24–1.2.30).
+    4. Vālmīki begins his answer to Bharadvāja: live as Rāma and his household lived, unattached and happy (1.2.24–1.2.30).
     5. A closing verse in a longer metre (1.2.31).
 
-    The online text used here numbers the verses 1–31 but has no verse 28. This page keeps that numbering so it lines up with printed editions.
 
 ## Verse 1.2.1 { #1-2-1 }
 
 <p class="shloka">
-दिवि भूमौ तथाऽऽकाशे बहिरन्तश्च मे विभुः ।<br>
+दिवि भूमौ तथाकाशे बहिरन्तश्च मे विभुः ।<br>
 यो विभात्यवभासात्मा तस्मै सर्वात्मने नमः ॥ १.२.१ ॥
 </p>
 
@@ -44,7 +43,7 @@
 <p class="shloka">
 <span class="speaker">वाल्मीकिरुवाच ।</span><br>
 अहं बद्धो विमुक्तः स्यामिति यस्यास्ति निश्चयः ।<br>
-नात्यन्तमज्ञो नोतज्ज्ञः सोऽस्मिञ्छास्त्रेऽधिकारवान् ॥ १.२.२ ॥
+नात्यन्तमज्ञो नोत ज्ञः सोऽस्मिञ्छास्त्रेऽधिकारवान् ॥ १.२.२ ॥
 </p>
 
 <p class="anvaya">
@@ -89,8 +88,8 @@
 ## Verse 1.2.4 { #1-2-4 }
 
 <p class="shloka">
-अस्मिन् रामायणे रामकथोपायान् महाबलान् ।<br>
-एतांस्तु प्रथमं कृत्वा पुराऽहमरिमर्दन ॥ १.२.४ ॥
+अस्मिन्रामायणे रामकथोपायान्महाबलान् ।<br>
+एतांस्तु प्रथमं कृत्वा पुराहमरिमर्दन ॥ १.२.४ ॥
 </p>
 
 <p class="anvaya">
@@ -107,8 +106,8 @@
 ## Verse 1.2.5 { #1-2-5 }
 
 <p class="shloka">
-शिष्यायाऽस्मि विनीताय भरद्वाजाय धीमते ।<br>
-एकाग्रो दत्तवांस्तस्मै मणिमब्धिरिवाऽर्थिने ॥ १.२.५ ॥
+शिष्यायास्मि विनीताय भरद्वाजाय धीमते ।<br>
+एकाग्रो दत्तवांस्तस्मै मणिमब्धिरिवार्थिने ॥ १.२.५ ॥
 </p>
 
 <p class="anvaya">
@@ -129,7 +128,7 @@
 
 <p class="shloka">
 तत एते कथोपाया भरद्वाजेन धीमता ।<br>
-कस्मिंश्चित् मेरुगहने ब्रह्मणोऽग्र उदाहृताः ॥ १.२.६ ॥
+कस्मिंश्चिन्मेरुगहने ब्रह्मणोऽग्र उदाहृताः ॥ १.२.६ ॥
 </p>
 
 <p class="anvaya">
@@ -146,7 +145,7 @@
 ## Verse 1.2.7 { #1-2-7 }
 
 <p class="shloka">
-अथाऽस्य तुष्टो भगवान् ब्रह्मा लोकपितामहः ।<br>
+अथास्य तुष्टो भगवान्ब्रह्मा लोकपितामहः ।<br>
 वरं पुत्र गृहाणेति तमुवाच महाशयः ॥ १.२.७ ॥
 </p>
 
@@ -166,7 +165,8 @@
 ## Verse 1.2.8 { #1-2-8 }
 
 <p class="shloka">
-भगवन् भूतभव्येश वरोऽयं मेऽद्य रोचते ।<br>
+<span class="speaker">भरद्वाज उवाच ।</span><br>
+भगवन्भूतभव्येश वरोऽयं मेऽद्य रोचते ।<br>
 येनेयं जनता दुःखान्मुच्यते तदुदाहर ॥ १.२.८ ॥
 </p>
 
@@ -174,7 +174,7 @@
 भगवन् भूत-भव्य-ईश (revered lord of past and future), अद्य मे अयं वरः रोचते (today this boon pleases me): येन (by which) इयं जनता (these people) दुःखात् मुच्यते (are freed from suffering), तत् उदाहर (tell that).
 </p>
 
-**Translation:** "[Bharadvāja said:] 'Revered lord of what was and what will be, this is the boon I want today: tell me that by which these people may be freed from suffering.'"
+**Translation:** "Bharadvāja said: 'Revered lord of what was and what will be, this is the boon I want today: tell me that by which these people may be freed from suffering.'"
 
 **Pointers for Reflection:**
 
@@ -187,7 +187,8 @@
 ## Verse 1.2.9 { #1-2-9 }
 
 <p class="shloka">
-गुरुं वाल्मीकिमत्राऽऽशु प्रार्थयस्व प्रयत्नतः ।<br>
+<span class="speaker">श्रीब्रह्मोवाच ।</span><br>
+गुरुं वाल्मीकिमत्राशु प्रार्थयस्व प्रयत्नतः ।<br>
 तेनेदं यत्समारब्धं रामायणमनिन्दितम् ॥ १.२.९ ॥
 </p>
 
@@ -195,7 +196,7 @@
 अत्र (for this) गुरुं वाल्मीकिम् (your teacher Vālmīki) आशु प्रयत्नतः प्रार्थयस्व (quickly and earnestly entreat); तेन (by him) यत् इदम् अनिन्दितं रामायणं समारब्धम् (this faultless Rāmāyaṇa that has been begun) …
 </p>
 
-**Translation:** "[Brahmā said:] 'For this, go quickly and earnestly entreat your teacher Vālmīki. The faultless Rāmāyaṇa he has begun …'"
+**Translation:** "Brahmā said: 'For this, go quickly and earnestly entreat your teacher Vālmīki. The faultless Rāmāyaṇa he has begun …'"
 
 **Pointers for Reflection:**
 
@@ -206,12 +207,12 @@
 ## Verse 1.2.10 { #1-2-10 }
 
 <p class="shloka">
-तस्मिञ्छ्रुते नरो मोहान् समग्रान् सन्तरिष्यति ।<br>
+तस्मिञ्छ्रुते नरो मोहात्समग्रात्संतरिष्यति ।<br>
 सेतुनेवाम्बुधेः पारमपारगुणशालिना ॥ १.२.१० ॥
 </p>
 
 <p class="anvaya">
-तस्मिन् श्रुते (when it is heard) नरः (a person) समग्रान् मोहान् (all delusions) सन्तरिष्यति (will cross), अपार-गुण-शालिना सेतुना इव (as by a bridge built by one of boundless virtues) अम्बुधेः पारम् (to the far shore of the ocean).
+तस्मिन् श्रुते (when it is heard) नरः (a person) समग्रात् मोहात् (from all delusion) संतरिष्यति (will cross over), अपार-गुण-शालिना सेतुना इव (as by a bridge built by one of boundless virtues) अम्बुधेः पारम् (to the far shore of the ocean).
 </p>
 
 **Translation:** "'… when it is heard, a person will cross over all delusion, as one crosses to the far shore of the ocean by the bridge of the one whose virtues are boundless.'"
@@ -221,17 +222,18 @@
 - **Rāma's bridge.** In the Rāmāyaṇa, Rāma built a bridge (सेतु) across the ocean to reach Laṅkā. Here the book itself is that bridge, and the ocean is delusion. अपार, "shoreless", is used for Rāma's virtues, while the text promises a पार, a far shore.
 - **Muṇḍaka Upaniṣad 2.2.5:** <span class="parallel">अमृतस्यैष सेतुः</span> — *this is the bridge to immortality.* The Self itself is called the bridge.
 - **Chāndogya Upaniṣad 8.4.1:** <span class="parallel">अथ य आत्मा स सेतुर्विधृतिः</span> — *the Self is a bridge, a support.*
-- **सन्तरिष्यति.** The same verb as Gītā 4.36 (see 1.2.14): crossing over is the recurring image for liberation.
+- **संतरिष्यति.** The same verb as Gītā 4.36 (see 1.2.14): crossing over is the recurring image for liberation.
 
 ## Verse 1.2.11 { #1-2-11 }
 
 <p class="shloka">
-इत्युक्त्वा स भरद्वाजं परमेष्ठी ममाश्रमम् ।<br>
-अभ्यागच्छत् समं तेन भरद्वाजेन भूतकृत् ॥ १.२.११ ॥
+<span class="speaker">श्रीवाल्मीकिरुवाच ।</span><br>
+इत्युक्त्वा स भरद्वाजं परमेष्ठी मदाश्रमम् ।<br>
+अभ्यागच्छत्समं तेन भरद्वाजेन भूतकृत् ॥ १.२.११ ॥
 </p>
 
 <p class="anvaya">
-भरद्वाजम् इति उक्त्वा (having said this to Bharadvāja) सः परमेष्ठी भूत-कृत् (that supreme maker of beings) तेन भरद्वाजेन समम् (together with Bharadvāja) मम आश्रमम् अभ्यागच्छत् (came to my hermitage).
+भरद्वाजम् इति उक्त्वा (having said this to Bharadvāja) सः परमेष्ठी भूत-कृत् (that supreme maker of beings) तेन भरद्वाजेन समम् (together with Bharadvāja) मत्-आश्रमम् अभ्यागच्छत् (came to my hermitage).
 </p>
 
 **Translation:** "Having said this to Bharadvāja, the supreme Creator of beings came with him to my hermitage."
@@ -239,12 +241,11 @@
 **Pointers for Reflection:**
 
 - **The Creator comes to the sage.** Brahmā does not summon Vālmīki; he travels to him. The cosmic power bows to the work of teaching.
-- **Reading note.** The online text prints अभ्यागछत्; the correct form अभ्यागच्छत् is used here.
 
 ## Verse 1.2.12 { #1-2-12 }
 
 <p class="shloka">
-तूर्णं सम्पूजितो देवः सोऽर्घ्यपाद्यादिना मया ।<br>
+तूर्णं संपूजितो देवः सोऽर्घ्यपाद्यादिना मया ।<br>
 अवोचन्मां महासत्त्वः सर्वभूतहिते रतः ॥ १.२.१२ ॥
 </p>
 
@@ -261,12 +262,11 @@
     - *Restraining the senses, even-minded everywhere, devoted to the good of all beings, they come to me.*
     - The phrase appears in Gītā 5.25 and 12.4, and here describes Brahmā. The whole chain — Brahmā, Vālmīki, Bharadvāja — is moved by the good of all.
 - **अर्घ्य and पाद्य.** Hospitality to a guest, even a divine one, follows the same simple rites. The tradition says अतिथिदेवो भव (Taittirīya Upaniṣad 1.11.2): *treat the guest as God.* Here the guest is God.
-- **Reading note.** The online text prints महासत्वो … सर्वभूतहितेरतः; the standard forms are used here.
 
 ## Verse 1.2.13 { #1-2-13 }
 
 <p class="shloka">
-रामस्वभावकथनादस्मात् वरमुने त्वया ।<br>
+रामस्वभावकथनादस्माद्वरमुने त्वया ।<br>
 नोद्वेगात्स परित्याज्य आसमाप्तेरनिन्दितात् ॥ १.२.१३ ॥
 </p>
 
@@ -285,8 +285,8 @@
 ## Verse 1.2.14 { #1-2-14 }
 
 <p class="shloka">
-ग्रन्थेनानेन लोकोऽयमस्मात् संसारसङ्कटात् ।<br>
-समुत्तरिष्यति क्षिप्रं पोतेनेवाऽशु सागरात् ॥ १.२.१४ ॥
+ग्रन्थेनानेन लोकोऽयमस्मात्संसारसंकटात् ।<br>
+समुत्तरिष्यति क्षिप्रं पोतेनेवाशु सागरात् ॥ १.२.१४ ॥
 </p>
 
 <p class="anvaya">
@@ -307,15 +307,15 @@
 ## Verse 1.2.15 { #1-2-15 }
 
 <p class="shloka">
-वक्तुं तदेवमेवार्थमहमागतवान् स्वयम् ।<br>
+वक्तुं तदेवमेवार्थमहमागतवानयम् ।<br>
 कुरु लोकहितार्थं त्वं शास्त्रमित्युक्तवानजः ॥ १.२.१५ ॥
 </p>
 
 <p class="anvaya">
-तत् एवम् एव अर्थं वक्तुम् (to say just this) अहं स्वयम् आगतवान् (I have come myself); त्वं लोक-हित-अर्थं शास्त्रं कुरु (compose the teaching for the good of the world) इति अजः उक्तवान् (so said the Unborn one).
+तत् एवम् एव अर्थं वक्तुम् (to say just this) अयम् अहम् आगतवान् (I have come here); त्वं लोक-हित-अर्थं शास्त्रं कुरु (compose the teaching for the good of the world) इति अजः उक्तवान् (so said the Unborn one).
 </p>
 
-**Translation:** "'I have come myself just to say this: compose this teaching for the good of the world.' So spoke the Unborn Creator."
+**Translation:** "'I have come here just to say this: compose this teaching for the good of the world.' So spoke the Unborn Creator."
 
 **Pointers for Reflection:**
 
@@ -328,12 +328,12 @@
 ## Verse 1.2.16 { #1-2-16 }
 
 <p class="shloka">
-मम पुण्याश्रमात्तस्मात् क्षणादन्तर्धिमागतः ।<br>
-मुहूर्तादभ्युत्थितः प्रोच्चैस्तरङ्ग इव वारिणः ॥ १.२.१६ ॥
+मम पुण्याश्रमात्तस्मात्क्षणादन्तर्द्धिमागतः ।<br>
+मुहूर्ताभ्युत्थितः प्रोच्चैस्तरङ्ग इव वारिणः ॥ १.२.१६ ॥
 </p>
 
 <p class="anvaya">
-[सः] तस्मात् मम पुण्य-आश्रमात् (from that holy hermitage of mine) क्षणात् (in an instant) अन्तर्धिम् आगतः (vanished), वारिणः मुहूर्तात् प्रोच्चैः अभ्युत्थितः तरङ्गः इव (like a wave that rises high from the water for a moment [and sinks back]).
+[सः] तस्मात् मम पुण्य-आश्रमात् (from that holy hermitage of mine) क्षणात् (in an instant) अन्तर्धिम् आगतः (vanished), वारिणः मुहूर्त-अभ्युत्थितः प्रोच्चैः तरङ्गः इव (like a wave that rises high from the water for a moment [and sinks back]).
 </p>
 
 **Translation:** "In an instant he vanished from my holy hermitage, like a wave that rises high from the water for a moment and sinks back into it."
@@ -350,7 +350,7 @@
 ## Verse 1.2.17 { #1-2-17 }
 
 <p class="shloka">
-तस्मिन् प्रयाते भगवत्यहं विस्मयमागतः ।<br>
+तस्मिन्प्रयाते भगवत्यहं विस्मयमागतः ।<br>
 पुनस्तत्र भरद्वाजमपृच्छं स्वस्थया धिया ॥ १.२.१७ ॥
 </p>
 
@@ -369,7 +369,7 @@
 ## Verse 1.2.18 { #1-2-18 }
 
 <p class="shloka">
-किमेतद्ब्रह्मणा प्रोक्तं भरद्वाज वदाऽऽशु मे ।<br>
+किमेतद्ब्रह्मणा प्रोक्तं भरद्वाज वदाशु मे ।<br>
 इत्युक्तेन पुनः प्रोक्तं भरद्वाजेन तेन मे ॥ १.२.१८ ॥
 </p>
 
@@ -386,6 +386,7 @@
 ## Verse 1.2.19 { #1-2-19 }
 
 <p class="shloka">
+<span class="speaker">भरद्वाज उवाच ।</span><br>
 एतदुक्तं भगवता यथा रामायणं कुरु ।<br>
 सर्वलोकहितार्थाय संसारार्णवतारकम् ॥ १.२.१९ ॥
 </p>
@@ -394,7 +395,7 @@
 भगवता एतत् उक्तम् (the Lord said this): सर्व-लोक-हित-अर्थाय (for the good of all the worlds) संसार-अर्णव-तारकं (that carries across the ocean of worldly existence) रामायणं यथा कुरु (compose the Rāmāyaṇa accordingly).
 </p>
 
-**Translation:** "[Bharadvāja said:] 'The Lord said this: compose the Rāmāyaṇa for the good of all the worlds, so that it carries people across the ocean of worldly existence.'"
+**Translation:** "Bharadvāja said: 'The Lord said this: compose the Rāmāyaṇa for the good of all the worlds, so that it carries people across the ocean of worldly existence.'"
 
 **Pointers for Reflection:**
 
@@ -407,8 +408,8 @@
 ## Verse 1.2.20 { #1-2-20 }
 
 <p class="shloka">
-मह्यं च भगवन् ब्रूहि कथं संसारसङ्कटे ।<br>
-रामो व्यवहृतो ह्यस्मिन् भरतश्च महामनाः ॥ १.२.२० ॥
+मह्यं च भगवन्ब्रूहि कथं संसारसंकटे ।<br>
+रामो व्यवहृतो ह्यस्मिन्भरतश्च महामनाः ॥ १.२.२० ॥
 </p>
 
 <p class="anvaya">
@@ -446,8 +447,8 @@
 ## Verse 1.2.22 { #1-2-22 }
 
 <p class="shloka">
-निर्दुःखितां यथैते तु प्राप्तास्तद्ब्रूहि मे स्फुटम् ।<br>
-तथैवाऽहं भविष्यामि ततो जनतया सह ॥ १.२.२२ ॥
+निर्दुःखितां यथैते नु प्राप्तास्तद्ब्रूहि मे स्फुटम् ।<br>
+तथैवाहं भविष्यामि ततो जनतया सह ॥ १.२.२२ ॥
 </p>
 
 <p class="anvaya">
@@ -469,11 +470,11 @@
 
 <p class="shloka">
 भरद्वाजेन राजेन्द्र वदेत्युक्तोऽस्मि सादरम् ।<br>
-यथा कर्तुं विभोराज्ञामहं वक्तुं प्रवृत्तवान् ॥ १.२.२३ ॥
+तदा कर्तुं विभोराज्ञामहं वक्तुं प्रवृत्तवान् ॥ १.२.२३ ॥
 </p>
 
 <p class="anvaya">
-राजेन्द्र (best of kings), भरद्वाजेन सादरं वद इति उक्तः अस्मि (I was respectfully asked by Bharadvāja, 'Tell'); विभोः आज्ञां यथा कर्तुम् (to carry out the Lord's command) अहं वक्तुं प्रवृत्तवान् (I began to speak).
+राजेन्द्र (best of kings), भरद्वाजेन सादरं वद इति उक्तः अस्मि (I was respectfully asked by Bharadvāja, 'Tell'); तदा (then) विभोः आज्ञां कर्तुम् (to carry out the Lord's command) अहं वक्तुं प्रवृत्तवान् (I began to speak).
 </p>
 
 **Translation:** "So, best of kings, Bharadvāja respectfully asked me to speak, and to carry out the Lord's command I began."
@@ -487,7 +488,7 @@
 
 <p class="shloka">
 शृणु वत्स भरद्वाज यथापृष्टं वदामि ते ।<br>
-श्रुतेन येन सम्मोहमलं दूरे करिष्यसि ॥ १.२.२४ ॥
+श्रुतेन येन संमोहमलं दूरे करिष्यसि ॥ १.२.२४ ॥
 </p>
 
 <p class="anvaya">
@@ -508,11 +509,11 @@
 
 <p class="shloka">
 तथा व्यवहर प्राज्ञ यथा व्यवहृतः सुखी ।<br>
-सर्वार्थाऽसंसक्तया बुद्ध्या रामो राजीवलोचनः ॥ १.२.२५ ॥
+सर्वासंसक्तया बुद्ध्या रामो राजीवलोचनः ॥ १.२.२५ ॥
 </p>
 
 <p class="anvaya">
-प्राज्ञ (wise one), यथा राजीव-लोचनः रामः (as lotus-eyed Rāma) सर्व-अर्थ-असंसक्तया बुद्ध्या (with an understanding unattached to all things) सुखी व्यवहृतः (lived happily), तथा व्यवहर (so live).
+प्राज्ञ (wise one), यथा राजीव-लोचनः रामः (as lotus-eyed Rāma) सर्व-असंसक्तया बुद्ध्या (with an understanding unattached to all things) सुखी व्यवहृतः (lived happily), तथा व्यवहर (so live).
 </p>
 
 **Translation:** "'Wise one, live as lotus-eyed Rāma lived: happily, with an understanding unattached to anything.'"
@@ -549,7 +550,7 @@
 ## Verse 1.2.27 { #1-2-27 }
 
 <p class="shloka">
-कृतास्त्रश्चाविरोधश्च बोधपारमुपागताः ।<br>
+कृतास्त्रश्चाऽविरोधश्च बोधपारमुपागताः ।<br>
 वसिष्ठो वामदेवश्च मन्त्रिणोऽष्टौ तथेतरे ॥ १.२.२७ ॥
 </p>
 
@@ -566,13 +567,13 @@
     - *To him, whose impurities were washed away, the revered Sanatkumāra showed the far shore beyond darkness.*
     - बोधपार here, तमसः पार there. And the teacher in the Upaniṣad is Sanatkumāra, whose curse (1.1.59–1.1.60) made Viṣṇu a student. The threads cross.
 - **Muṇḍaka Upaniṣad 2.2.6:** <span class="parallel">स्वस्ति वः पाराय तमसः परस्तात्</span> — *may you fare well to the far shore beyond darkness.*
-- **Reading note.** The online text reads कृतास्त्राश्चाविरोधश्च; here कृतास्त्र and अविरोध are read as the names of two companions, as some translations take them. They could also be read as descriptions ("skilled in weapons, free of hostility"). Check your printed edition and commentary.
+- **Reading note.** Here कृतास्त्र and अविरोध are read as the names of two companions, as some translations take them. They can also be read as descriptions ("skilled in weapons, free of hostility"), as the online translation does. Check your printed edition and commentary.
 
-## Verse 1.2.29 { #1-2-29 }
+## Verse 1.2.28 { #1-2-28 }
 
 <p class="shloka">
 धृष्टिर्जयन्तो भासश्च सत्यो विजय एव च ।<br>
-विभीषणः सुषेणश्च हनुमानिन्द्रजित्तथा ॥ १.२.२९ ॥
+विभीषणः सुषेणश्च हनुमानिन्द्रजित्तथा ॥ १.२.२८ ॥
 </p>
 
 <p class="anvaya">
@@ -584,13 +585,13 @@
 **Pointers for Reflection:**
 
 - **Friends and former enemies.** The list includes Vibhīṣaṇa, Rāvaṇa's brother who joined Rāma, and Indrajit, Rāvaṇa's son, who fought against him. If the reading is right, even an enemy is counted among the liberated.
-- **Reading note — two points to check.** (1) The online source skips the number २८, going from 27 to 29; this site keeps its numbering so it matches printed editions, but your printed edition may number these verses differently or contain a verse 28. (2) The verse names nine people, though 1.2.27 and 1.2.30 speak of eight ministers. Check your printed edition.
+- **Reading note.** The verse names nine people, though 1.2.27 and 1.2.29 speak of eight ministers. Check your printed edition.
 
-## Verse 1.2.30 { #1-2-30 }
+## Verse 1.2.29 { #1-2-29 }
 
 <p class="shloka">
 एतेऽष्टौ मन्त्रिणः प्रोक्ताः समनीरागचेतसः ।<br>
-जीवन्मुक्ता महात्मानो यथाप्राप्तानुवर्तिनः ॥ १.२.३० ॥
+जीवन्मुक्ता महात्मानो यथाप्राप्तानुवर्तिनः ॥ १.२.२९ ॥
 </p>
 
 <p class="anvaya">
@@ -607,6 +608,30 @@
     - *Content with whatever comes, beyond the pairs of opposites, free of envy, even-minded in success and failure — even acting, such a one is not bound.*
 - **सम — Gītā 2.48:** <span class="parallel">समत्वं योग उच्यते</span> — *evenness of mind is called yoga.*
 - **Compare heaven (1.1.38).** In heaven there was envy, rivalry and pride. These ministers, on earth, are सम and नीराग: even and free of passion. They have what heaven lacked.
+
+## Verse 1.2.30 { #1-2-30 }
+
+<p class="shloka">
+एतैर्यथा हुतं दत्तं गृहीतमुषितं स्मृतम् ।<br>
+तथा चेद्वर्तसे पुत्र मुक्त एवासि संकटात् ॥ १.२.३० ॥
+</p>
+
+<p class="anvaya">
+पुत्र (son), एतैः (by these) यथा (as) हुतम् (offerings were made) दत्तम् (gifts given) गृहीतम् (things received) उषितम् (life lived) स्मृतम् (things remembered), तथा चेत् वर्तसे (if you live in the same way), सङ्कटात् (from the strait [of worldly life]) मुक्तः एव असि (you are already free).
+</p>
+
+**Translation:** "'Son, if you live as these lived — as they made offerings, gave, received, dwelt and remembered — you are already free from the perils of worldly life.'"
+
+**Pointers for Reflection:**
+
+- **Ordinary acts, done freely.** Offering, giving, receiving, living, remembering: the verse names the plainest parts of life. Liberation is not a special activity; it is the way the ordinary is done.
+- **Gītā 9.27:**
+    - <span class="parallel">यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् । यत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥</span>
+    - *Whatever you do, whatever you eat, whatever you offer, whatever you give, whatever austerity you practise — do it as an offering to me.*
+    - हुतं दत्तं here, जुहोषि ददासि there: the same acts of offering and giving. The Gītā makes them devotion; the Yoga Vasiṣṭha makes them the life of the free.
+- **Gītā 5.8–9:** <span class="parallel">पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन्श्वसन्</span> — *seeing, hearing, touching, smelling, eating, walking, sleeping, breathing*, the knower thinks "I do nothing at all". Another list of everyday acts done without bondage.
+- **मुक्त एवासि — "you are already free".** Not "you will be": the present tense. If one lives this way, freedom is not a future reward but a present fact.
+- **A question to sit with.** Which of my everyday acts could I do the way these ministers did?
 
 ## Verse 1.2.31 { #1-2-31 }
 
