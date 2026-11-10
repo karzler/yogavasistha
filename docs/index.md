@@ -66,6 +66,7 @@ It aims to:
 
 - **Keep the Sanskrit in view.** Every verse is given in Devanagari with its words in prose order and their meanings, so the translation can be checked word by word, and a reader can slowly learn to read the original.
 - **Read the text as scripture.** The pointers for reflection connect each verse to the Bhagavad Gītā and the Upaniṣads, quoted in Sanskrit, so that the Lord as student can be read beside the Lord as teacher.
+- **Invite reflection, not replace it.** The pointers for reflection are not a finished commentary. They open doors: a key word to dwell on, a link to another verse, a question the verse raises, a parallel in the Gītā or the Upaniṣads. The reflection itself is left to the reader, because this text is meant to be contemplated, not only read.
 - **Make every verse reachable.** Each verse has its own link, everything is searchable, and it works on any device, so a single verse can be shared with a friend or a study group.
 - **Stay open.** The work is freely licensed, so it may be shared, quoted, corrected and built upon.
 - **Support study as practice.** The text itself teaches that freedom comes through विचार, inquiry. Reading slowly, word by word, is a form of that inquiry (स्वाध्याय).
