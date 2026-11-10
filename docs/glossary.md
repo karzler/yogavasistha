@@ -8,6 +8,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
 | <span class="sa">अभिमान</span> (abhimāna) | pride, ego-identification | [1.10.25](1-vairagya/sarga-010.md#1-10-25) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
+| <span class="sa">अहंकार</span> (ahaṅkāra) | the ego, the sense of "I" | [1.15.1](1-vairagya/sarga-015.md#1-15-1) |
 | <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
@@ -18,6 +19,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">ज्ञान</span> (jñāna) | knowledge | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">तपस्</span> (tapas) | austerity | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">तीर्थ</span> (tīrtha) | sacred ford, place of pilgrimage | [1.3.20](1-vairagya/sarga-003.md#1-3-20) |
+| <span class="sa">तृष्णा</span> (tṛṣṇā) | craving, thirst | [1.15.12](1-vairagya/sarga-015.md#1-15-12) |
 | <span class="sa">त्याग</span> (tyāga) | renunciation | [1.1.15](1-vairagya/sarga-001.md#1-1-15) |
 | <span class="sa">त्रिपुटी</span> (tripuṭī) | triad of subject, process and object (knower–knowing–known) | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
@@ -30,6 +32,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
 | <span class="sa">मर्यादा</span> (maryādā) | bounds of right conduct | [1.9.12](1-vairagya/sarga-009.md#1-9-12) |
+| <span class="sa">माया</span> (māyā) | illusion, the power that makes the unreal appear real | [1.15.5](1-vairagya/sarga-015.md#1-15-5) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |

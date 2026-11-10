@@ -18,3 +18,6 @@
 - [Sarga 10 — Śrī Rāma's state described (51 verses)](sarga-010.md)
 - [Sarga 11 — Śrī Rāma comes to the assembly (38 verses)](sarga-011.md)
 - [Sarga 12 — Śrī Rāma's first speech (28 verses)](sarga-012.md)
+- [Sarga 13 — On fortune (22 verses)](sarga-013.md)
+- [Sarga 14 — On life (23 verses)](sarga-014.md)
+- [Sarga 15 — On the ego (21 verses)](sarga-015.md)
