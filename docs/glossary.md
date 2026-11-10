@@ -33,6 +33,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">केवलीभाव</span> (kevalībhāva) | the state of absolute oneness, the Self alone | [2.2.12](2-mumukshu/sarga-002.md#2-2-12) |
 | <span class="sa">क्षण</span> (kṣaṇa) | a moment | [1.28.25](1-vairagya/sarga-028.md#1-28-25) |
 | <span class="sa">गुण</span> (guṇa) | quality; the three qualities of nature — sattva (clarity), rajas (restlessness), tamas (dullness) | [1.26.16](1-vairagya/sarga-026.md#1-26-16) |
+| <span class="sa">चिदाकाश</span> (cidākāśa) | the space of consciousness: consciousness as boundless, like space | [2.10.11](2-mumukshu/sarga-010.md#2-10-11) |
 | <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
 | <span class="sa">जरा</span> (jarā) | old age | [1.22.1](1-vairagya/sarga-022.md#1-22-1) |
 | <span class="sa">जीवन्मुक्त</span> (jīvanmukta) | one liberated while living | [1.1.52](1-vairagya/sarga-001.md#1-1-52) |

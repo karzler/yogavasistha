@@ -14,3 +14,4 @@
 - [Sarga 7 — Effort as the cause of all things (32 verses)](sarga-007.md)
 - [Sarga 8 — Fate refuted by reason (26 verses)](sarga-008.md)
 - [Sarga 9 — Fate is one's own mind; the river of tendencies (43 verses)](sarga-009.md)
+- [Sarga 10 — How the knowledge came down (44 verses)](sarga-010.md)

@@ -1,5 +1,5 @@
 // Adds a "Share this verse" button at the end of every verse.
-// "Share" opens the device's share sheet where available (else copies the verse and link);
+// "Share" opens the share sheet on phones and tablets; on computers it copies the verse and link;
 // "Copy link" always copies just the verse's link.
 (function () {
   var VERSE_ID = /^\d+-\d+-\d+$/;
@@ -67,7 +67,8 @@
         var v = verseText(h2);
         var title = 'Yoga Vasiṣṭha ' + v.ref;
         var body = title + '\n\n' + v.shloka + '\n\n' + v.translation;
-        if (navigator.share) {
+        var touch = window.matchMedia && window.matchMedia('(pointer: coarse)').matches;
+        if (navigator.share && touch) {
           navigator.share({ title: title, text: body, url: url }).catch(function () {});
         } else {
           copy(body + '\n\n' + url).then(
