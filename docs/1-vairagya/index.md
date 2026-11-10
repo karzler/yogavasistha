@@ -29,3 +29,5 @@
 - [Sarga 21 — On woman and desire (36 verses)](sarga-021.md)
 - [Sarga 22 — On old age (38 verses)](sarga-022.md)
 - [Sarga 23 — On Time (45 verses)](sarga-023.md)
+- [Sarga 24 — Time as a prince at play (10 verses)](sarga-024.md)
+- [Sarga 25 — The dance of Fate and Death (32 verses)](sarga-025.md)

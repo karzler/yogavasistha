@@ -29,6 +29,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">त्रिपुटी</span> (tripuṭī) | triad of subject, process and object (knower–knowing–known) | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
 | <span class="sa">देह</span> (deha) | the body | [1.18.1](1-vairagya/sarga-018.md#1-18-1) |
+| <span class="sa">दैव</span> (daiva) | fate | [1.25.1](1-vairagya/sarga-025.md#1-25-1) |
 | <span class="sa">नियति</span> (niyati) | destiny, fate | [1.8.30](1-vairagya/sarga-008.md#1-8-30) |
 | <span class="sa">निर्वाण</span> (nirvāṇa) | final peace, extinction of bondage | [1.3.6](1-vairagya/sarga-003.md#1-3-6) |
 | <span class="sa">परमं पदम्</span> (paramaṃ padam) | the supreme state | [1.1.7](1-vairagya/sarga-001.md#1-1-7) |
@@ -44,6 +45,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
 | <span class="sa">यौवन</span> (yauvana) | youth | [1.20.1](1-vairagya/sarga-020.md#1-20-1) |
+| <span class="sa">लीला</span> (līlā) | play, the divine sport of creation | [1.25.32](1-vairagya/sarga-025.md#1-25-32) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
 | <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
