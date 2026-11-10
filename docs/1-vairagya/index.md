@@ -23,3 +23,4 @@
 - [Sarga 15 — On the ego (21 verses)](sarga-015.md)
 - [Sarga 16 — On the mind (27 verses)](sarga-016.md)
 - [Sarga 17 — On craving (52 verses)](sarga-017.md)
+- [Sarga 18 — On the body (62 verses)](sarga-018.md)

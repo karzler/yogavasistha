@@ -25,6 +25,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">त्याग</span> (tyāga) | renunciation | [1.1.15](1-vairagya/sarga-001.md#1-1-15) |
 | <span class="sa">त्रिपुटी</span> (tripuṭī) | triad of subject, process and object (knower–knowing–known) | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
+| <span class="sa">देह</span> (deha) | the body | [1.18.1](1-vairagya/sarga-018.md#1-18-1) |
 | <span class="sa">नियति</span> (niyati) | destiny, fate | [1.8.30](1-vairagya/sarga-008.md#1-8-30) |
 | <span class="sa">निर्वाण</span> (nirvāṇa) | final peace, extinction of bondage | [1.3.6](1-vairagya/sarga-003.md#1-3-6) |
 | <span class="sa">परमं पदम्</span> (paramaṃ padam) | the supreme state | [1.1.7](1-vairagya/sarga-001.md#1-1-7) |
