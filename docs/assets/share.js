@@ -1,5 +1,6 @@
 // Adds a "Share this verse" button at the end of every verse.
-// On phones it opens the device's share sheet; elsewhere it copies the verse and its link.
+// "Share" opens the device's share sheet where available (else copies the verse and link);
+// "Copy link" always copies just the verse's link.
 (function () {
   var VERSE_ID = /^\d+-\d+-\d+$/;
 
@@ -48,17 +49,22 @@
       var last = h2;
       for (var el = h2.nextElementSibling; el && el.tagName !== 'H2'; el = el.nextElementSibling) last = el;
 
-      var btn = document.createElement('button');
-      btn.type = 'button';
-      btn.className = 'verse-share';
-      btn.setAttribute('aria-label', 'Share verse ' + h2.id.split('-').join('.'));
-      btn.innerHTML =
-        '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11A2.99 2.99 0 0 0 21 5a3 3 0 1 0-5.91.7L8.04 9.81A3 3 0 1 0 6 15c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65A2.92 2.92 0 1 0 18 16.08z"/></svg>' +
-        '<span class="share-label">Share this verse</span>';
+      function makeBtn(icon, text, aria) {
+        var b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'verse-share';
+        b.setAttribute('aria-label', aria);
+        b.innerHTML = '<svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="' + icon + '"/></svg>' +
+          '<span class="share-label">' + text + '</span>';
+        return b;
+      }
+      var ref = h2.id.split('-').join('.');
+      var url = location.origin + location.pathname + '#' + h2.id;
 
+      var btn = makeBtn('M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11A2.99 2.99 0 0 0 21 5a3 3 0 1 0-5.91.7L8.04 9.81A3 3 0 1 0 6 15c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65A2.92 2.92 0 1 0 18 16.08z',
+        'Share this verse', 'Share verse ' + ref);
       btn.addEventListener('click', function () {
         var v = verseText(h2);
-        var url = location.origin + location.pathname + '#' + h2.id;
         var title = 'Yoga Vasiṣṭha ' + v.ref;
         var body = title + '\n\n' + v.shloka + '\n\n' + v.translation;
         if (navigator.share) {
@@ -71,9 +77,19 @@
         }
       });
 
+      var linkBtn = makeBtn('M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7a5 5 0 0 0 0 10h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4a5 5 0 0 0 0-10z',
+        'Copy link', 'Copy link to verse ' + ref);
+      linkBtn.addEventListener('click', function () {
+        copy(url).then(
+          function () { flash(linkBtn, 'Link copied'); },
+          function () { prompt('Copy this link:', url); }
+        );
+      });
+
       var wrap = document.createElement('p');
       wrap.className = 'verse-share-row';
       wrap.appendChild(btn);
+      wrap.appendChild(linkBtn);
       last.parentNode.insertBefore(wrap, last.nextSibling);
     });
   }

@@ -52,6 +52,9 @@
 /* "Share this verse" button at the end of each verse */
 .md-typeset .verse-share-row {
   margin: 1.2rem 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
 }
 .md-typeset .verse-share {
   display: inline-flex;

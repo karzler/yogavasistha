@@ -10,3 +10,7 @@
 - [Sarga 3 — Endless worlds, and Vyāsa's freedom (36 verses)](sarga-003.md)
 - [Sarga 4 — Freedom with and without a body; the power of effort (20 verses)](sarga-004.md)
 - [Sarga 5 — Effort and the struggle with the past (32 verses)](sarga-005.md)
+- [Sarga 6 — What 'fate' really is (43 verses)](sarga-006.md)
+- [Sarga 7 — Effort as the cause of all things (32 verses)](sarga-007.md)
+- [Sarga 8 — Fate refuted by reason (26 verses)](sarga-008.md)
+- [Sarga 9 — Fate is one's own mind; the river of tendencies (43 verses)](sarga-009.md)

@@ -7,9 +7,11 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">अकर्म</span> (akarma) | inaction, abstaining from action | [1.1.11](1-vairagya/sarga-001.md#1-1-11) |
 | <span class="sa">अज्ञता</span> (ajñatā) | ignorance (of one's own nature) | [1.29.16](1-vairagya/sarga-029.md#1-29-16) |
 | <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
+| <span class="sa">अनवस्था</span> (anavasthā) | infinite regress | [2.9.29](2-mumukshu/sarga-009.md#2-9-29) |
 | <span class="sa">अन्तःकरण</span> (antaḥkaraṇa) | the inner instrument: mind, intellect, ego and memory | [1.30.4](1-vairagya/sarga-030.md#1-30-4) |
 | <span class="sa">अन्तेनिवासिन्</span> (antenivāsin) | a resident student who lives near the teacher | [2.2.18](2-mumukshu/sarga-002.md#2-2-18) |
 | <span class="sa">अभिमान</span> (abhimāna) | pride, ego-identification | [1.10.25](1-vairagya/sarga-010.md#1-10-25) |
+| <span class="sa">अभ्यास</span> (abhyāsa) | practice; steady repetition that forms tendencies | [2.9.34](2-mumukshu/sarga-009.md#2-9-34) |
 | <span class="sa">अविद्या</span> (avidyā) | ignorance: the basic misreading of reality | [2.3.18](2-mumukshu/sarga-003.md#2-3-18) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
 | <span class="sa">अहंकार</span> (ahaṅkāra) | the ego, the sense of "I" | [1.15.1](1-vairagya/sarga-015.md#1-15-1) |
