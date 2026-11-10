@@ -12,6 +12,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
+| <span class="sa">आस्था</span> (āsthā) | trust, reliance | [1.26.1](1-vairagya/sarga-026.md#1-26-1) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
@@ -37,6 +38,8 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रतिज्ञा</span> (pratijñā) | a solemn promise, vow | [1.9.2](1-vairagya/sarga-009.md#1-9-2) |
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
+| <span class="sa">बुद्ध</span> (buddha) | the awakened one | [1.26.39](1-vairagya/sarga-026.md#1-26-39) |
+| <span class="sa">भावना</span> (bhāvanā) | mental imagining, the way the mind pictures things | [1.26.22](1-vairagya/sarga-026.md#1-26-22) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
 | <span class="sa">मनस्</span> (manas) | the mind | [1.16.6](1-vairagya/sarga-016.md#1-16-6) |
 | <span class="sa">मर्यादा</span> (maryādā) | bounds of right conduct | [1.9.12](1-vairagya/sarga-009.md#1-9-12) |

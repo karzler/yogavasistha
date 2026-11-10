@@ -31,3 +31,4 @@
 - [Sarga 23 — On Time (45 verses)](sarga-023.md)
 - [Sarga 24 — Time as a prince at play (10 verses)](sarga-024.md)
 - [Sarga 25 — The dance of Fate and Death (32 verses)](sarga-025.md)
+- [Sarga 26 — Is there anything to trust? (43 verses)](sarga-026.md)
