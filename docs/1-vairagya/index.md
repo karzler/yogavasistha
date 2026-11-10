@@ -15,3 +15,4 @@
 - [Sarga 7 — Viśvāmitra's request (28 verses)](sarga-007.md)
 - [Sarga 8 — Daśaratha's refusal (38 verses)](sarga-008.md)
 - [Sarga 9 — Vasiṣṭha's counsel (23 verses)](sarga-009.md)
+- [Sarga 10 — Śrī Rāma's state described (51 verses)](sarga-010.md)

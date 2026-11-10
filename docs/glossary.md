@@ -6,11 +6,13 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | --- | --- | --- |
 | <span class="sa">अकर्म</span> (akarma) | inaction, abstaining from action | [1.1.11](1-vairagya/sarga-001.md#1-1-11) |
 | <span class="sa">अधिकारिन्</span> (adhikārin) | one qualified for the teaching | [1.2.2](1-vairagya/sarga-002.md#1-2-2) |
+| <span class="sa">अभिमान</span> (abhimāna) | pride, ego-identification | [1.10.25](1-vairagya/sarga-010.md#1-10-25) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
 | <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">कर्म</span> (karma) | action | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
+| <span class="sa">कल्पना</span> (kalpanā) | mental construction, imagination | [1.10.38](1-vairagya/sarga-010.md#1-10-38) |
 | <span class="sa">जीवन्मुक्त</span> (jīvanmukta) | one liberated while living | [1.1.52](1-vairagya/sarga-001.md#1-1-52) |
 | <span class="sa">ज्ञ</span> (jña) | the Knower; pure knowing, prior to knower and known | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">ज्ञान</span> (jñāna) | knowledge | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
@@ -35,6 +37,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
+| <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
 | <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
 | <span class="sa">श्रेयस्</span> (śreyas) | the highest good (as opposed to प्रेयस्, the merely pleasant) | [1.7.14](1-vairagya/sarga-007.md#1-7-14) |
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
