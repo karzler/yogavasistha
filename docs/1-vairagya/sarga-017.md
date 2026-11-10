@@ -125,7 +125,7 @@
 </p>
 
 <p class="anvaya">
-वेगं संरोद्धुम् उदितः (though risen to check its rush) चित्त-चातकः (the cātaka bird of my mind) कलुषया तृष्णया (by turbid craving) वात्यया जरत्-तृणम् इव (like old grass by a gale) क्व अपि नीतः (has been carried off somewhere).
+सः (it) वेगं रोद्धुम् उदितः (though risen to check the rush) चित्त-चातकः (the cātaka bird of my mind) कलुषया तृष्णया (by turbid craving) वात्यया जरत्-तृणम् इव (like old grass by a gale) क्व अपि नीतः (has been carried off somewhere).
 </p>
 
 **Translation:** "The cātaka bird of my mind rose up to check its rush, but turbid craving carried it off somewhere, like old grass in a gale."
@@ -133,7 +133,7 @@
 **Pointers for Reflection:**
 
 - **The cātaka** is said to drink only raindrops. The mind, thirsting, is swept away by the very thirst it tried to resist.
-- **Reading note.** The online text prints सरोद्धुम्; the sense requires संरोद्धुम्, to check. Retained as printed in the verse.
+- **Reading note.** The online text prints सरोद्धुम् as one word; it is best divided स रोद्धुम्, "he [the mind], to check".
 
 ## Verse 1.17.8 { #1-17-8 }
 
@@ -432,7 +432,7 @@
 ## Verse 1.17.25 { #1-17-25 }
 
 <p class="shloka">
-यन्न शक्रोति तत्रापि धत्ते ताण्डवितां गतिम् ।<br>
+यन्न शक्नोति तत्रापि धत्ते ताण्डवितां गतिम् ।<br>
 नृत्यत्यानन्दरहितं तृष्णा जीर्णेव नर्तकी ॥ १.१७.२५ ॥
 </p>
 
@@ -445,7 +445,7 @@
 **Pointers for Reflection:**
 
 - **Dancing without joy.** The saddest image of the sarga. Craving outlives its own pleasure; we go on wanting even when wanting no longer gives anything.
-- **Reading note.** The online text prints शक्रोति; read शक्नोति.
+- **Reading note.** The online text prints शक्रोति; corrected here to शक्नोति.
 
 ## Verse 1.17.26 { #1-17-26 }
 
