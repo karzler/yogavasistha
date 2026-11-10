@@ -21,9 +21,11 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आलस्य</span> (ālasya) | laziness, sloth: the opposite of effort | [2.5.30](2-mumukshu/sarga-005.md#2-5-30) |
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">आस्था</span> (āsthā) | trust, reliance | [1.26.1](1-vairagya/sarga-026.md#1-26-1) |
+| <span class="sa">इन्द्रजाल</span> (indrajāla) | a conjuring show; the world as magic display | [2.12.13](2-mumukshu/sarga-012.md#2-12-13) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">उपाधि</span> (upādhi) | limiting condition, an adjunct that makes the limitless seem limited | [1.30.11](1-vairagya/sarga-030.md#1-30-11) |
 | <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
+| <span class="sa">एकवाक्यता</span> (ekavākyatā) | agreement of one's own experience, scripture and the teacher | [2.13.11](2-mumukshu/sarga-013.md#2-13-11) |
 | <span class="sa">कृतान्त</span> (kṛtānta) | Death, "the one who makes an end" | [1.25.5](1-vairagya/sarga-025.md#1-25-5) |
 | <span class="sa">काम</span> (kāma) | desire, lust | [1.20.3](1-vairagya/sarga-020.md#1-20-3) |
 | <span class="sa">करुणा</span> (karuṇā) | compassion | [1.20.43](1-vairagya/sarga-020.md#1-20-43) |
@@ -47,6 +49,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
 | <span class="sa">देह</span> (deha) | the body | [1.18.1](1-vairagya/sarga-018.md#1-18-1) |
 | <span class="sa">दैव</span> (daiva) | fate | [1.25.1](1-vairagya/sarga-025.md#1-25-1) |
+| <span class="sa">द्वारपाल</span> (dvārapāla) | gatekeeper; the four gatekeepers of liberation are calm, inquiry, contentment and good company | [2.11.59](2-mumukshu/sarga-011.md#2-11-59) |
 | <span class="sa">नियति</span> (niyati) | destiny, fate | [1.8.30](1-vairagya/sarga-008.md#1-8-30) |
 | <span class="sa">निर्वाण</span> (nirvāṇa) | final peace, extinction of bondage | [1.3.6](1-vairagya/sarga-003.md#1-3-6) |
 | <span class="sa">निर्विकल्पसमाधि</span> (nirvikalpa-samādhi) | absorption free of every mental form | [2.1.44](2-mumukshu/sarga-001.md#2-1-44) |
@@ -60,6 +63,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
 | <span class="sa">प्रसाद</span> (prasāda) | clarity, serenity of mind | [1.30.16](1-vairagya/sarga-030.md#1-30-16) |
 | <span class="sa">प्राक्तन</span> (prāktana) | of the past; past action that now bears fruit | [2.4.17](2-mumukshu/sarga-004.md#2-4-17) |
+| <span class="sa">प्रामाणिक</span> (prāmāṇika) | reliable, authoritative (of a teacher) | [2.11.43](2-mumukshu/sarga-011.md#2-11-43) |
 | <span class="sa">बुद्ध</span> (buddha) | the awakened one | [1.26.39](1-vairagya/sarga-026.md#1-26-39) |
 | <span class="sa">भावना</span> (bhāvanā) | mental imagining, the way the mind pictures things | [1.26.22](1-vairagya/sarga-026.md#1-26-22) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
@@ -70,9 +74,11 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">मुमुक्षु</span> (mumukṣu) | one who longs for liberation; the seeker | [2.1.1](2-mumukshu/sarga-001.md#2-1-1) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">मोक्षोपाय</span> (mokṣopāya) | the means to liberation | [1.1.53](1-vairagya/sarga-001.md#1-1-53) |
+| <span class="sa">मौर्ख्य</span> (maurkhya) | foolishness: the inner confusion that breeds all sorrow | [2.13.13](2-mumukshu/sarga-013.md#2-13-13) |
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
 | <span class="sa">यौवन</span> (yauvana) | youth | [1.20.1](1-vairagya/sarga-020.md#1-20-1) |
 | <span class="sa">रागद्वेष</span> (rāga-dveṣa) | attraction and aversion | [1.20.37](1-vairagya/sarga-020.md#1-20-37) |
+| <span class="sa">राजविद्या</span> (rājavidyā) | the royal knowledge: knowledge of the Self, first taught to kings | [2.11.17](2-mumukshu/sarga-011.md#2-11-17) |
 | <span class="sa">लीला</span> (līlā) | play, the divine sport of creation | [1.25.32](1-vairagya/sarga-025.md#1-25-32) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विकल्प</span> (vikalpa) | mental fancy, doubt, imagined alternative | [1.30.27](1-vairagya/sarga-030.md#1-30-27) |
@@ -88,6 +94,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
 | <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
 | <span class="sa">शम</span> (śama) | calm, self-restraint | [1.21.10](1-vairagya/sarga-021.md#1-21-10) |
+| <span class="sa">शान्त</span> (śānta) | the calm one; one in whom śama is established | [2.13.72](2-mumukshu/sarga-013.md#2-13-72) |
 | <span class="sa">शान्ति</span> (śānti) | peace | [1.29.23](1-vairagya/sarga-029.md#1-29-23) |
 | <span class="sa">श्रेयस्</span> (śreyas) | the highest good (as opposed to प्रेयस्, the merely pleasant) | [1.7.14](1-vairagya/sarga-007.md#1-7-14) |
 | <span class="sa">संकल्प</span> (saṃkalpa) | intention, imagining; the mind's power to form worlds | [2.1.36](2-mumukshu/sarga-001.md#2-1-36) |

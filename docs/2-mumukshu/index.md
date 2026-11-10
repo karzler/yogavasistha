@@ -15,3 +15,6 @@
 - [Sarga 8 — Fate refuted by reason (26 verses)](sarga-008.md)
 - [Sarga 9 — Fate is one's own mind; the river of tendencies (43 verses)](sarga-009.md)
 - [Sarga 10 — How the knowledge came down (44 verses)](sarga-010.md)
+- [Sarga 11 — The royal knowledge, and the four gatekeepers (73 verses)](sarga-011.md)
+- [Sarga 12 — Inquiry as the cure for saṃsāra (22 verses)](sarga-012.md)
+- [Sarga 13 — The knower, and the first gatekeeper: calm (84 verses)](sarga-013.md)
