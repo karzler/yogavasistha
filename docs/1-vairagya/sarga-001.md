@@ -197,7 +197,7 @@
     - *One who knows knowledge and action (avidyā) both together crosses death through action and attains immortality through knowledge.*
     - उभयं सह — "both together" — is the two-wing image in Upaniṣadic language.
 - **A point to weigh.** Śaṅkara, in his Gītā commentary, argues against combining knowledge and action as equal causes of liberation. The Yoga Vasiṣṭha, though Advaita at its core, here takes a different line. You may wish to reflect on how "action" is meant: action done with knowledge, free of attachment, may be the wing that knowledge needs in order to fly in the world.
-- **परमं पदम्.** The phrase recalls Kaṭha Upaniṣad 3.9 (<span class="parallel">तद्विष्णोः परमं पदम्</span>) and Gītā 8.21 (<span class="parallel">तद्धाम परमं मम</span>).
+- **परमं पदम्.** The phrase recalls Kaṭha Upaniṣad 1.3.9 (<span class="parallel">तद्विष्णोः परमं पदम्</span>) and Gītā 8.21 (<span class="parallel">तद्धाम परमं मम</span>).
 - **The thesis of the whole text.** This image foreshadows how Rāma's story ends: awakened, he does not leave the world, but rules — knowledge and action flying together.
 
 ## Verse 1.1.8 { #1-1-8 }
@@ -257,6 +257,12 @@
 
 - **Learning complete, life not yet begun.** Kāruṇya has all the knowledge of the scriptures. The crisis comes not from ignorance but from too much unlived learning.
 - **A parallel to Śrī Rāma.** In the sargas ahead, Śrī Rāma too returns home, from pilgrimage, and falls into a crisis. The frame story quietly prepares for his.
+- **Chāndogya Upaniṣad 6.1.2–3 — Śvetaketu comes home.**
+    - <span class="parallel">स ह द्वादशवर्ष उपेत्य चतुर्विंशतिवर्षः सर्वान्वेदानधीत्य महामना अनूचानमानी स्तब्ध एयाय तं ह पितोवाच ॥</span>
+    - *Having gone at twelve, he returned at twenty-four, having studied all the Vedas, proud, thinking himself learned and unbending. His father said to him:*
+    - <span class="parallel">उत तमादेशमप्राक्ष्यः येनाश्रुतं श्रुतं भवत्यमतं मतमविज्ञातं विज्ञातमिति ॥</span>
+    - *Did you ask for that teaching by which the unheard becomes heard, the unthought becomes thought, the unknown becomes known?*
+    - The same scene: a son returns from his teacher with all the Vedas, and his father sees that something essential is still missing. Śvetaketu is proud; Kāruṇya is paralysed. Both need their father's teaching.
 
 ## Verse 1.1.11 { #1-1-11 }
 
@@ -340,6 +346,10 @@
 - **प्रवृत्ति and निवृत्ति.** The two great paths of dharma: प्रवृत्ति, engagement in the world, and निवृत्ति, withdrawal from it. This verse states the first; the next states the second.
 - **A known Vedic injunction.** <span class="parallel">यावज्जीवमग्निहोत्रं जुहुयात्</span> — "one should offer the agnihotra as long as one lives" — is a classic example in Mīmāṃsā of a lifelong duty.
 - **The son has studied well.** His crisis is not ignorance; it is that his scriptures seem to say two opposite things.
+- **Īśa Upaniṣad 2:**
+    - <span class="parallel">कुर्वन्नेवेह कर्माणि जिजीविषेच्छतं समाः । एवं त्वयि नान्यथेतोऽस्ति न कर्म लिप्यते नरे ॥</span>
+    - *Doing actions here, one should wish to live a hundred years. For you there is no other way than this: so action does not cling to a person.*
+    - The Upaniṣad itself holds the प्रवृत्ति side: act all your life, and action need not bind. Kāruṇya quotes the ritual rule; the Īśa gives its deeper reason.
 
 ## Verse 1.1.15 { #1-1-15 }
 
@@ -402,6 +412,10 @@
 
 - **Agastya steps back in.** The speaker line reminds us that all of this is still Agastya talking to Sutīkṣṇa. तात, "dear one", is addressed to Sutīkṣṇa.
 - **मौन.** Two kinds of silence appear in the Yoga Vasiṣṭha: the silence of confusion, as here, and the silence of realisation. The text will later show the second.
+- **Bṛhadāraṇyaka Upaniṣad 3.5.1 — two silences:**
+    - <span class="parallel">तस्माद्ब्राह्मणः पाण्डित्यं निर्विद्य बाल्येन तिष्ठासेत् । बाल्यं च पाण्डित्यं च निर्विद्याथ मुनिः । अमौनं च मौनं च निर्विद्याथ ब्राह्मणः ॥</span>
+    - *Therefore a knower of Brahman, having done with learning, should live like a child. Having done with both childlikeness and learning, he becomes a silent sage. Having done with both non-silence and silence, he becomes a knower of Brahman.*
+    - Kāruṇya has पाण्डित्य, learning, and has fallen into मौन. But it is the silence of confusion, not yet the silence the Upaniṣad describes, which lies beyond both speaking and not speaking.
 
 ## Verse 1.1.18 { #1-1-18 }
 
@@ -517,6 +531,10 @@
 - **साधु पृष्टम्.** "Well asked." A good question is praised before it is answered. Your second reason for loving this text — that it teaches which questions are worth asking — is built into its very style.
 - **राजर्षि.** A king who is also a sage: the ideal the whole text will hold up in Śrī Rāma.
 - **The sentence continues** into the next verse.
+- **Gītā 4.2:**
+    - <span class="parallel">एवं परम्पराप्राप्तमिमं राजर्षयो विदुः । स कालेनेह महता योगो नष्टः परन्तप ॥</span>
+    - *Handed down in succession, this yoga was known to the royal sages. Through long time it was lost here, O Arjuna.*
+    - Kṛṣṇa names the राजर्षि as the keepers of the teaching. Ariṣṭanemi and, later, Śrī Rāma belong to this line: rulers who are also knowers.
 
 ## Verse 1.1.24 { #1-1-24 }
 
@@ -665,6 +683,10 @@
 
 - **स्वर्गभोग.** Heaven is described as भोग, enjoyment. The question the king will ask is whether enjoyment is the same as freedom.
 - **अमरावती,** "the city of the immortals" — yet, as the messenger will admit, its residents are not truly immortal.
+- **Gītā 2.43:**
+    - <span class="parallel">कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम् । क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति ॥</span>
+    - *Full of desire, intent on heaven, they speak words rich in rituals that yield birth and fruits of action, aimed at pleasure and power.*
+    - Kṛṣṇa warns against the स्वर्गपर, those whose aim is heaven. Indra's offer is exactly भोग, enjoyment, as the reward of merit.
 
 ## Verse 1.1.32 { #1-1-32 }
 
@@ -719,6 +741,10 @@
 
 - **The king doubts.** Not doubt from confusion, like Kāruṇya's, but the doubt of discernment (विवेक): before accepting, he asks what he is being offered.
 - **Third seeker, same posture.** Sutīkṣṇa, Kāruṇya and now Ariṣṭanemi are all संशयान, doubting. The text treats honest doubt as the doorway to wisdom.
+- **Kaṭha Upaniṣad 1.1.20 — Naciketas' doubt:**
+    - <span class="parallel">येयं प्रेते विचिकित्सा मनुष्येऽस्तीत्येके नायमस्तीति चैके । एतद्विद्यामनुशिष्टस्त्वयाहं वराणामेष वरस्तृतीयः ॥</span>
+    - *There is this doubt about a man who has died: some say he is, some say he is not. Taught by you, may I know this. This is the third of my boons.*
+    - Both seekers stand before a god who offers them something, and both answer with a question. Naciketas' विचिकित्सा and Ariṣṭanemi's संशय are the doubt of discernment, not of confusion.
 
 ## Verse 1.1.35 { #1-1-35 }
 
@@ -737,6 +763,10 @@
 
 - **Examine before accepting.** The king does not reject heaven blindly, nor accept it eagerly. He asks for both गुण and दोष. This is विवेक, discernment, the first of the qualities a seeker needs.
 - **A question to sit with.** What do I accept in life without first asking its merits and its costs?
+- **Muṇḍaka Upaniṣad 1.2.12 — the king's whole path in one verse:**
+    - <span class="parallel">परीक्ष्य लोकान् कर्मचितान् ब्राह्मणो निर्वेदमायान्नास्त्यकृतः कृतेन । तद्विज्ञानार्थं स गुरुमेवाभिगच्छेत् समित्पाणिः श्रोत्रियं ब्रह्मनिष्ठम् ॥</span>
+    - *Having examined the worlds won by action, a seeker should arrive at dispassion: the uncreated is not reached by what is created. To know That, let him go, fuel in hand, to a teacher learned in scripture and established in Brahman.*
+    - परीक्ष्य, "having examined", is what the king does in this verse. निर्वेद, dispassion, is his refusal (1.1.40). गुरुमेवाभिगच्छेत्, going to a teacher, is where Indra sends him (1.1.45). The Upaniṣad states in one verse what this sarga tells as a story.
 
 ## Verse 1.1.36 { #1-1-36 }
 
@@ -775,6 +805,10 @@
 **Pointers for Reflection:**
 
 - **Even heaven has ranks.** There is no equality in heaven; there are tiers. This sets up the next verse, which names the emotions such tiers produce.
+- **Chāndogya Upaniṣad 8.1.6:**
+    - <span class="parallel">तद्यथेह कर्मजितो लोकः क्षीयत एवमेवामुत्र पुण्यजितो लोकः क्षीयते ॥</span>
+    - *Just as here a world won by work comes to an end, so there a world won by merit comes to an end.*
+    - Whatever is won is measured, and whatever is measured runs out. The messenger's tiers of heaven (1.1.36–1.1.37) and their exhaustion (1.1.39) are this Upaniṣadic principle.
 
 ## Verse 1.1.38 { #1-1-38 }
 
@@ -950,6 +984,10 @@
 
 - **Three qualifications of the student.** विनीत (humble), वीतराग (free from passion), न स्वर्गम् इच्छन् (not wanting heaven). These are the student's credentials, much like the qualifications of a seeker described later in the Mumukṣu Prakaraṇa.
 - **Adhikāra.** In Vedānta the fitness of the student (अधिकार) matters as much as the teaching. Indra vouches for the king's fitness.
+- **Muṇḍaka Upaniṣad 1.2.13:**
+    - <span class="parallel">तस्मै स विद्वानुपसन्नाय सम्यक् प्रशान्तचित्ताय शमान्विताय । येनाक्षरं पुरुषं वेद सत्यं प्रोवाच तां तत्त्वतो ब्रह्मविद्याम् ॥</span>
+    - *To one who has approached properly, whose mind is calm and who has self-control, the wise teacher should truly teach that knowledge of Brahman by which one knows the imperishable, the true Person.*
+    - Indra's request to Vālmīki follows the Upaniṣad: a fit student (विनीत, वीतराग) is to be taught तत्त्व, the truth itself.
 
 ## Verse 1.1.47 { #1-1-47 }
 
@@ -968,6 +1006,10 @@
 
 - **क्रमात्, step by step.** Liberation through teaching is presented as gradual, through listening and understanding. The Yoga Vasiṣṭha is long because it is a step-by-step path.
 - **संसारदुःखार्त.** Suffering is the starting point of the search. In Sarga 2 onward, Śrī Rāma's own suffering will be described at length.
+- **Gītā 6.45:**
+    - <span class="parallel">प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः । अनेकजन्मसंसिद्धस्ततो याति परां गतिम् ॥</span>
+    - *But the yogī who strives with effort, purified of faults, perfected through many births, then reaches the highest goal.*
+    - क्रमात् here and अनेकजन्मसंसिद्ध in the Gītā: both see liberation as the ripening of sustained effort.
 
 ## Verse 1.1.48 { #1-1-48 }
 
@@ -1063,6 +1105,10 @@
 - **श्रुत्वा, अवधार्य.** Hearing and careful understanding: श्रवण and मनन, the classical path of Vedānta.
 - **अखण्डित Rāmāyaṇa.** The Yoga Vasiṣṭha presents itself as the inner, complete Rāmāyaṇa: not Rāma's outer deeds, but his inner awakening.
 - **Reading note.** The online edition prints श्रृणु; the standard spelling शृणु is used here.
+- **Kaṭha Upaniṣad 2.3.14 — liberation here:**
+    - <span class="parallel">यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः । अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥</span>
+    - *When all the desires that dwell in the heart are let go, then the mortal becomes immortal and attains Brahman here itself.*
+    - अत्र, "here", is the Upaniṣadic root of जीवन्मुक्ति. Vālmīki promises the king exactly this: not heaven later, but freedom here.
 
 ## Verse 1.1.53 { #1-1-53 }
 
@@ -1145,6 +1191,7 @@
 
 - **A sharp question.** The king knows Rāma is चिदानन्द. How can pure consciousness be cursed? This is the right question, and it echoes the three invocations (1.1.1–1.1.3: सत्, चित्, आनन्द).
 - **चैतन्यविग्रह.** "Whose body is consciousness." The king already sees Rāma rightly; he wants to understand how such a being can appear bound.
+- **Bṛhadāraṇyaka Upaniṣad 3.9.28:** <span class="parallel">विज्ञानमानन्दं ब्रह्म</span> — *Brahman is consciousness and bliss.* The king's description of Rāma as चिदानन्दस्वरूप is the Upaniṣad's description of Brahman. The king is really asking how Brahman can be cursed.
 
 ## Verse 1.1.57 { #1-1-57 }
 
@@ -1220,6 +1267,10 @@
 
 - **This is why Rāma needs a teacher.** The curse of Sanatkumāra explains 1.1.55: the omniscient Lord becomes, for a time, अज्ञानी. That is how the Lord can become a student.
 - **किञ्चित्कालम्, "for a time".** The ignorance is temporary, a role. In the end, Śrī Rāma will remember what he is. Perhaps this is true of every seeker.
+- **Gītā 7.25:**
+    - <span class="parallel">नाहं प्रकाशः सर्वस्य योगमायासमावृतः । मूढोऽयं नाभिजानाति लोको मामजमव्ययम् ॥</span>
+    - *I am not revealed to all, veiled by my yoga-māyā. This deluded world does not know me, the unborn and imperishable.*
+    - In the Gītā the Lord is veiled from the world. Here, by Sanatkumāra's curse, he is for a time veiled even from himself. That is what makes him a student.
 
 ## Verse 1.1.61 { #1-1-61 }
 
@@ -1239,6 +1290,10 @@
 - **The second curse.** In the Purāṇic account, Viṣṇu slew Bhṛgu's wife, who had sheltered the asuras. Bhṛgu's curse foreshadows Rāma's separation from Sītā.
 - **Even the Lord is subject to consequence.** The Yoga Vasiṣṭha does not exempt even Viṣṇu from the law of action and its fruit, once he enters the world.
 - **Reading note.** The online edition prints दृष्ट्रा; the correct form दृष्ट्वा is used here.
+- **A contrast with Gītā 4.14:**
+    - <span class="parallel">न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा । इति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥</span>
+    - *Actions do not stain me, nor do I desire their fruit. One who knows me thus is not bound by actions.*
+    - In the Gītā, Kṛṣṇa speaks as the Lord whom actions do not touch. In the Yoga Vasiṣṭha, the Lord in human form accepts the consequences of action. The two texts show the same Lord from two sides: as Guru, untouched; as student, fully human.
 
 ## Verse 1.1.62 { #1-1-62 }
 
@@ -1311,6 +1366,11 @@
 
 - **Four curses, two themes.** One curse (Sanatkumāra's) brings ignorance; three bring separation from the beloved. Together they explain the two features of Rāma's life the Yoga Vasiṣṭha cares about: he needs teaching, and he suffers loss.
 - **Reading note.** The husband is called देवदत्त in 1.1.63 and देवशर्मन् here. Both names appear in the online edition; your printed edition may resolve this.
+- **Gītā 4.7–8 — why the Lord descends:**
+    - <span class="parallel">यदा यदा हि धर्मस्य ग्लानिर्भवति भारत । अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥</span>
+    - <span class="parallel">परित्राणाय साधूनां विनाशाय च दुष्कृताम् । धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥</span>
+    - *Whenever dharma declines and adharma rises, I bring myself forth. To protect the good, to destroy wrongdoing and to establish dharma, I take birth age after age.*
+    - The Gītā gives the cosmic reason for the descent: to restore dharma. The Yoga Vasiṣṭha gives a personal one: curses, born of pain and pride. Perhaps both are true at once; the Yoga Vasiṣṭha itself calls the curses a व्याज, a pretext (1.1.55, 1.1.66).
 
 ## Verse 1.1.66 { #1-1-66 }
 
@@ -1330,3 +1390,7 @@
 - **सावधानमतिः.** "With an attentive mind." The sarga closes with a call to attention: the real teaching is about to begin.
 - **The end of the frame.** Sarga 1 has moved from invocation, through four layers of seekers and teachers, to the Lord himself as a student. The next sargas tell Śrī Rāma's story directly.
 - **Reading note.** The online edition prints सर्वे twice in this verse, where सर्वं is expected. Check your printed edition.
+- **Kaṭha Upaniṣad 1.3.14:**
+    - <span class="parallel">उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गं पथस्तत्कवयो वदन्ति ॥</span>
+    - *Arise, awake! Having found the great ones, learn. Sharp as a razor's edge, hard to cross, is that path, say the wise.*
+    - सावधानमतिः शृणु, "listen with an attentive mind", is Vālmīki's उत्तिष्ठत जाग्रत. The teaching that follows asks for full wakefulness.
