@@ -42,7 +42,7 @@ The Yoga Vasiṣṭha does not argue against other schools so much as gather the
 
 **Kashmir Śaivism.**
 
-- *Origin.* Modern scholarship traces the text to Kashmir. Its earlier form, the *Mokṣopāya* — the name the text gives itself in 2.17.6 above — is dated by Walter Slaje to tenth-century Kashmir, and was later reworked, with ideas from the Śaiva Trika school, into the Yoga Vasiṣṭha read today.
+- *Origin.* Modern scholarship traces the text to Kashmir. Its earlier form, the *Mokṣopāya* — the name the text gives itself in 2.17.6, "The Means to Liberation" — is dated by Walter Slaje to tenth-century Kashmir, and was later reworked, with ideas from the Śaiva Trika school, into the Yoga Vasiṣṭha read today.
 - *Spanda, the vibration of consciousness.* Kashmir Śaivism teaches that consciousness is not inert but has an inner pulse, *spanda*, through which the world appears and disappears. The Yoga Vasiṣṭha uses the same language: the world is the स्पन्द, the vibration, of consciousness, as waves are the movement of water.
 - *Worship of Śiva as consciousness.* In the Nirvāṇa Prakaraṇa, Vasiṣṭha recounts how Śiva himself taught him the true *deva-pūjā*: the God to be worshipped is consciousness, and the real worship is knowing it, not offerings of flowers.
 
