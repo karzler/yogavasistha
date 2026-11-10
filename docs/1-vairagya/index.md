@@ -16,3 +16,5 @@
 - [Sarga 8 — Daśaratha's refusal (38 verses)](sarga-008.md)
 - [Sarga 9 — Vasiṣṭha's counsel (23 verses)](sarga-009.md)
 - [Sarga 10 — Śrī Rāma's state described (51 verses)](sarga-010.md)
+- [Sarga 11 — Śrī Rāma comes to the assembly (38 verses)](sarga-011.md)
+- [Sarga 12 — Śrī Rāma's first speech (28 verses)](sarga-012.md)

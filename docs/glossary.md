@@ -35,6 +35,8 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">युक्ति</span> (yukti) | the right means, skilful method | [1.2.31](1-vairagya/sarga-002.md#1-2-31) |
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
+| <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
+| <span class="sa">विश्रान्ति</span> (viśrānti) | rest; liberation as complete repose | [1.11.4](1-vairagya/sarga-011.md#1-11-4) |
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
