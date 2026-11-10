@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif+Devanagari:wght@400;600&display=swap");
+
+:root {
+  --md-text-font-family: "Noto Serif", "Noto Serif Devanagari", serif;
+}
+
+/* The Sanskrit verse */
+.shloka {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: 1.35rem;
+  line-height: 2;
+  text-align: center;
+  font-weight: 600;
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-left: 4px solid var(--md-primary-fg-color);
+  background: var(--md-code-bg-color);
+  border-radius: 4px;
+}
+
+/* Word-by-word in prose order */
+.anvaya {
+  font-size: 0.95rem;
+  line-height: 1.9;
+}
+
+.md-typeset :lang(sa),
+.md-typeset .sa {
+  font-family: "Noto Serif Devanagari", serif;
+}
+
+/* Quoted parallel verses inside the pointers */
+.md-typeset .parallel {
+  font-family: "Noto Serif Devanagari", serif;
+  font-size: 1.05rem;
+}
+
+/* Keep each verse visually separate */
+.md-typeset h2[id] {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}

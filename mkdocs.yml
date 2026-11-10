@@ -1,0 +1,76 @@
+site_name: योगवासिष्ठ — Yoga Vasiṣṭha
+site_description: The Yoga Vasiṣṭha verse by verse — Sanskrit, word-by-word meaning, translation and pointers for reflection.
+site_url: https://karzler.github.io/yogavasistha/
+repo_url: https://github.com/karzler/yogavasistha
+repo_name: karzler/yogavasistha
+copyright: Translation and commentary licensed under CC BY-SA 4.0
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Noto Serif
+    code: Noto Sans Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.indexes
+    - navigation.footer
+    - navigation.top
+    - navigation.instant
+    - toc.follow
+    - search.highlight
+    - content.action.edit
+
+extra_css:
+  - assets/style.css
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang:
+        - en
+        - hi
+
+nav:
+  - Home: index.md
+  - Introduction:
+      - Why I love Yoga Vasistha: introduction/why-i-love.md
+      - About this translation: introduction/about-translation.md
+  - Glossary: glossary.md
+  - 1. Vairāgya Prakaraṇa:
+      - 1-vairagya/index.md
+      - Sarga 1: 1-vairagya/sarga-001.md
+  - 2. Mumukṣu Prakaraṇa:
+      - 2-mumukshu/index.md
+  - 3. Utpatti Prakaraṇa:
+      - 3-utpatti/index.md
+  - 4. Sthiti Prakaraṇa:
+      - 4-sthiti/index.md
+  - 5. Upaśama Prakaraṇa:
+      - 5-upashama/index.md
+  - 6. Nirvāṇa Prakaraṇa:
+      - 6-nirvana/index.md
+      - Pūrvārdha (first half):
+          - 6-nirvana/purvardha/index.md
+      - Uttarārdha (second half):
+          - 6-nirvana/uttarardha/index.md
