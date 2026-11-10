@@ -2,7 +2,7 @@
 
 The Yoga Vasiṣṭha studied verse by verse: Sanskrit, word-by-word meaning in prose order, English translation, and pointers for reflection.
 
-**Read it online:** https://karzler.github.io/yogavasistha/
+**Read it online:** https://yogavasistha.mohit.ink/
 
 ## How this repository is organised
 
