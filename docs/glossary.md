@@ -31,6 +31,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
 | <span class="sa">भ्रम</span> (bhrama) | illusion, error; also wandering | [1.3.2](1-vairagya/sarga-003.md#1-3-2) |
+| <span class="sa">मनस्</span> (manas) | the mind | [1.16.6](1-vairagya/sarga-016.md#1-16-6) |
 | <span class="sa">मर्यादा</span> (maryādā) | bounds of right conduct | [1.9.12](1-vairagya/sarga-009.md#1-9-12) |
 | <span class="sa">माया</span> (māyā) | illusion, the power that makes the unreal appear real | [1.15.5](1-vairagya/sarga-015.md#1-15-5) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
