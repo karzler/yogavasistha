@@ -28,3 +28,4 @@
 - [Sarga 20 — On youth (43 verses)](sarga-020.md)
 - [Sarga 21 — On woman and desire (36 verses)](sarga-021.md)
 - [Sarga 22 — On old age (38 verses)](sarga-022.md)
+- [Sarga 23 — On Time (45 verses)](sarga-023.md)
