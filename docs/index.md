@@ -2,7 +2,7 @@
 
 *Study notes and personal commentary, verse by verse.*
 
-In the Bhagavad Gītā the Lord is the Guru. In the Yoga Vasiṣṭha the Lord is the student: श्रीराम sits before the sage Vasiṣṭha and asks the questions that matter most. This site works through the text one verse at a time, for anyone who wishes to study it.
+In the Bhagavad Gītā the Lord is the Guru. In the Yoga Vasiṣṭha the Lord is the student: Śrī Rāma sits before the sage Vasiṣṭha and asks the questions that matter most. This site works through the text one verse at a time, for anyone who wishes to study it.
 
 [Why I love Yoga Vasistha](introduction/why-i-love.md){ .md-button .md-button--primary }
 [Start reading — Sarga 1](1-vairagya/sarga-001.md){ .md-button }
