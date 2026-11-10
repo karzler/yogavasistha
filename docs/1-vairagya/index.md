@@ -6,4 +6,4 @@
 
 ## Sargas
 
-- [Sarga 1 — Opening invocations](sarga-001.md)
+- [Sarga 1 — Opening invocations; Sutīkṣṇa asks: knowledge or action?](sarga-001.md)

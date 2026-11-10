@@ -41,3 +41,10 @@
   padding-top: 1rem;
   border-top: 1px solid var(--md-default-fg-color--lightest);
 }
+
+/* Speaker line above a verse, e.g. सुतीक्ष्ण उवाच */
+.shloka .speaker {
+  font-size: 0.85em;
+  font-weight: 400;
+  opacity: 0.75;
+}
