@@ -74,7 +74,7 @@
 इह (here) तत् न अस्ति (there is nothing) यत् (which) अयं सकल-घस्मरः कालः (this all-devouring Time) न ग्रसते (does not swallow); [सः] जगत्-जातं (all that is born in the world) वाडवः प्रोत्थ-अब्धिम् इव (as the submarine fire [swallows] the rising ocean) [ग्रसते] (swallows).
 </p>
 
-**Translation:** "There is nothing here that all-devouring Time does not swallow. It swallows everything born in the world, as the fire under the sea swallows the rising ocean."
+**Translation:** "Nothing here escapes the swallowing of Time, devourer of all. Whatever is born in the world, it gulps down, as the fire beneath the sea gulps down the swelling ocean."
 
 **Pointers for Reflection:**
 

@@ -180,7 +180,7 @@
 जन्म-आवलि-वरत्रायाम् (on the strong rope of the series of births) इन्द्रिय-ग्रन्थयः दृढाः (the knots of the senses are firm); ये बद्धाः (those who are bound) [सन्तः] ये तत्-विमोक्ष-अर्थं यतन्ते (and who strive to be free of them) ते तु उत्तमाः (they are the best).
 </p>
 
-**Translation:** "On the strong rope of our many births, the knots of the senses are tied tight. Those who are bound and strive to free themselves are the best of people."
+**Translation:** "The senses are knots pulled tight on the long rope of our births. Among those who are tied by them, the ones who work to get free are the finest."
 
 **Pointers for Reflection:**
 
@@ -250,7 +250,7 @@
 ज्ञस्य चेतसः (for the mind of the knower) न सुखानि न दुःखानि (neither pleasures nor pains) न मित्राणि न बान्धवाः (neither friends nor relatives) न जीवितं न मरणं (neither life nor death) बन्धाय [भवन्ति] (are a bondage).
 </p>
 
-**Translation:** "For the mind of one who knows, neither pleasures nor pains, neither friends nor relatives, neither life nor death are a bondage."
+**Translation:** "For a knower's mind, nothing becomes a fetter: not pleasure or pain, not friend or kin, not living or dying."
 
 **Pointers for Reflection:**
 
@@ -268,7 +268,7 @@
 ब्रह्मन् पूर्व-अपर-विदां वर (O sage, best of those who know past and future), यथा (so that) तत् (that) वीत-शोक-भय-आयासः ज्ञः भवामि (I may become a knower free of sorrow, fear and weariness), तथा मे आशु उपदिश (so teach me quickly).
 </p>
 
-**Translation:** "O sage, best of those who know what was and what will be, teach me quickly how I may become such a knower — free of sorrow, fear and weariness."
+**Translation:** "You who see furthest into what was and what will be, O sage — show me, and soon, how I too may become a knower, rid of grief, fear and strain."
 
 **Pointers for Reflection:**
 
@@ -286,7 +286,7 @@
 अज्ञता-अटवी (the forest of ignorance) वासना-जाल-वलिता (wrapped in the net of latent tendencies) दुःख-कण्टक-संकुला (full of thorns of sorrow) निपात-उत्पात-बहुला (full of falls and rises) भीम-रूपा (is fearsome in form).
 </p>
 
-**Translation:** "The forest of ignorance is fearsome: wrapped in the net of latent tendencies, thick with the thorns of sorrow, full of falls and upheavals."
+**Translation:** "Ignorance is a frightening jungle, tangled in the net of latent tendencies, thorny with sorrow, full of sudden falls and sudden upheavals."
 
 **Pointers for Reflection:**
 
@@ -322,7 +322,7 @@
 'इदं न अस्ति इदम् अस्ति' इति ('this is not, this is') व्यवहार-अञ्जन-भ्रमः (the delusion that is the eye-paint of worldly dealings) इदं चलं चेतः (this restless mind) अनिलः रजः-राशिम् इव (as the wind a heap of dust) धुनोति (shakes).
 </p>
 
-**Translation:** "The delusion of worldly dealings — 'this is, this is not' — shakes this restless mind as the wind scatters a heap of dust."
+**Translation:** "The muddle of everyday life — 'this exists, that does not' — tosses this unsteady mind about as a gust scatters a pile of dust."
 
 **Pointers for Reflection:**
 
@@ -373,7 +373,7 @@
 तत्त्वविदां वर (best of the knowers of truth), मे हृदय-अटव्यां (in the forest of my heart) नीहारं मनः-तिमिरम् (the fog, the darkness of the mind) केन विज्ञान-दीपेन (with what lamp of knowledge) आशु भिन्धि (pierce quickly).
 </p>
 
-**Translation:** "Best of those who know the truth: with what lamp of knowledge will you quickly pierce the fog — the darkness of the mind — in the forest of my heart?"
+**Translation:** "You who stand highest among the knowers of truth — what lamp of understanding will you use to cut, and soon, through the mist and murk of mind that fills the forest of my heart?"
 
 **Pointers for Reflection:**
 

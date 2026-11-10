@@ -401,7 +401,7 @@
 एकस्मिन् श्रवणे (in one ear) दीप्ता हिमवान् (the shining Himālaya) अस्थि-मुद्रिका (is a bone ear-ring); अपरे च (and in the other) महा-मेरुः (great Meru) कान्ता काञ्चन-कर्णिका (is a lovely golden ear-ring).
 </p>
 
-**Translation:** "… in one ear the shining Himālaya is an earring of bone; in the other, great Meru is a lovely golden earring."
+**Translation:** "… from one ear hangs the gleaming Himālaya as a bone earring; from the other, great Meru, a beautiful earring of gold."
 
 **Pointers for Reflection:**
 

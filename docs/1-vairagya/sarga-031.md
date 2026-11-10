@@ -57,7 +57,7 @@
 वासना-वात-वलिते (when [the sky of life] is stirred by the winds of tendencies) कदाशा-तडिति स्फुटे (when the lightning of false hope flashes) मोह-उग्र-मिहिका-मेघे (when the cloud of fierce delusion and fog) घनं स्फूर्जति गर्जति [सति] (thunders and roars heavily) …
 </p>
 
-**Translation:** "… when the winds of latent tendencies swirl, when the lightning of false hope flashes, and the cloud of delusion thunders and roars …"
+**Translation:** "… when gusts of old tendencies whirl about, false hopes flash like lightning, and the heavy, fog-laden cloud of delusion rumbles and booms …"
 
 **Pointers for Reflection:**
 
@@ -108,7 +108,7 @@
 कः उपायः (what is the means?) का वा गतिः (or what is the way?) का चिन्ता (what is the right thought?) कः समाश्रयः (what is the refuge?) केन (by what) इयं जीवित-अटवी (this forest of life) अशुभ-उदर्का न भवेत् (may not have an evil end)?
 </p>
 
-**Translation:** "— what is the means, what is the way, what is the right thought, what is the refuge? By what can this forest of life be kept from ending in misfortune?"
+**Translation:** "— what way through is there, what road, what thought to hold, what shelter to run to? What could keep this jungle of a life from ending badly?"
 
 **Pointers for Reflection:**
 
@@ -126,7 +126,7 @@
 पृथिव्यां वा दिवि वा देवेषु वा (on earth, in heaven or among the gods) क्वचित् (anywhere) तत् न अस्ति (there is nothing) यत् (which) सुधियः (the wise) तुच्छम् अपि (though trivial) रम्यतां न नयन्ति (do not make beautiful).
 </p>
 
-**Translation:** "There is nothing on earth, in heaven or among the gods — however trivial — that the wise cannot turn into something beautiful."
+**Translation:** "On earth, in heaven, among the gods — wherever one looks there is nothing so slight that the wise cannot make it lovely."
 
 **Pointers for Reflection:**
 
@@ -426,7 +426,7 @@
 अथ (then) क्रमेण (gradually) प्रश्वास-उच्छ्वास-संविदः (the awareness of breathing in and out) सन्त्यज्य (giving up) देह-नामकम् इमम् अनर्थं संनिवेशम् (this misfortune of a dwelling called the body) त्यजामि (I give up).
 </p>
 
-**Translation:** "Then, gradually letting go of the awareness of breathing in and out, I will leave this unhappy dwelling called the body."
+**Translation:** "Then, step by step, I will let go of the sense of the breath moving in and out, and leave behind this sorry dwelling we call a body."
 
 **Pointers for Reflection:**
 

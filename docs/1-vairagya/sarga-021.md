@@ -343,7 +343,7 @@
 जन्म-पल्वल-मत्स्यानां (for the fish in the pond of births) चित्त-कर्दम-चारिणां (who move in the mud of the mind) पुंसां (for men) नारी (a woman) दुर्वासना-रज्जुः (the line of bad tendencies) बडिश-पिण्डिका (the bait on the hook) [भवति] ([is]).
 </p>
 
-**Translation:** "For men, who are fish in the pond of births moving in the mud of the mind, a woman is the bait on the hook, and wrong tendencies the line."
+**Translation:** "Men are fish that swim in the muddy pond of birth after birth, through the silt of their own minds; to them a woman is the morsel on the hook, and their own bad tendencies are the line."
 
 **Pointers for Reflection:**
 

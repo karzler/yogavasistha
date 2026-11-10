@@ -39,7 +39,7 @@
 इदं मे मनः भ्रमति इव (this mind of mine seems to whirl) सम्भ्रमः च उपजायते (and confusion arises); गात्राणि (my limbs) जरत्-तरोः पत्राणि इव (like the leaves of an old tree) परिकम्पन्ते (tremble).
 </p>
 
-**Translation:** "… my mind seems to whirl, and confusion arises; my limbs tremble like the leaves of an old tree."
+**Translation:** "… a giddiness takes hold of me, everything is in turmoil, and my body shakes as the leaves shake on an ageing tree."
 
 **Pointers for Reflection:**
 
@@ -247,7 +247,7 @@
 भवन्तः महान्तः (you great ones) वीत-कल्मषाः (free of impurity) जीवन्मुक्ताः महा-आशयाः (liberated while living, large-hearted) कां दृष्टिं समुपाश्रित्य (resting on what vision) इह विचरन्ति (move about in this world)?
 </p>
 
-**Translation:** "You great ones — free of impurity, liberated while living, large-hearted — resting on what vision do you move about in this world?"
+**Translation:** "You great and generous souls, stainless and free while still in the body — what way of seeing do you rely on as you go about in the world?"
 
 **Pointers for Reflection:**
 
@@ -423,7 +423,7 @@
 केन पावन-मन्त्रेण (by what purifying mantra) आयास-शत-कारिणी (causing hundreds of troubles) इयं दुःसंसृति-विषूचिका (this cholera of wretched worldly existence) अनायासं शाम्यति (is calmed without effort)?
 </p>
 
-**Translation:** "By what purifying mantra can this cholera of worldly existence, which causes hundreds of troubles, be calmed without effort?"
+**Translation:** "What holy spell will quieten, without strain, this cholera of a wretched existence that brings trouble upon trouble?"
 
 **Pointers for Reflection:**
 

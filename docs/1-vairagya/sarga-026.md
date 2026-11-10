@@ -125,7 +125,7 @@
 यमः निर्घृण-राज-इन्द्रः (Yama, king of the merciless) आर्तं नाम न अनुकम्पते (has no pity for the suffering); सर्व-भूत-दया-उदारः जनः (a person generous with compassion for all beings) दुर्लभतां गतः (has become rare).
 </p>
 
-**Translation:** "Yama, king of the pitiless, has no mercy for the suffering; and a person generous with compassion for all beings has become rare."
+**Translation:** "Yama, harshest of kings, takes no pity on those in pain — and people with a generous kindness towards every creature have become hard to find."
 
 **Pointers for Reflection:**
 
@@ -159,7 +159,7 @@
 आयुः अत्यन्त-चपलम् (life is extremely fleeting) मृत्युः एकान्त-निष्ठुरः (death is utterly cruel) तारुण्यं च अति-तरलम् (and youth is very unsteady) बाल्यं जडतया हृतम् (childhood is stolen by dullness).
 </p>
 
-**Translation:** "Life is utterly fleeting; death is utterly cruel; youth is unsteady; childhood is stolen by dullness."
+**Translation:** "Life flickers out in a moment; death knows no mercy at all; youth never holds still; and dullness robs us of childhood."
 
 **Pointers for Reflection:**
 
@@ -193,7 +193,7 @@
 इन्द्रियाणि एव च शत्रवः (the senses themselves are enemies) सत्यम् असत्यतां यातम् (truth has become untruth); आत्मा आत्मना एव प्रहरति (the self strikes the self by itself); मनः मनसा एव रिपुः (the mind is the enemy by the mind itself).
 </p>
 
-**Translation:** "The senses themselves are enemies; truth has turned into untruth; the self strikes itself; the mind is its own enemy."
+**Translation:** "Our own senses are the enemy; the true has become false; we wound ourselves with our own hand; the mind turns hostile to itself."
 
 **Pointers for Reflection:**
 
@@ -349,7 +349,7 @@
 मनः अन्तः विमुह्यति इव (the mind is bewildered within, as it were) मुदिता दूरतां गता (gladness has gone far) उज्ज्वला करुणा न उदेति (bright compassion does not arise) नीचता दूरात् आयाति (baseness comes from afar).
 </p>
 
-**Translation:** "The mind is bewildered within; gladness has gone far away; bright compassion does not arise; and meanness approaches from afar."
+**Translation:** "Within, the mind is lost in confusion; gladness has wandered off; no warm light of compassion rises in it, and pettiness draws near from a long way off."
 
 **Pointers for Reflection:**
 
@@ -434,7 +434,7 @@
 समुद्राः अपि शुष्यन्ति (even oceans dry up) तारकाः अपि शीर्यन्ते (even stars fall apart) सिद्धाः अपि विनश्यन्ति (even the perfected perish) — मादृशे जने (for a person like me) का एव आस्था (what trust can there be)?
 </p>
 
-**Translation:** "Even oceans dry up; even stars disintegrate; even the perfected ones perish. What trust, then, can there be for one like me?"
+**Translation:** "Seas run dry, stars crumble, even perfected beings come to an end. How then could someone like me lean on anything?"
 
 **Pointers for Reflection:**
 
@@ -451,7 +451,7 @@
 दानवाः अपि दीर्यन्ते (even demons are torn apart) ध्रुवः अपि अध्रुव-जीवितः (even Dhruva, the 'fixed', has an unfixed life) अमराः अपि मार्यन्ते (even the immortals are slain) — मादृशे जने (for a person like me) का एव आस्था (what trust can there be)?
 </p>
 
-**Translation:** "Even demons are torn apart; even Dhruva, the 'fixed' pole star, has an unfixed life; even the immortals die. What trust, then, can there be for one like me?"
+**Translation:** "Demons are torn to pieces; even Dhruva, the 'fixed' star, holds his place only for a time; the deathless gods themselves die. How then could someone like me lean on anything?"
 
 **Pointers for Reflection:**
 
@@ -486,7 +486,7 @@
 सोमः अपि व्योमतां याति (even the moon becomes empty space) मार्तण्डः अपि खण्डताम् एति (even the sun breaks into pieces) अग्निः अपि मग्नताम् एति (even fire is quenched) — मादृशे जने (for a person like me) का एव आस्था (what trust can there be)?
 </p>
 
-**Translation:** "Even the moon dissolves into the sky; even the sun breaks into pieces; even fire sinks and goes out. What trust, then, can there be for one like me?"
+**Translation:** "The moon melts into the sky, the sun shatters, even fire is quenched. How then could someone like me lean on anything?"
 
 **Pointers for Reflection:**
 
@@ -592,7 +592,7 @@
 अन्तः-स्थ-सुर-असुर-गण-आस्पदम् (the home of the hosts of gods and demons within) धरा-गोलकम् (the globe of the earth) धिष्ण्य-चक्रेण (by the circle of the stars) पक्व-अक्षोटम् त्वचा इव (like a ripe walnut by its shell) वेष्ट्यते (is enclosed).
 </p>
 
-**Translation:** "The globe of the earth, home to gods and demons, is enclosed by the circle of the stars, as a ripe walnut is by its shell."
+**Translation:** "The round earth, where gods and demons have their homes, is wrapped in the wheel of the stars as a ripe walnut is wrapped in its husk."
 
 **Pointers for Reflection:**
 
@@ -696,7 +696,7 @@
 जीवित-अम्बुधौ (in the ocean of life) उत्पन्न-ध्वंसिनः (born and destroyed) काल-वडवा-अनल-पातिनः (falling into the submarine fire of Time) कल्लोलाः (waves) केन संख्यातुं शक्यन्ते (who can count)?
 </p>
 
-**Translation:** "Who can count the waves on the ocean of life — born and destroyed, falling into the submarine fire of Time?"
+**Translation:** "Lives rise and break on the sea of existence, and sink into the undersea fire of Time — who could ever number those waves?"
 
 **Pointers for Reflection:**
 

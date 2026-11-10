@@ -108,7 +108,7 @@
 दासाः पुत्राः स्त्रियः च एव बान्धवाः सुहृदः तथा (servants, sons, wives, relatives and friends) वार्धक-कम्पितं नरं (a man trembling with age) उन्मत्तकम् इव हसन्ति (laugh at, as at a madman).
 </p>
 
-**Translation:** "Servants, sons, wives, relatives and friends laugh at a man trembling with age, as they would at a madman."
+**Translation:** "When a man shakes with age, his servants, his sons, his wives, his kin and his friends all mock him as if he had lost his wits."
 
 **Pointers for Reflection:**
 
@@ -178,7 +178,7 @@
 'कः अहं वराकः (who am I, poor wretch?) किम् इव करोमि (what can I do?) कथम् एव च (and how?) मौनम् एव तिष्ठामि (I shall just stay silent)' इति (thus) वार्धके दीनता उदेति (helplessness arises in old age).
 </p>
 
-**Translation:** "'Who am I, poor wretch? What can I do, and how? I will just stay silent.' So helplessness arises in old age."
+**Translation:** "'What am I, a poor wretch? What could I do, and how would I do it? Better to sit here and say nothing.' Such is the helplessness that rises in old age."
 
 **Pointers for Reflection:**
 
@@ -451,7 +451,7 @@
 अस्मिन् जगति (in this world) तथा अमङ्गल-करी (so inauspicious) काचित् न अस्ति (there is nothing) यथा (as) आक्रोश-करी (wailing) देह-जङ्गल-जम्बुकी जरा (old age, the she-jackal in the forest of the body).
 </p>
 
-**Translation:** "Nothing in this world is as inauspicious as old age, the howling jackal in the forest of the body."
+**Translation:** "In all this world there is no worse omen than old age, the she-jackal howling in the wilderness of the body."
 
 **Pointers for Reflection:**
 
@@ -502,7 +502,7 @@
 मुने (O sage), मरण-मातङ्गः (the elephant of death) जरा-कर्पूर-धवलं (white with the camphor of old age) देह-कर्पूर-पादपं (the camphor-tree of the body) नूनं क्षणात् उद्धरति (surely uproots in a moment).
 </p>
 
-**Translation:** "O sage, the elephant of death uproots in a moment the camphor-tree of the body, whitened by the camphor of old age."
+**Translation:** "O sage, once the body has turned white as a camphor tree with the camphor of age, the tusker of death tears it out by the roots in an instant."
 
 **Pointers for Reflection:**
 

@@ -74,7 +74,7 @@
 तस्य रामभद्रस्य ताः गिरः (those words of noble Rāma) चित्र-अर्पितैः इव (as if painted in a picture) अन्तर-आनन्द-पद-पीवरैः शृणुकैः (by listeners swelling with inner joy) संश्रुताः (were heard) …
 </p>
 
-**Translation:** "Those words of noble Rāma were heard by listeners who sat still as figures in a painting, full of inner joy …"
+**Translation:** "Those words of the noble Rāma were heard by people sitting motionless as if painted on a wall, brimming with joy within …"
 
 **Pointers for Reflection:**
 
@@ -126,7 +126,7 @@
 तथा (likewise) भृत्यैः अमात्यैः च (by servants and ministers) पञ्जर-स्थैः पक्षिभिः च (by birds in their cages) गत-स्पन्दैः क्रीडा-मृगैः (by pet deer, now motionless) त्यक्त-चर्वणैः तुरङ्गैः (by horses that had stopped chewing) …
 </p>
 
-**Translation:** "… by servants and ministers; by birds in their cages; by pet deer, now motionless; by horses that had stopped chewing …"
+**Translation:** "… by attendants and officers of state; by the birds in their cages; by the pet deer, which stopped quite still; by the horses, which left off their chewing …"
 
 **Pointers for Reflection:**
 
@@ -382,7 +382,7 @@
 अदृश्य-अम्बर-सिद्ध-ओघ-कर-उत्कर-समीरिता (thrown by the many hands of hosts of siddhas invisible in the sky) सा पुष्प-वृष्टिः (that rain of flowers) मुहूर्त-चतुर्-भागं पपात ह (fell for a quarter of a muhūrta).
 </p>
 
-**Translation:** "That rain of flowers, thrown by the many hands of siddhas hidden in the sky, fell for a quarter of a muhūrta."
+**Translation:** "For about a quarter of a muhūrta that shower of blossoms kept falling, scattered by the countless hands of siddhas whom no one could see in the sky."
 
 **Pointers for Reflection:**
 

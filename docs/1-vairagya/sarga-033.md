@@ -144,7 +144,7 @@
 [सा] व्योम्नि तारा-आवलिः इव (like a row of stars in the sky) तेजः-प्रसर-पाटला (reddish with spreading radiance) सूर्य-आवलिः इव (like a row of suns) अन्योन्यं भासित-आनन-मण्डना (lighting up each other's faces).
 </p>
 
-**Translation:** "They were like a row of stars in the sky, glowing with spreading radiance; like a row of suns, lighting up one another's faces."
+**Translation:** "Like a band of stars across the sky, flushed with their own outpouring light — like a line of suns, each one lighting up the faces of the rest."
 
 **Pointers for Reflection:**
 
@@ -723,7 +723,7 @@
 रामात् (from Rāma) दृष्टा चमत्कृतिः (the wonder seen) शशिनः शीता ज्योत्स्ना इव (like the cool light of the moon) सु-तरोः मञ्जरी इव (like a blossom from a fine tree) पुष्पात् आमोद-लेखा इव (like a trail of fragrance from a flower) [अस्ति].
 </p>
 
-**Translation:** "'The wonder that has come from Rāma is like cool moonlight from the moon, like a blossom from a noble tree, like a trail of fragrance from a flower.'"
+**Translation:** "'What shines out of Rāma is wonder of the kind that cool light is to the moon, a cluster of blossom to a fine tree, a breath of scent to a flower.'"
 
 **Pointers for Reflection:**
 

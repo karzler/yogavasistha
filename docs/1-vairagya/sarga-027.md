@@ -92,7 +92,7 @@
 इह लोके (here in the world) तृष्णा-नदी (the river of craving) सारतर-प्रवाह-ग्रस्त-अखिल-अनन्त-पदार्थ-जाता (whose strong current has swallowed all the endless things) तट-स्थ-सन्तोष-सु-वृक्ष-मूल-निकाष-दक्षा (skilled at eroding the roots of the good tree of contentment on its bank) वहति (flows).
 </p>
 
-**Translation:** "Here in the world flows the river of craving; its strong current has swallowed countless things, and it is expert at eating away the roots of the good tree of contentment that stands on its bank."
+**Translation:** "Craving runs through the world like a river. Its powerful current has carried off things beyond counting, and it knows just how to wear away the roots of contentment, the good tree standing on its bank."
 
 **Pointers for Reflection:**
 
@@ -127,7 +127,7 @@
 तृष्णा-लता-कानन-चारिणः (roaming in the forest of craving-vines) अमी मनः-मृगाः (these deer of the mind) काम-महीरुहेषु (in the trees of desire) शाखा-शतं परिभ्रमन्तः (wandering over a hundred branches) कालं क्षपयन्ति (waste time) फलं नो आप्नुवन्ति (and find no fruit).
 </p>
 
-**Translation:** "These deer of the mind roam the forest of craving's vines, wandering over a hundred branches of the trees of desire; they only waste their time and find no fruit."
+**Translation:** "Grazing in a jungle of craving's creepers, these deer of the mind leap from branch to branch of desire's trees, a hundred of them, and spend their time without ever tasting fruit."
 
 **Pointers for Reflection:**
 
@@ -163,7 +163,7 @@
 ये (those who) मातङ्ग-घटा-तरङ्गं रण-अम्बुधिं (the ocean of battle, whose waves are herds of elephants) तरन्ति (cross), ते (they) मयि (in my view) न शूराः (are not heroes); ते एव इह शूराः (they alone are heroes here) [ये] (who) इमं मनः-तरङ्गं देह-इन्द्रिय-अम्भोधिम् (this ocean of body and senses, whose waves are the mind) तरन्ति (cross).
 </p>
 
-**Translation:** "Those who cross the ocean of battle, whose waves are herds of elephants, are not heroes in my eyes. The true heroes are those who cross this ocean of body and senses, whose waves are the mind."
+**Translation:** "I do not call them heroes who cross the sea of battle, where the waves are ranks of elephants. The real heroes are those who cross this sea of body and senses, whose waves are the mind."
 
 **Pointers for Reflection:**
 
@@ -581,7 +581,7 @@
 सर्वत्र (everywhere) महीध्राः पाषाण-मयाः (mountains are made of stone) मही मृदा (earth of clay) वृक्षाः दारुभिः एव (trees of wood only) जनाः मांसैः (people of flesh) पौरुष-बद्ध-भावाः (with natures bound by their own efforts); इह (here) विकार-हीनम् अपूर्वं न अस्ति (there is nothing new that is free of change).
 </p>
 
-**Translation:** "Everywhere mountains are made of stone, the earth of clay, trees of wood, people of flesh, shaped by their efforts. Here there is nothing truly new, nothing free of change."
+**Translation:** "Hills are stone wherever you go; the ground is clay, trees are timber, people are flesh, each formed by their own striving. Nothing here is new, and nothing escapes change."
 
 **Pointers for Reflection:**
 

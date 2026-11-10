@@ -40,7 +40,7 @@
 मुने (O sage), यः (what) अद्य (today) शुष्क-सागर-संकाशः निखातः दृश्यते (is seen as a hollow like a dried-up sea), सः (that) प्रातः (by morning) अभ्र-संवीतः नगः सम्पद्यते (becomes a mountain wrapped in clouds).
 </p>
 
-**Translation:** "O sage, what is seen today as a hollow, like a dried-up sea, becomes by morning a mountain wrapped in clouds."
+**Translation:** "O sage, a pit that looks today like the bed of a dried-up ocean will, by tomorrow's dawn, be a mountain draped in cloud."
 
 **Pointers for Reflection:**
 
@@ -57,7 +57,7 @@
 यः (that which) वन-व्यूह-विस्तीर्णः (spread with dense forests) विलीढ-गगनः महान् [अस्ति] (great, licking the sky), सः (that) दिनैः एव (in days) उर्वी-समतां (level with the ground) कूपतां च वा (or even into a pit) याति (goes).
 </p>
 
-**Translation:** "What is vast, spread with forests and touching the sky, in mere days is levelled with the ground, or sinks into a pit."
+**Translation:** "Something huge — sprawling with forest and grazing the sky — is, within days, flattened to the plain or sunk into a hollow."
 
 **Pointers for Reflection:**
 
@@ -177,7 +177,7 @@
 यौवनं बाल्यं शरीरं द्रव्य-सञ्चयाः (youth, childhood, body and stores of wealth) अनित्यम् (are impermanent); [ते] तरङ्ग-वत् (like waves) अनारतं (ceaselessly) भावात् भाव-अन्तरं यान्ति (go from one state to another).
 </p>
 
-**Translation:** "Youth, childhood, the body and stores of wealth are impermanent; like waves, they pass ceaselessly from one state to another."
+**Translation:** "Childhood and youth, the body, the piles of possessions — none of them last. Like waves, they keep turning, without pause, from one shape into the next."
 
 **Pointers for Reflection:**
 
@@ -297,7 +297,7 @@
 ते दिवसाः (those days) ते महान्तः (those great people) ताः सम्पदः (those riches) ताः क्रियाः च (and those deeds) — सर्वं स्मृति-पथं यातम् (all have gone into memory); वयम् अपि (we too) क्षणात् यामः (go in a moment).
 </p>
 
-**Translation:** "Those days, those great people, those riches, those deeds — all have passed into memory. We too will go in a moment."
+**Translation:** "Those days are gone, and those great men; that wealth and all that was done — it now lives only in memory. And we too will be gone in a moment."
 
 **Pointers for Reflection:**
 
@@ -382,7 +382,7 @@
 द्यौः क्षमा वायुः आकाशं पर्वताः सरितः दिशः (sky, earth, wind, space, mountains, rivers, directions) एतत् सर्वं (all this) विनाश-वाडवस्य संशुष्कम् इन्धनम् (is dry fuel for the submarine fire of destruction).
 </p>
 
-**Translation:** "Sky, earth, wind, space, mountains, rivers and the directions — all of this is dry fuel for the fire of destruction."
+**Translation:** "The heavens and the earth, the air and open space, the hills, the rivers and every quarter of the compass — the whole of it is so much dried tinder for the blaze of ruin."
 
 **Pointers for Reflection:**
 
@@ -399,7 +399,7 @@
 विनाश-भय-भीतस्य (for one frightened by the fear of destruction) धनानि बान्धवाः भृत्याः मित्राणि विभवाः च ये (riches, relatives, servants, friends and possessions) सर्वं नीरसतां गतम् (all have lost their flavour).
 </p>
 
-**Translation:** "For one who has truly felt the fear of destruction, riches, relatives, servants, friends and possessions have all lost their taste."
+**Translation:** "Wealth, family, servants, friends and possessions — once the dread of loss has really been felt, all of them go flat."
 
 **Pointers for Reflection:**
 
@@ -433,7 +433,7 @@
 क्षणम् ऐश्वर्यम् आयाति (one moment prosperity comes) क्षणं दरिद्रताम् एति (the next, poverty); क्षणं विगत-रोगत्वं (one moment freedom from illness) क्षणम् आगत-रोगताम् (the next, illness arrives).
 </p>
 
-**Translation:** "One moment prosperity comes, the next poverty; one moment health, the next illness."
+**Translation:** "Wealth for a moment, then want; well for a moment, then ill."
 
 **Pointers for Reflection:**
 
@@ -467,7 +467,7 @@
 आकाश-मण्डलं (the sky) क्षणं तमः-पङ्क-समालब्धम् (one moment smeared with the mud of darkness) क्षणं कनक-निष्यन्द-कोमल-आलोक-सुन्दरम् (the next lovely with soft light like flowing gold).
 </p>
 
-**Translation:** "One moment the sky is smeared with the mud of darkness; the next it is lovely with soft light, like molten gold."
+**Translation:** "Now the sky lies daubed with the mud of darkness; a moment later it glows, soft and lovely, as if gold were flowing across it."
 
 **Pointers for Reflection:**
 
@@ -606,7 +606,7 @@
 अशूरेण शूरः हतः (a hero is killed by a coward) एकेन अपि शतं हतम् (a hundred are killed by one); प्राकृताः प्रभुतां याताः (common people become lords); सर्वं जगत् आवर्त्यते (the whole world is turned around).
 </p>
 
-**Translation:** "A hero is killed by a coward; a hundred are killed by one; common people become lords. The whole world is turned upside down."
+**Translation:** "The brave fall to the cowardly; one man brings down a hundred; the lowly rise to rule. The whole world keeps tipping over."
 
 **Pointers for Reflection:**
 
@@ -640,7 +640,7 @@
 बाल्यम् अल्प-दिनैः एव (childhood in only a few days) ततः यौवन-श्रीः (then the glory of youth) ततः जरा (then old age); देहे अपि एक-रूपत्वं न (even in the body there is no single form); बाह्येषु वस्तुषु का आस्था (what trust in outer things)?
 </p>
 
-**Translation:** "Childhood lasts only a few days, then comes the glory of youth, then old age. Even the body never keeps one form — so what trust can be placed in outer things?"
+**Translation:** "Childhood is over in a few days; then comes the bloom of youth, and after it old age. Not even the body stays one shape — how could anyone rely on things outside it?"
 
 **Pointers for Reflection:**
 
