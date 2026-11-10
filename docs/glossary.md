@@ -36,6 +36,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">केवलीभाव</span> (kevalībhāva) | the state of absolute oneness, the Self alone | [2.2.12](2-mumukshu/sarga-002.md#2-2-12) |
 | <span class="sa">क्षण</span> (kṣaṇa) | a moment | [1.28.25](1-vairagya/sarga-028.md#1-28-25) |
 | <span class="sa">गुण</span> (guṇa) | quality; the three qualities of nature — sattva (clarity), rajas (restlessness), tamas (dullness) | [1.26.16](1-vairagya/sarga-026.md#1-26-16) |
+| <span class="sa">चित्तमात्र</span> (cittamātra) | mind only: the world as nothing but mind | [2.18.1](2-mumukshu/sarga-018.md#2-18-1) |
 | <span class="sa">चिदाकाश</span> (cidākāśa) | the space of consciousness: consciousness as boundless, like space | [2.10.11](2-mumukshu/sarga-010.md#2-10-11) |
 | <span class="sa">चिन्ता</span> (cintā) | anxious longing, worry | [1.17.43](1-vairagya/sarga-017.md#1-17-43) |
 | <span class="sa">जरा</span> (jarā) | old age | [1.22.1](1-vairagya/sarga-022.md#1-22-1) |
@@ -44,10 +45,12 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">ज्ञान</span> (jñāna) | knowledge | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |
 | <span class="sa">तपस्</span> (tapas) | austerity | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">तीर्थ</span> (tīrtha) | sacred ford, place of pilgrimage | [1.3.20](1-vairagya/sarga-003.md#1-3-20) |
+| <span class="sa">तुर्य</span> (turya) | the fourth state, beyond waking, dream and deep sleep | [2.19.9](2-mumukshu/sarga-019.md#2-19-9) |
 | <span class="sa">तृष्णा</span> (tṛṣṇā) | craving, thirst | [1.15.12](1-vairagya/sarga-015.md#1-15-12) |
 | <span class="sa">त्याग</span> (tyāga) | renunciation | [1.1.15](1-vairagya/sarga-001.md#1-1-15) |
 | <span class="sa">त्रिपुटी</span> (tripuṭī) | triad of subject, process and object (knower–knowing–known) | [1.1.2](1-vairagya/sarga-001.md#1-1-2) |
 | <span class="sa">दृश्य</span> (dṛśya) | the seen; the world as object of perception | [1.3.3](1-vairagya/sarga-003.md#1-3-3) |
+| <span class="sa">दृष्टान्त</span> (dṛṣṭānta) | illustration; making the unknown understood through the known | [2.18.50](2-mumukshu/sarga-018.md#2-18-50) |
 | <span class="sa">देह</span> (deha) | the body | [1.18.1](1-vairagya/sarga-018.md#1-18-1) |
 | <span class="sa">दैव</span> (daiva) | fate | [1.25.1](1-vairagya/sarga-025.md#1-25-1) |
 | <span class="sa">द्वारपाल</span> (dvārapāla) | gatekeeper; the four gatekeepers of liberation are calm, inquiry, contentment and good company | [2.11.59](2-mumukshu/sarga-011.md#2-11-59) |
@@ -62,6 +65,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">प्रकरण</span> (prakaraṇa) | a book or section of the work; the Yoga Vasiṣṭha has six | [2.17.10](2-mumukshu/sarga-017.md#2-17-10) |
 | <span class="sa">प्रतिज्ञा</span> (pratijñā) | a solemn promise, vow | [1.9.2](1-vairagya/sarga-009.md#1-9-2) |
 | <span class="sa">प्रतिभा</span> (pratibhā) | to appear, shine forth | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
+| <span class="sa">प्रत्यक्ष</span> (pratyakṣa) | direct perception; finally, consciousness itself | [2.19.16](2-mumukshu/sarga-019.md#2-19-16) |
 | <span class="sa">प्रवृत्ति</span> (pravṛtti) | active engagement in the world | [1.1.14](1-vairagya/sarga-001.md#1-1-14) |
 | <span class="sa">प्रसाद</span> (prasāda) | clarity, serenity of mind | [1.30.16](1-vairagya/sarga-030.md#1-30-16) |
 | <span class="sa">प्राक्तन</span> (prāktana) | of the past; past action that now bears fruit | [2.4.17](2-mumukshu/sarga-004.md#2-4-17) |
@@ -72,6 +76,8 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">मनस्</span> (manas) | the mind | [1.16.6](1-vairagya/sarga-016.md#1-16-6) |
 | <span class="sa">मनोनाश</span> (manonāśa) | the dissolving of the mind as a separate, restless entity | [1.14.11](1-vairagya/sarga-014.md#1-14-11) |
 | <span class="sa">मर्यादा</span> (maryādā) | bounds of right conduct | [1.9.12](1-vairagya/sarga-009.md#1-9-12) |
+| <span class="sa">महापुरुष</span> (mahāpuruṣa) | a great soul; one whose wisdom and conduct are complete | [2.20.1](2-mumukshu/sarga-020.md#2-20-1) |
+| <span class="sa">महावाक्य</span> (mahāvākya) | the great sayings of the Upaniṣads, such as "you are That" | [2.18.67](2-mumukshu/sarga-018.md#2-18-67) |
 | <span class="sa">माया</span> (māyā) | illusion, the power that makes the unreal appear real | [1.15.5](1-vairagya/sarga-015.md#1-15-5) |
 | <span class="sa">मुमुक्षु</span> (mumukṣu) | one who longs for liberation; the seeker | [2.1.1](2-mumukshu/sarga-001.md#2-1-1) |
 | <span class="sa">मोक्ष</span> (mokṣa) | liberation | [1.1.6](1-vairagya/sarga-001.md#1-1-6) |

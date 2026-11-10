@@ -22,3 +22,6 @@
 - [Sarga 15 — The third gatekeeper: contentment (20 verses)](sarga-015.md)
 - [Sarga 16 — The fourth gatekeeper: good company (35 verses)](sarga-016.md)
 - [Sarga 17 — The six books, and the freed one (50 verses)](sarga-017.md)
+- [Sarga 18 — How to study, and how to read illustrations (70 verses)](sarga-018.md)
+- [Sarga 19 — Direct experience is the Self (35 verses)](sarga-019.md)
+- [Sarga 20 — Knowledge and conduct grow together (15 verses)](sarga-020.md)
