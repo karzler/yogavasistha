@@ -65,6 +65,18 @@
 - **The turning point of the sarga.** Life is not bad in itself. For the knower, life is सुख, happiness. This is the whole hope of the Yoga Vasiṣṭha: not escape from life, but a transformed life — [wisdom lived, not renounced](../index.md#wisdom-lived).
 - **विज्ञातविज्ञेय.** Compare 1.1.50 (ज्ञातज्ञेय) and 1.3.15. The one who knows the knowable lives life as joy.
 - **Gītā 7.2:** <span class="parallel">यज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते</span> — *knowing which, nothing more remains to be known.*
+- **Situations can be hard; experience need not be.** This verse holds the key to the whole sarga. Life's *situations* (परिस्थिति) — loss, illness, injustice, separation — are not in our control. Our *experience* of them depends on the state of the mind (मनःस्थिति), the वृत्ति with which we meet them. The same event is crushing to one mind and bearable, even peaceful, to another. For the knower, the verse says, life itself "becomes joy" — not because the events change, but because the one who meets them has changed.
+- **Śrī Rāma's own life as the proof.** Hardly a single situation in his life was good:
+    - on the eve of his coronation he was sent into exile for fourteen years;
+    - his father died of grief while he was away;
+    - Sītā was carried off by Rāvaṇa, and he searched for her through forests and across the sea;
+    - he fought a terrible war to win her back;
+    - even after returning as king, he had to live apart from her again for the sake of his people.
+
+    Yet his inner state was never shaken. In Vālmīki's account he accepts the exile at once, without anger at Kaikeyī. Tulsīdās opens the Ayodhyā Kāṇḍa of the Rāmacaritamānasa with a prayer to exactly this quality: <span class="parallel">प्रसन्नतां या न गताभिषेकतस्तथा न मम्ले वनवासदुःखतः । मुखाम्बुजश्री रघुनन्दनस्य मे सदास्तु सा मञ्जुलमङ्गलप्रदा ॥</span> — *the beauty of Rāghava's lotus face, which did not brighten at the news of his coronation, nor fade at the sorrow of exile in the forest — may it always bring me blessing.* Bad situations; no bad experience.
+- **Why, and how?** This is what the Yoga Vasiṣṭha is about to teach him. Rāma in this sarga is still the one who says life is only sorrow; the Rāma of the epic is the one who has heard Vasiṣṭha. The difference is knowledge (विज्ञातविज्ञेय) and rest in the vast state (विश्रान्ता वितते पदे), which is exactly what this verse names. The teaching does not promise better situations; it promises a mind that is free in every situation.
+- **The power of thought.** The Yoga Vasiṣṭha holds that the mind shapes experience — "the mind is the cause of all things" ([1.16.25](sarga-016.md#1-16-25)) — and that what we repeatedly think, we become (the pure and impure वासना of [1.3.11](sarga-003.md#1-3-11)). This makes a practice possible: in every situation, cultivate a positive वृत्ति, a thought of acceptance, trust or compassion, in place of resentment or fear. Patañjali gives the same method: <span class="parallel">वितर्कबाधने प्रतिपक्षभावनम्</span> — *when disturbed by negative thoughts, cultivate the opposite* (Yoga Sūtra 2.33).
+- **Gītā 2.14–15 and 2.56:** <span class="parallel">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥</span> — *contacts with objects bring cold and heat, pleasure and pain; they come and go, they do not last — endure them, Bhārata*; and the one of steady wisdom is <span class="parallel">दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः</span> — *undisturbed in sorrow, without craving in pleasure.* Kṛṣṇa does not promise Arjuna an easy war, only a steady mind within it.
 
 ## Verse 1.14.4 { #1-14-4 }
 
@@ -205,6 +217,7 @@
 - **A famous verse.** Mere biological life is shared with trees and animals. True life is the life of one whose mind is free from compulsive thinking (मनन).
 - **मनोनाश — the end of the mind.** A central idea of the Yoga Vasiṣṭha: liberation is the dissolving of the mind as a separate, restless entity (compare 1.3.9, the mind melting like ice).
 - **Gītā 6.25:** <span class="parallel">आत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत्</span> — *making the mind rest in the Self, let one think of nothing at all.*
+- **Thought and experience.** The mind that 'lives by thinking' is the mind that turns every hard situation into suffering. The mind that rests in the Self can meet the same situation without being broken by it — see the note on Śrī Rāma's life at [1.14.3](#1-14-3).
 
 ## Verse 1.14.12 { #1-14-12 }
 
