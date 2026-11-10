@@ -12,3 +12,4 @@
 - [Sarga 4 — Homecoming and daily life (12 verses)](sarga-004.md)
 - [Sarga 5 — Śrī Rāma's dejection (15 verses)](sarga-005.md)
 - [Sarga 6 — The arrival of Viśvāmitra (55 verses)](sarga-006.md)
+- [Sarga 7 — Viśvāmitra's request (28 verses)](sarga-007.md)

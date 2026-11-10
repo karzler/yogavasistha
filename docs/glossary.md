@@ -32,6 +32,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">व्यवहार</span> (vyavahāra) | conduct in everyday life | [1.2.20](1-vairagya/sarga-002.md#1-2-20) |
+| <span class="sa">श्रेयस्</span> (śreyas) | the highest good (as opposed to प्रेयस्, the merely pleasant) | [1.7.14](1-vairagya/sarga-007.md#1-7-14) |
 | <span class="sa">संशय</span> (saṃśaya) | doubt | [1.1.4](1-vairagya/sarga-001.md#1-1-4) |
 | <span class="sa">संसार</span> (saṃsāra) | worldly existence; the cycle of birth and death | [1.1.47](1-vairagya/sarga-001.md#1-1-47) |
 | <span class="sa">सत्यात्मन्</span> (satyātman) | the Reality that is the Self | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
