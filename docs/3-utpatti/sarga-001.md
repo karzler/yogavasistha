@@ -386,7 +386,7 @@
 अङ्ग (dear one), द्रष्टुः (for the seer) दृश्यस्य सत्ता (the reality of the seen) बन्धः इति अभिधीयते (is called bondage); द्रष्टा (the seer) दृश्य-बलात् बद्धः (is bound by the force of the seen); दृश्य-अभावे विमुच्यते (with the absence of the seen, he is freed).
 </p>
 
-**Translation:** "Dear one, for the seer, the reality of the seen is what is called bondage. The seer is bound by the hold of the seen, and is freed when the seen is no more."
+**Translation:** "Dear one, what is called bondage is this: that, to the seer, the seen is real. Held by the seen, the seer is bound; once it is gone, he is free."
 
 **Pointers for Reflection:**
 
@@ -747,7 +747,7 @@
 यथा पदार्थेषु रसः (as flavour in things) यथा तिल-आदिषु तैलम् (as oil in sesame) यथा कुसुमेषु आमोदः (as fragrance in flowers), तथा द्रष्टरि दृश्य-धीः (so the notion of the seen in the seer).
 </p>
 
-**Translation:** "As flavour is in food, oil in sesame and fragrance in flowers, so the notion of the seen is in the seer."
+**Translation:** "The notion of the seen dwells in the seer the way savour dwells in what we eat, oil in sesame seeds and perfume in blossoms."
 
 **Pointers for Reflection:**
 

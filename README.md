@@ -38,7 +38,7 @@ Each sarga opens with a short outline, a [glossary](https://yogavasistha.bhaktol
 | --- | --- |
 | 1. Vairāgya (Dispassion) | Complete — 33 sargas |
 | 2. Mumukṣu (The Seeker) | Complete — 20 sargas |
-| 3. Utpatti (Origination) | In progress — 1 of 122 sargas |
+| 3. Utpatti (Origination) | In progress — 4 of 122 sargas |
 | 4. Sthiti (Existence) | Not yet started |
 | 5. Upaśama (Quiescence) | Not yet started |
 | 6. Nirvāṇa (Liberation) | Not yet started |
@@ -69,7 +69,7 @@ Corrections and suggestions are very welcome, whether you read Sanskrit fluently
 - **what is wrong** — a misprint in the Sanskrit, a wrong word meaning, an inaccurate translation, a broken link, a misquoted parallel;
 - **your suggested fix**, and if possible a source (a printed edition, a dictionary, a commentary).
 
-Good things to report: Sanskrit misprints and doubtful readings, missing verses (five verses of the Mumukṣu Prakaraṇa are marked missing — 2.8.6, 2.13.15, 2.18.16, 2.18.46, 2.18.52 — and two of the Vairāgya Prakaraṇa — 1.21.6, 1.31.22), translation errors, and unclear pointers.
+Good things to report: Sanskrit misprints and doubtful readings, missing verses (five verses of the Mumukṣu Prakaraṇa are marked missing — 2.8.6, 2.13.15, 2.18.16, 2.18.46, 2.18.52 — two of the Vairāgya Prakaraṇa — 1.21.6, 1.31.22 — and, so far, one of the Utpatti Prakaraṇa — 3.3.11), translation errors, and unclear pointers.
 
 ### Propose a change directly (pull request)
 

@@ -8,3 +8,6 @@
 
 ## Sargas
 - [Sarga 1 — The seer and the seen (48 verses)](sarga-001.md)
+- [Sarga 2 — Ākāśaja, the one born of space (56 verses)](sarga-002.md)
+- [Sarga 3 — Brahmā's body of mind (40 verses)](sarga-003.md)
+- [Sarga 4 — What is the mind? (80 verses)](sarga-004.md)

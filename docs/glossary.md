@@ -12,11 +12,13 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">अन्तेनिवासिन्</span> (antenivāsin) | a resident student who lives near the teacher | [2.2.18](2-mumukshu/sarga-002.md#2-2-18) |
 | <span class="sa">अभिमान</span> (abhimāna) | pride, ego-identification | [1.10.25](1-vairagya/sarga-010.md#1-10-25) |
 | <span class="sa">अभ्यास</span> (abhyāsa) | practice; steady repetition that forms tendencies | [2.9.34](2-mumukshu/sarga-009.md#2-9-34) |
+| <span class="sa">अर्थप्रतिभान</span> (arthapratibhāna) | the appearing of objects: what the mind is | [3.4.42](3-utpatti/sarga-004.md#3-4-42) |
 | <span class="sa">अविद्या</span> (avidyā) | ignorance: the basic misreading of reality | [2.3.18](2-mumukshu/sarga-003.md#2-3-18) |
 | <span class="sa">असंसक्त</span> (asaṃsakta) | unattached | [1.2.25](1-vairagya/sarga-002.md#1-2-25) |
 | <span class="sa">अहंकार</span> (ahaṅkāra) | the ego, the sense of "I" | [1.15.1](1-vairagya/sarga-015.md#1-15-1) |
 | <span class="sa">आतिवाहिक</span> (ātivāhika) | the subtle body of mind that carries a being from life to life | [2.3.9](2-mumukshu/sarga-003.md#2-3-9) |
 | <span class="sa">आधि</span> (ādhi) | mental anguish, sickness of the mind | [1.8.13](1-vairagya/sarga-008.md#1-8-13) |
+| <span class="sa">आधिभौतिक</span> (ādhibhautika) | the physical body made of the elements, as opposed to the subtle body | [3.3.6](3-utpatti/sarga-003.md#3-3-6) |
 | <span class="sa">आनन्द</span> (ānanda) | bliss | [1.1.3](1-vairagya/sarga-001.md#1-1-3) |
 | <span class="sa">आलस्य</span> (ālasya) | laziness, sloth: the opposite of effort | [2.5.30](2-mumukshu/sarga-005.md#2-5-30) |
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
@@ -27,6 +29,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">उपाधि</span> (upādhi) | limiting condition, an adjunct that makes the limitless seem limited | [1.30.11](1-vairagya/sarga-030.md#1-30-11) |
 | <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
 | <span class="sa">एकवाक्यता</span> (ekavākyatā) | agreement of one's own experience, scripture and the teacher | [2.13.11](2-mumukshu/sarga-013.md#2-13-11) |
+| <span class="sa">काकतालीय</span> (kākatālīya) | 'crow and palm-fruit': a mere coincidence that seems causal | [3.2.38](3-utpatti/sarga-002.md#3-2-38) |
 | <span class="sa">कृतकृत्य</span> (kṛtakṛtya) | one who has done what was to be done; the freed one | [2.17.43](2-mumukshu/sarga-017.md#2-17-43) |
 | <span class="sa">कृतान्त</span> (kṛtānta) | Death, "the one who makes an end" | [1.25.5](1-vairagya/sarga-025.md#1-25-5) |
 | <span class="sa">काम</span> (kāma) | desire, lust | [1.20.3](1-vairagya/sarga-020.md#1-20-3) |
@@ -93,12 +96,14 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">वासना</span> (vāsanā) | latent tendency left by past experience; pure (śuddha) or impure (malina) | [1.3.8](1-vairagya/sarga-003.md#1-3-8) |
 | <span class="sa">विकल्प</span> (vikalpa) | mental fancy, doubt, imagined alternative | [1.30.27](1-vairagya/sarga-030.md#1-30-27) |
 | <span class="sa">विचार</span> (vicāra) | inquiry, reflection | [1.2.3](1-vairagya/sarga-002.md#1-2-3) |
+| <span class="sa">विज्ञानघन</span> (vijñānaghana) | a solid mass of awareness | [3.2.40](3-utpatti/sarga-002.md#3-2-40) |
 | <span class="sa">विदेहमुक्ति</span> (videhamukti) | liberation on leaving the body | [2.3.3](2-mumukshu/sarga-003.md#2-3-3) |
 | <span class="sa">विमर्श</span> (vimarśa) | reflection; the self-aware power of consciousness | [1.33.36](1-vairagya/sarga-033.md#1-33-36) |
 | <span class="sa">विवेक</span> (viveka) | discernment between the real and the unreal | [1.11.2](1-vairagya/sarga-011.md#1-11-2) |
 | <span class="sa">विश्रान्ति</span> (viśrānti) | rest; liberation as complete repose | [1.11.4](1-vairagya/sarga-011.md#1-11-4) |
 | <span class="sa">विश्वास</span> (viśvāsa) | firm inner conviction | [2.1.11](2-mumukshu/sarga-001.md#2-1-11) |
 | <span class="sa">विषाद</span> (viṣāda) | despondency, dejection | [1.5.15](1-vairagya/sarga-005.md#1-5-15) |
+| <span class="sa">विषूचिका</span> (viṣūcikā) | cholera: the text's image of the seen as a deadly illness | [3.4.60](3-utpatti/sarga-004.md#3-4-60) |
 | <span class="sa">वीतराग</span> (vītarāga) | free from passion and attachment | [1.1.24](1-vairagya/sarga-001.md#1-1-24) |
 | <span class="sa">वृत्ति</span> (vṛtti) | a movement or modification of the mind | [1.16.5](1-vairagya/sarga-016.md#1-16-5) |
 | <span class="sa">वैराग्य</span> (vairāgya) | dispassion; the name of the first prakaraṇa | [1.10.27](1-vairagya/sarga-010.md#1-10-27) |
@@ -119,4 +124,5 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">सेतु</span> (setu) | bridge | [1.2.10](1-vairagya/sarga-002.md#1-2-10) |
 | <span class="sa">स्पन्द</span> (spanda) | vibration, pulsation (of consciousness) | [1.25.2](1-vairagya/sarga-025.md#1-25-2) |
 | <span class="sa">स्वधर्म</span> (svadharma) | one's own dharma, the duty proper to one's nature | [1.9.9](1-vairagya/sarga-009.md#1-9-9) |
+| <span class="sa">स्वयंभू</span> (svayambhū) | the Self-born: Brahmā, who has no cause outside consciousness | [3.2.30](3-utpatti/sarga-002.md#3-2-30) |
 | <span class="sa">स्वर्ग</span> (svarga) | heaven | [1.1.31](1-vairagya/sarga-001.md#1-1-31) |
