@@ -10,6 +10,26 @@
     3. Images of the ego as cloud, forest, lion and lustful rogue, stringing births on the thread of craving (1.15.12–1.15.17).
     4. When the "I" is wiped away, all anxieties go with it. Yet Rāma still grieves, and asks: "teach me" (1.15.18–1.15.21).
 
+!!! note "Reflections: recognising ahaṅkāra"
+    **Where the ego lives.** Ahaṅkāra does not belong to the senses (इन्द्रिय), nor even to the mind (मनस्). It belongs to the faculty of knowing: it is a mistake in how one knows oneself. That is why sense-objects can be given up by willpower, but the ego cannot — the will that tries to drop it is itself held by the ego. What loosens it is a sincere wish to be free of it, and the grace of Īśvara (see 1.15.7).
+
+    **The independent doer.** With ego, a person becomes an "independent doer": *"I did this, by myself."* He does not want to share the doership with others, nor with God. The ego's very nature is to over-remember one's own doership (कर्तृत्व) and to forget Īśvara.
+
+    **No real ground.** One knows very little, and does not know a great deal. There is nothing special to stand on, yet people keep building the ego up for no reason — मुधा, "for nothing", as 1.15.1 says. Even a beggar has it: *"I am the senior-most beggar here."* It hides even in service: to boast of a "best volunteer" award is ego dressed as सेवा, though the whole point of seva is to wear the ego away.
+
+    **Marks of one ruled by ego (अहंकारी):**
+
+    - He does not easily accept anyone, and cannot bear to see another as great — least of all in his own field.
+    - He **resists** (spurns others, finds fault), **insists** (is stubborn), and **asserts** (keeps pressing his own view, closed to others', giving them no value).
+    - He cannot have a guru, for that needs surrender (समर्पण).
+    - He worries a great deal. Doership breeds worry, and he cannot merge into anything larger. There is no Īśvara in his life: he may do pūjā and japa, but finds no joy in them; he finds his joy in himself. He is full of himself.
+    - He cannot say "sorry".
+    - He often keeps away from people, because he keeps clashing with them. He is not in solitude; he is lonely. Yet the ego is chiselled away only in the company of others. If he stops speaking to someone, it may be for life; with strong views and strong opinions, much of his time goes in resisting inwardly. Slowly people leave him — and the greatest loss is that he shuts out Īśvara too.
+    - He cannot receive much love, so he demands it, as if love were his right; and when it does not come, he turns against the one he expected it from.
+    - He compares himself with others and tries to appear special and superior — because inwardly he is displeased with himself, and inwardly poor (दीन).
+
+    The Gītā names the same traits among the "demonic" qualities: <span class="parallel">दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च</span> — *hypocrisy, arrogance, conceit, anger and harshness* (16.4); and it begins its list of what knowledge means with <span class="parallel">अमानित्वमदम्भित्वम्</span> — *humility, freedom from pretension* (13.7). The remedy Rāma shows in this sarga is to cultivate an *allergy* to the smell of ego (see 1.15.4).
+
 ## Verse 1.15.1 { #1-15-1 }
 
 <p class="shloka">
@@ -28,6 +48,7 @@
 
 - **अहंकार — the ego, the sense of "I".** The subject of this sarga. Rāma has moved from outer things (wealth, life) to the inner root of suffering.
 - **मिथ्यामय — made of falsehood.** The ego is not evil because it is strong, but because it is false. It claims a reality it does not have.
+- **मुधा एव — "for nothing".** The word means "in vain, without any reason". The ego arises out of delusion for nothing and keeps growing for nothing: there is no real ground for it. Its nature is to over-remember one's own doership and to forget Īśvara.
 - **Gītā 3.27:** <span class="parallel">अहङ्कारविमूढात्मा कर्ताहमिति मन्यते</span> — *deluded by ego, one thinks "I am the doer".*
 
 ## Verse 1.15.2 { #1-15-2 }
@@ -62,7 +83,8 @@
 
 **Pointers for Reflection:**
 
-- **अहंकारो ममामयः — "the ego is my sickness".** Rāma diagnoses himself. This is a decisive step: he now knows where the problem lies.
+- **अहंकारो ममामयः — "the ego is my sickness".** Rāma diagnoses himself. This is a decisive step: he now knows where the problem lies. He speaks as one who has felt its blows.
+- **अहंकारवशादापदः — calamities come from the ego.** The great epics bear this out. Kaikeyī's ego — her refusal to accept Rāma's coronation — set the Rāmāyaṇa's sorrows in motion; Duryodhana's ego, his refusal to accept the Pāṇḍavas' share, brought on the war of the Mahābhārata. At root, ego is non-acceptance. Kṛṣṇa's warning to Arjuna: <span class="parallel">अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि</span> — *but if, out of ego, you will not listen, you will perish* (Gītā 18.58).
 - **Gītā 2.71:** <span class="parallel">विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः । निर्ममो निरहङ्कारः स शान्तिमधिगच्छति ॥</span> — *one who gives up all desires, lives free of longing, without "mine" and without ego, attains peace.*
 
 ## Verse 1.15.4 { #1-15-4 }
@@ -80,8 +102,9 @@
 
 **Pointers for Reflection:**
 
-- **Why Rāma will not eat** (1.10.11). Not a vow, but revulsion: he cannot enjoy anything while the ego is the one enjoying it.
-- **A subtle point.** Rāma's refusal to eat is itself driven by the ego he condemns. The teaching will free him from both indulgence and refusal.
+- **तं परमं चिरवैरिणम् — "my oldest and greatest enemy".** The ego is not a passing fault but an enemy of long standing, older than this life.
+- **Why Rāma will not eat** (1.10.11). न भुञ्जे, न पिबामि — "I do not eat, I do not drink water". Not a vow, but revulsion: out of fear of the ego, he cannot enjoy anything while the ego is the one enjoying it. See how much the ego pains him.
+- **The mindset of a seeker.** Śrī Rāma is showing the attitude to cultivate: an *allergy* to the ego, a recoil from its smell, as one recoils from something rotten. One who feels this does not make peace with the ego.
 
 ## Verse 1.15.5 { #1-15-5 }
 
@@ -133,6 +156,8 @@
 **Pointers for Reflection:**
 
 - **Rāma's resolve: "I give up the ego."** A decisive declaration. But can the ego give up the ego? The teaching will address this paradox.
+- **Karṇa: a warning.** The ego eclipses peace and withers virtue even in the noble. In the Mahābhārata (Udyoga Parva) Kṛṣṇa himself takes Karṇa aside and pleads with him at length to join his brothers — and Karṇa will not yield. Generous, brave and learned, he was still held by pride and old resentments, and it cost him everything.
+- **How it goes.** Not by willpower, since the will itself is the ego's. Keep at least the *wish* to give it up, sincerely and steadily; then, by Īśvara's grace, it falls away. Rāma's "I give up" (त्यजाम्यहम्) is that wish, spoken aloud.
 
 ## Verse 1.15.8 { #1-15-8 }
 
@@ -151,6 +176,7 @@
 
 - **न अहं रामः — "I am not Rāma."** An astonishing statement. Rāma rejects his own name and identity, the very ego-self. Compare 1.10.43, न चैवाहम्, "nor am I".
 - **जिन — the Jina.** A "conqueror", the title of the liberated teachers of Jainism (and also used of the Buddha). The Yoga Vasiṣṭha names the Jaina ideal of peaceful self-abiding as Rāma's model. **Here [the synthesis of traditions](../index.md#a-synthesis) is explicit in the text:** Advaita drawing on Jainism.
+- **शान्त आसितुमिच्छामि — "I wish to sit in peace".** Śrī Rāma longs to be meditative, to rest within — a mark of the sādhaka. The wish to meditate and the wish to drop the ego arise together.
 - **Gītā 6.10:** <span class="parallel">योगी युञ्जीत सततमात्मानं रहसि स्थितः</span> — *the yogī should constantly unite himself with the Self, staying in solitude.*
 
 ## Verse 1.15.9 { #1-15-9 }
@@ -169,7 +195,9 @@
 **Pointers for Reflection:**
 
 - **भुक्तं हुतं कृतम्.** Compare 1.2.30 (हुतं दत्तं गृहीतम्): the same acts done by the free bring liberation; done by the ego, they are unreal. The act is the same; the doer is different.
-- **वस्त्वहंकाररिक्तता.** "The real thing is the absence of ego." A concise statement of the whole teaching.
+- **अवस्तु — unreal, futile.** Here it means "senseless, worthless": whatever is enjoyed, offered or done for the ego comes to nothing in the end.
+- **वस्त्वहंकाररिक्तता — a key phrase.** "The real thing is the absence of ego." The essence (वस्तु) is egolessness. A concise statement of the whole teaching, worth remembering.
+- **True freedom.** Freedom from ego is the only real freedom; every other "freedom" is slavery to the ego, disguised as freedom. Rāvaṇa had every power and pleasure the three worlds could give, and was a slave to his ego from first to last.
 
 ## Verse 1.15.10 { #1-15-10 }
 
