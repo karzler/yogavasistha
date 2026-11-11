@@ -22,6 +22,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">आशा</span> (āśā) | hope, expectation (a form of craving) | [1.17.3](1-vairagya/sarga-017.md#1-17-3) |
 | <span class="sa">आस्था</span> (āsthā) | trust, reliance | [1.26.1](1-vairagya/sarga-026.md#1-26-1) |
 | <span class="sa">इन्द्रजाल</span> (indrajāla) | a conjuring show; the world as magic display | [2.12.13](2-mumukshu/sarga-012.md#2-12-13) |
+| <span class="sa">उत्पत्ति</span> (utpatti) | origination: how the world comes to appear | [3.1.5](3-utpatti/sarga-001.md#3-1-5) |
 | <span class="sa">उपशम</span> (upaśama) | coming to rest, quiescence | [1.1.1](1-vairagya/sarga-001.md#1-1-1) |
 | <span class="sa">उपाधि</span> (upādhi) | limiting condition, an adjunct that makes the limitless seem limited | [1.30.11](1-vairagya/sarga-030.md#1-30-11) |
 | <span class="sa">उपाय</span> (upāya) | means | [1.31.6](1-vairagya/sarga-031.md#1-31-6) |
@@ -53,6 +54,7 @@ Each key term is rendered the same way throughout, so the commentary can be foll
 | <span class="sa">दृष्टान्त</span> (dṛṣṭānta) | illustration; making the unknown understood through the known | [2.18.50](2-mumukshu/sarga-018.md#2-18-50) |
 | <span class="sa">देह</span> (deha) | the body | [1.18.1](1-vairagya/sarga-018.md#1-18-1) |
 | <span class="sa">दैव</span> (daiva) | fate | [1.25.1](1-vairagya/sarga-025.md#1-25-1) |
+| <span class="sa">द्रष्टा</span> (draṣṭā) | the seer: consciousness, which is never an object | [3.1.22](3-utpatti/sarga-001.md#3-1-22) |
 | <span class="sa">द्वारपाल</span> (dvārapāla) | gatekeeper; the four gatekeepers of liberation are calm, inquiry, contentment and good company | [2.11.59](2-mumukshu/sarga-011.md#2-11-59) |
 | <span class="sa">नियति</span> (niyati) | destiny, fate | [1.8.30](1-vairagya/sarga-008.md#1-8-30) |
 | <span class="sa">निर्वाण</span> (nirvāṇa) | final peace, extinction of bondage | [1.3.6](1-vairagya/sarga-003.md#1-3-6) |

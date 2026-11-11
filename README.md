@@ -38,7 +38,7 @@ Each sarga opens with a short outline, a [glossary](https://yogavasistha.bhaktol
 | --- | --- |
 | 1. Vairāgya (Dispassion) | Complete — 33 sargas |
 | 2. Mumukṣu (The Seeker) | Complete — 20 sargas |
-| 3. Utpatti (Origination) | Not yet started |
+| 3. Utpatti (Origination) | In progress — 1 of 122 sargas |
 | 4. Sthiti (Existence) | Not yet started |
 | 5. Upaśama (Quiescence) | Not yet started |
 | 6. Nirvāṇa (Liberation) | Not yet started |
