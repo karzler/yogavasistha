@@ -10,6 +10,32 @@
     3. Restraining the mind is harder than drinking the ocean or uprooting Meru (1.16.21–1.16.24).
     4. The key insight: the mind is the cause of the world, and must be healed; thinned by discernment, its joys and sorrows melt away. Rāma rises to conquer it (1.16.25–1.16.27).
 
+!!! note "Reflections: tuning the mind"
+    **Time given to the mind is well spent.** Whatever time is spent setting the mind right — tuning it, as an instrument is tuned — is better spent than almost anything else. In this sarga Rāma, speaking from the seeker's side, shows exactly how the mind troubles us.
+
+    **चित् + त = चित्त.** The word is explained as consciousness (चित्) conditioned by name and form — by "this" (इदम्) and "I" (अहम्). Pure consciousness, coloured by "this" and "I", is what is called mind.
+
+    **The painter and the canvas.** A painter cannot paint if someone keeps shaking the canvas. In the same way, the Guru forms a new vṛtti in the disciple's mind and clears away the others; but if there is too much agitation (विक्षेप), the Guru's vṛtti cannot be formed. Somewhere another vṛtti keeps pushing it out. So the mind has to be kept steady.
+
+    **Three faults of the intellect (बुद्धि):**
+
+    1. **Lack of discernment (अविवेक).** The intellect does not discern between what brings joy and what brings sorrow. One may reflect: wherever one went in the world for happiness, how much happiness was found? Joy, or sorrow? Did an impermanent world ever give a permanent joy? This first discernment (सुख-दुःख-विवेक) then deepens into the discernment of seer and seen (द्रष्टृ-दृश्य-विवेक), of the permanent and the impermanent (नित्य-अनित्य-विवेक), and of the real and the unreal (सत्-असत्-विवेक).
+    2. **Imbalance.** The intellect leans one way, and gives great value to something that is false (मिथ्या).
+    3. **Not seeing the cage.** The intellect does not understand that one has to get out of the cage called the body (देहाभिमान).
+
+    To remove these three faults one goes to the Guru; without satsaṅga such an intellect is hard to form. The fruit of discernment is dispassion (वैराग्य), which has only two causes: discernment and the grace of Īśvara. Then comes the longing for freedom (मुमुक्षुत्व).
+
+    **Six faults of the mind, and the remedy for each.** Seen from the seeker's side, Rāma's lament describes six faults. Their remedies are, in effect, the six treasures (षट्-सम्पत्ति) of the Vedānta tradition — śama, dama, uparati, titikṣā, śraddhā and samādhāna.
+
+    1. **Too many vāsanās** (1.16.4). With many desires, the mind runs from one to the next, and every one of them cries out for attention. *Remedy — ananyatā:* grow one vāsanā, for Īśvara or for knowledge of the Self, and the rest fall away of themselves. The whole sādhanā is the growing of this one vāsanā: the more Bhagavān and Self-knowledge are loved, the less everything else attracts. The Gītā asks for exactly this: <span class="parallel">मय्येव मन आधत्स्व मयि बुद्धिं निवेशय । निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः</span> — *fix your mind on Me alone, place your understanding in Me; you will dwell in Me hereafter, without doubt* (12.8); <span class="parallel">मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा । निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः</span> — *offering all actions to Me, with mind on the Self, free of hope and of "mine", fight, without fever* (3.30); <span class="parallel">ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः । अनन्येनैव योगेन मां ध्यायन्त उपासते</span> — *those who offer all actions to Me, intent on Me, and worship Me with undivided devotion* (12.6).
+    2. **The senses are not controlled** (1.16.8). *Remedy — saṅkalpa (dama):* hold the senses with a firm resolve.
+    3. **Too much involvement** (1.16.10). Sorrow came exactly where one became most involved. As the years go by, inner withdrawal should keep growing; do not commit unnecessarily. *Remedy — uparati,* held by tasting the joy within.
+    4. **No tolerance** (1.16.14). The mind cannot bear any hardship. Without patience (धैर्य) and faith, forbearance is weak too. Keep up a little practice of bearing things; physical pain need not become emotional pain. Either say, "Īśvara has given this; I accept it" (Īśvara-vṛtti), or say, "This belongs to the body; I have nothing to do with it" (Ātma-jñāna-vṛtti) — and do not let reflection on Vedānta stop. *Remedy — titikṣā.* <span class="parallel">मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत</span> — *contacts of the senses give cold and heat, pleasure and pain; they come and go and do not last: bear them, Bhārata* (Gītā 2.14).
+    5. **Doubt.** The mind keeps running. Stay calm; trust; do not be afraid — one is Bhagavān's own project. Keep up study (पाठ) and japa; do not let faith dry up. Test it and see: hand the issue over — "Bhagavān, please deal with this." *Remedy — śraddhā.* <span class="parallel">अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति</span> — *the ignorant, the faithless and the doubter perish* (Gītā 4.40).
+    6. **No concentration** (1.16.5). *Remedy — samādhāna:* whatever is done, do it with a collected mind. Train it — "right now, this is the work, this is what to think about" — and let the span of concentration grow. <span class="parallel">यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् । ततस्ततो नियम्यैतदात्मन्येव वशं नयेत्</span> (Gītā 6.26).
+
+    **The sādhanā in short:** correct the vāsanās by undivided devotion; hold the senses by resolve; hold withdrawal by the joy within; grow faith by study and by handing every issue to Bhagavān; do not let the body's troubles reach the mind; and do every task with a collected mind.
+
 ## Verse 1.16.1 { #1-16-1 }
 
 <p class="shloka">
@@ -453,6 +479,7 @@
 - **Upaniṣad parallels:**
     - **Maitri Upaniṣad 6.34:** <span class="parallel">मन एव मनुष्याणां कारणं बन्धमोक्षयोः</span> — *the mind alone is the cause of bondage and liberation for human beings.*
     - **Gītā 6.5–6:** <span class="parallel">उद्धरेदात्मनात्मानं… बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः</span> — *let one lift oneself by oneself… the self is a friend to one who has conquered it.*
+- **Tuning the mind.** "It must be treated with care" (प्रयत्नतः) — the whole of sādhanā is this careful treatment; see the reflection on the six faults of the mind at the top of this sarga.
 
 ## Verse 1.16.26 { #1-16-26 }
 
@@ -472,6 +499,7 @@
 - **A closing verse in a longer metre** (vasantatilakā).
 - **Thinning the mind (तनुता).** Not destroying it, but making it thin, transparent, by विवेक. Rāma already sees the way out.
 - **Muṇḍaka Upaniṣad 2.2.8:** <span class="parallel">भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः । क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ॥</span> — *the knot of the heart is cut, all doubts are destroyed, and one's karmas wane, when That, the highest and the lowest, is seen.*
+- **Discernment first.** The mind thins through विवेक — the first remedy for the faults of the intellect (see the reflection at the top of this sarga): discernment of joy and sorrow, of seer and seen, of the lasting and the passing, of the real and the unreal.
 
 ## Verse 1.16.27 { #1-16-27 }
 

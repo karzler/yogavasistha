@@ -11,6 +11,8 @@
     4. When the "I" is wiped away, all anxieties go with it. Yet Rāma still grieves, and asks: "teach me" (1.15.18–1.15.21).
 
 !!! note "Reflections: recognising ahaṅkāra"
+    **What ahaṅkāra is.** At its simplest, ahaṅkāra is the wish to hear one's own praise from others, and to be great in their eyes: the desire to be *thought* great, to be *accepted* as great. For a seeker it is a very great disqualification.
+
     **Where the ego lives.** Ahaṅkāra does not belong to the senses (इन्द्रिय), nor even to the mind (मनस्). It belongs to the faculty of knowing: it is a mistake in how one knows oneself. That is why sense-objects can be given up by willpower, but the ego cannot — the will that tries to drop it is itself held by the ego. What loosens it is a sincere wish to be free of it, and the grace of Īśvara (see 1.15.7).
 
     **The independent doer.** With ego, a person becomes an "independent doer": *"I did this, by myself."* He does not want to share the doership with others, nor with God. The ego's very nature is to over-remember one's own doership (कर्तृत्व) and to forget Īśvara.
@@ -198,6 +200,7 @@
 - **अवस्तु — unreal, futile.** Here it means "senseless, worthless": whatever is enjoyed, offered or done for the ego comes to nothing in the end.
 - **वस्त्वहंकाररिक्तता — a key phrase.** "The real thing is the absence of ego." The essence (वस्तु) is egolessness. A concise statement of the whole teaching, worth remembering.
 - **True freedom.** Freedom from ego is the only real freedom; every other "freedom" is slavery to the ego, disguised as freedom. Rāvaṇa had every power and pleasure the three worlds could give, and was a slave to his ego from first to last.
+- **Whatever ego touches turns to ash.** This is the disadvantage of ahaṅkāra that the verse names: everything done for the ego — enjoyed, offered, achieved — burns down to nothing. The same work, done without it, is offered to Īśvara and is never lost: <span class="parallel">नेहाभिक्रमनाशोऽस्ति</span> — *here no effort is lost* (Gītā 2.40).
 
 ## Verse 1.15.10 { #1-15-10 }
 
@@ -388,6 +391,7 @@
 
 - **Rāma's honesty.** He knows the ego is the problem; he wants to be rid of it; and yet he still grieves. Knowing is not yet being free.
 - **The first direct request for teaching.** Rāma asks the sage to tell him what to do.
+- **Like Arjuna.** Arjuna did not ask about the Self; he asked about dharma: <span class="parallel">पृच्छामि त्वां धर्मसंमूढचेताः । यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे</span> — *my mind confused about dharma, I ask you: tell me for certain what is best* (Gītā 2.7). Yet the Lord began his answer with the Self (2.11 onwards). Only one who knows himself can see what his own dharma is, what his dharma towards others is, and what is theirs. Rāma asks in the same way — "tell me what is right for me" — and Vasiṣṭha too will answer with knowledge of the Self.
 
 ## Verse 1.15.21 { #1-15-21 }
 
