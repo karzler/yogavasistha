@@ -20,7 +20,7 @@
     **Three faults of the intellect (बुद्धि):**
 
     1. **Lack of discernment (अविवेक).** The intellect does not discern between what brings joy and what brings sorrow. One may reflect: wherever one went in the world for happiness, how much happiness was found? Joy, or sorrow? Did an impermanent world ever give a permanent joy? This first discernment (सुख-दुःख-विवेक) then deepens into the discernment of seer and seen (द्रष्टृ-दृश्य-विवेक), of the permanent and the impermanent (नित्य-अनित्य-विवेक), and of the real and the unreal (सत्-असत्-विवेक).
-    2. **Imbalance.** The intellect leans one way, and gives great value to something that is false (मिथ्या).
+    2. **Imbalance.** The intellect leans one way, and gives great value to something that is *mithyā* (मिथ्या).
     3. **Not seeing the cage.** The intellect does not understand that one has to get out of the cage called the body (देहाभिमान).
 
     To remove these three faults one goes to the Guru; without satsaṅga such an intellect is hard to form. The fruit of discernment is dispassion (वैराग्य), which has only two causes: discernment and the grace of Īśvara. Then comes the longing for freedom (मुमुक्षुत्व).
@@ -72,8 +72,8 @@
 **Pointers for Reflection:**
 
 - **The village dog.** Running from house to house for scraps, never satisfied. The mind's hunting for pleasure is pictured without flattery.
-- **The false nature and the true nature of mind.** Running about is the mind's false (मिथ्या) nature; its real nature is to rest in the Self. Recall चित् + त = चित्त (see the reflection at the top of this sarga): take away the conditioning, and what remains is consciousness itself.
-- **Too many priorities.** A restless mind means one has given it too many priorities. As long as they serve the sādhanā, that is fine — but make none of them the goal (साध्य) except Īśvara. Keep finding out what pleases Bhagavān, what his "tuning" is. Pleasing Bhagavān is the only priority: when he is pleased, the Guru comes, and knowledge of the Self comes.
+- **The mithyā nature and the real nature of mind.** Running about is the mind's *mithyā* (मिथ्या) nature; its real nature is to rest in the Self. Recall चित् + त = चित्त (see the reflection at the top of this sarga): take away the conditioning, and what remains is consciousness itself.
+- **Too many priorities.** A restless mind means one has given it too many priorities. As long as they serve the sādhanā, that is fine — but make none of them the *sādhya* (साध्य) except Īśvara. Keep finding out what pleases Bhagavān, what his "tuning" is. Pleasing Bhagavān is the only priority: when he is pleased, the Guru comes, and knowledge of the Self comes.
 
 ## Verse 1.16.3 { #1-16-3 }
 
@@ -110,7 +110,7 @@
 
 - **The lost deer.** Separated from its source, the mind wanders anxiously. The teaching will show the mind its 'herd': its source in consciousness.
 - **Reading note.** The online text prints निवृतिं; the expected word is निर्वृतिं, peace. The sense is the same.
-- **Peace is not in objects.** Peace (शान्ति, निर्वृति) is the experience of the infinite (अनन्तता); it is never found in an object. So the mind that hunts among objects is "always empty", however much it gathers. The Chāndogya: <span class="parallel">यो वै भूमा तत्सुखं नाल्पे सुखमस्ति</span> — *the infinite alone is joy; there is no joy in the small* (7.23.1).
+- **Śānti is not in objects.** *Śānti* (शान्ति, निर्वृति) is the experience of *anantatā* (अनन्तता); it is never found in an object. So the mind that hunts among objects is "always empty", however much it gathers. The Chāndogya: <span class="parallel">यो वै भूमा तत्सुखं नाल्पे सुखमस्ति</span> — *the infinite alone is joy; there is no joy in the small* (7.23.1).
 
 ## Verse 1.16.5 { #1-16-5 }
 
@@ -146,8 +146,8 @@
 
 - **The churning of the ocean.** The gods and demons churned the milk ocean with Mount Mandara. Here the churning rod is thought itself, and the ocean is the mind.
 - **मनन — thinking.** Recall 1.14.11: *he lives whose mind does not live by thinking*.
-- **Where does the mind settle? Where there is love.** And love has to be built. Whatever japa or pāṭha is done daily, day after day, one comes to feel it as one's own (ममता); steadiness (निष्ठा) takes time. Hold the mind for one minute — on a mantra such as <span class="parallel">ॐ नमो भगवते वासुदेवाय</span>, on one's chosen deity (इष्ट), or on the Self — and note it down in a notebook every day: without writing it down, sincerity does not come. Slowly one minute becomes two, two become three. The Gītā: <span class="parallel">अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते</span> — *it is held by practice and dispassion* (6.35).
-- **Loving the world as Īśvara's.** The world exists as the form of Īśvara. Taking it as his world, one loves it — not on its own account, as something independent. As one is related to a whole family through one's spouse, and has no independent relation with them otherwise, so all relations with the world come through Īśvara. Then love of the world does not scatter the mind; it gathers it. <span class="parallel">ईशा वास्यमिदं सर्वम्</span> (Īśa 1).
+- **Where does the mind settle? Where there is *prem*.** And *prem* (प्रेम) has to be built. Whatever japa or pāṭha is done daily, day after day, one comes to feel it as one's own (ममता); steadiness (निष्ठा) takes time. Hold the mind for one minute — on a mantra such as <span class="parallel">ॐ नमो भगवते वासुदेवाय</span>, on one's chosen deity (इष्ट), or on the Self — and note it down in a notebook every day: without writing it down, sincerity does not come. Slowly one minute becomes two, two become three. The Gītā: <span class="parallel">अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते</span> — *it is held by practice and dispassion* (6.35).
+- **Prem for the world as Īśvara's.** The world exists as the form of Īśvara. Taking it as his world, one has *prem* for it — not on its own account, as something independent. As one is related to a whole family through one's spouse, and has no independent relation with them otherwise, so all relations with the world come through Īśvara. Then *prem* for the world does not scatter the mind; it gathers it. <span class="parallel">ईशा वास्यमिदं सर्वम्</span> (Īśa 1).
 
 ## Verse 1.16.7 { #1-16-7 }
 
