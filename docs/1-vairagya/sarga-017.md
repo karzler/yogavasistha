@@ -10,6 +10,19 @@
     3. Craving as a disease, and its cure: "the giving up of longing is the healing mantra" (1.17.41–1.17.46).
     4. The wise cut craving with the sword of discernment; yet craving pervades the world like sweetness in milk (1.17.47–1.17.52).
 
+!!! note "Reflections: tṛṣṇā as ambition"
+    **Ambition.** One face of tṛṣṇā is ambition: whatever one has, for oneself personally, and whatever one wants — the wish to supersede everybody, and not to let anyone else grow. Kaikeyī was over-ambitious. And one does not know that one does not have the yogyatā (योग्यता) for what one craves.
+
+    **No one grows alone.** How many people have contributed to one's growth? Mother and father, teachers, the Guru, brothers and sisters, society; the devas have contributed; friends have contributed — perhaps seventy-five people stand behind any one person's growth. So do not grow alone. Contribute in return.
+
+    **The ambitious are never loyal.** Was Rāvaṇa loyal to Mandodarī? Was Kaikeyī loyal to Daśaratha? An ambitious person is never truly loyal to anyone.
+
+    **Grow, and dream big — but see whose dreams come true in yours.** Keep the dreams large, but watch how many other people's dreams are being fulfilled in one's own.
+
+    **The ambitious cannot be dhārmika.** Such a person will break the rules, and grows hard. The Gītā calls the one who takes without giving back a thief: <span class="parallel">इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः । तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥</span> — *nourished by yajña, the devas will give you the enjoyments you desire; one who enjoys what they give without offering to them in return is nothing but a thief* (3.12).
+
+    **Learn from sṛṣṭi.** Is creation ambitious? The more fruit a tree bears, the lower it bends — so that its shade can give rest to others, so that it can give its fruit. The truly great are very humble, with a giving nature. Look at Bhagavān Rāma.
+
 ## Verse 1.17.1 { #1-17-1 }
 
 <p class="shloka">
@@ -222,6 +235,7 @@
 **Pointers for Reflection:**
 
 - **The horse returns.** Craving runs away and always comes back. It cannot be outrun.
+- **Ambition never arrives.** "Farther and farther, to the ends of the earth": ambition wants to supersede everybody, and so it can never rest. Kaikeyī already had a queen's place, and still wanted more (see the reflection at the top of this sarga).
 
 ## Verse 1.17.13 { #1-17-13 }
 
@@ -498,6 +512,7 @@
 **Pointers for Reflection:**
 
 - **Craving outlives the person.** It moves on — to the next life, the next person. It is not personal property but an impersonal force.
+- **Why the ambitious are never loyal.** The bird leaves one tree for the next; ambition leaves one person for the next. Rāvaṇa was not loyal to Mandodarī, nor Kaikeyī to Daśaratha.
 
 ## Verse 1.17.29 { #1-17-29 }
 
@@ -880,6 +895,7 @@
 **Pointers for Reflection:**
 
 - **The fall of the great.** The Purāṇas are full of sages and kings felled by a single desire (Viśvāmitra and Menakā, Saubhari, Nahuṣa). No height protects.
+- **Kaikeyī.** A queen beloved of Daśaratha, made small in a moment by tṛṣṇā. Contrast the tree that bends lower the more fruit it bears, and Bhagavān Rāma, who left the kingdom without a trace of bitterness.
 
 ## Verse 1.17.51 { #1-17-51 }
 
