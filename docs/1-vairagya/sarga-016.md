@@ -36,6 +36,12 @@
 
     **The sādhanā in short:** correct the vāsanās by undivided devotion; hold the senses by resolve; hold withdrawal by the joy within; grow faith by study and by handing every issue to Bhagavān; do not let the body's troubles reach the mind; and do every task with a collected mind.
 
+    **How the mind is controlled: not by force, but by prem.** Never try to control the mind directly; forced control only becomes suppression. A controlled mind is the *effect* of a mind that loves. Let the mind have prem for something great — the Guru, Īśvara, Vedānta — and it comes under control by itself, as so many vāsanās drop away without a fight once the Guru and Vedānta enter a life. Give thought a conclusion, and give it a great object. Lakṣmaṇa was never seen sitting for dhyāna or japa: he had Bhagavān himself before him. Join oneself to the great, and the mind is governed of its own accord.
+
+    - **The Gītā's word for such a mind is विधेयात्मा,** the obedient mind: <span class="parallel">रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् । आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति ॥</span> — *moving among sense-objects with senses free of attachment and aversion and under one's own sway, the one whose mind is obedient attains prasāda* (2.64). The mind is meant to be a tool that makes one cool, not a fool.
+    - **The means is bhajan:** the आवर्तन (*āvartana*, turning over again and again) in the buddhi of Īśvara's महत्ता (*mahattā*, greatness), until ras flows in the mind (1.16.25).
+    - **And the daily practice:** hold the mind for one minute on a mantra, on one's iṣṭa, or on the Self; write it down each day; let one minute become two, and two become three (1.16.6).
+
 ## Verse 1.16.1 { #1-16-1 }
 
 <p class="shloka">
