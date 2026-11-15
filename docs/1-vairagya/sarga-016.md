@@ -472,7 +472,7 @@
 
 <p class="shloka">
 चित्तं कारणमर्थानां तस्मिन्सति जगत्त्रयम् ।<br>
-तस्मिन्क्षीणे जगत्क्षीणं <u>तच्चिकित्स्यं प्रयत्नतः</u> ॥ १.१६.२५ ॥
+तस्मिन्क्षीणे जगत्क्षीणं तच्चिकित्स्यं प्रयत्नतः ॥ १.१६.२५ ॥
 </p>
 
 <p class="anvaya">
@@ -483,13 +483,13 @@
 
 **Pointers for Reflection:**
 
+- **तच्चिकित्स्यं प्रयत्नतः — the key phrase of the sarga.** The mind must be treated, and treated with effort. How is the mind to be treated with care? By bhajan. And what is bhajan? The repeated आवर्तन (*āvartana*, turning over again and again) in the intellect of Īśvara's महत्ता (*mahattā*, greatness) — and, from that आवर्तन of his महत्ता, ras (रस, sweetness) flowing in the mind.
 - **The key verse of the sarga.** The mind is the source of the world as experienced. This is the Yoga Vasiṣṭha's central teaching, stated by Rāma himself before the teaching begins: **मन एव जगत्** — the world is the mind.
 - **चिकित्स्य — to be treated, healed.** The mind is not to be killed but cured. The medical image returns (compare 1.15.3, अहंकारो ममामयः).
 - **Upaniṣad parallels:**
     - **Maitri Upaniṣad 6.34:** <span class="parallel">मन एव मनुष्याणां कारणं बन्धमोक्षयोः</span> — *the mind alone is the cause of bondage and liberation for human beings.*
     - **Gītā 6.5–6:** <span class="parallel">उद्धरेदात्मनात्मानं… बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः</span> — *let one lift oneself by oneself… the self is a friend to one who has conquered it.*
 - **Tuning the mind.** "It must be treated with care" (प्रयत्नतः) — the whole of sādhanā is this careful treatment; see the reflection on the six faults of the mind at the top of this sarga.
-- **तच्चिकित्स्यं प्रयत्नतः — the phrase to underline.** How is the mind to be treated with care? By bhajan. And what is bhajan? The repeated आवर्तन (*āvartana*, turning over again and again) in the intellect of Īśvara's महत्ता (*mahattā*, greatness) — and, from that आवर्तन of his महत्ता, ras (रस, sweetness) flowing in the mind.
 - **Jñāna and bhakti.** There has been no great Vedāntin who was not also a great bhakta. Śaṅkara, who wrote the commentaries on the Upaniṣads and the Gītā, also wrote the *Bhaja Govindam* and many hymns; Madhusūdana Sarasvatī, author of the *Advaitasiddhi*, wrote that he knew no reality higher than Kṛṣṇa.
 
 ## Verse 1.16.26 { #1-16-26 }
@@ -516,7 +516,7 @@
 ## Verse 1.16.27 { #1-16-27 }
 
 <p class="shloka">
-<u>सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम्</u> ।<br>
+सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम् ।<br>
 विगतरतितयान्तर्नाभिनन्दामि लक्ष्मीं जडमलिनविलासां मेघलेखामिवेन्दुः ॥ १.१६.२७ ॥
 </p>
 
@@ -528,9 +528,9 @@
 
 **Pointers for Reflection:**
 
+- **सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम् — the key line.** Rāma rises to win the mind, where the great have placed all hope of every virtue.
 - **A closing verse in a longer metre** (mālinī).
 - **The mind as enemy, and as the key to every virtue.** The same mind that binds is where all virtue is won. To conquer the mind is to win everything.
 - **Gītā 6.6:** <span class="parallel">अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्</span> — *for one who has not conquered himself, his own self acts like an enemy.*
 - **The moon and the cloud.** The moon is not harmed by the cloud, only veiled. Rāma's true nature, like the moon, is untouched.
-- **सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम् — the line to underline.** Rāma rises to win the mind, where the great have placed all hope of every virtue.
 - **The mind is not different from Brahman.** Recall चित् + त = चित्त: the "enemy" to be conquered is consciousness itself, coloured by "this" and "I". Conquering it is not destroying something; it is the colouring falling away, so that only cit remains.
