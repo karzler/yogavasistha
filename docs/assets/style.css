@@ -74,3 +74,5 @@
   color: var(--md-primary-bg-color);
   background: var(--md-primary-fg-color);
 }
+
+.shloka u { text-decoration-thickness: 1px; text-underline-offset: 0.25em; text-decoration-color: var(--md-accent-fg-color); }

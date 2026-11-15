@@ -426,6 +426,7 @@
 **Pointers for Reflection:**
 
 - **Grasp, then boredom.** The mind's cycle: eager seizing, quick disinterest. Neither brings satisfaction.
+- **From one interest to the next.** This is a common experience: the mind moves from one interest to another — a jack of all trades, master of none. Yet when Vedānta and the Guru come into a life, many vāsanās drop away by themselves, without a fight. One great love does what effort alone cannot (see 1.16.24).
 
 ## Verse 1.16.23 { #1-16-23 }
 
@@ -464,12 +465,14 @@
     - <span class="parallel">असंशयं महाबाहो मनो दुर्निग्रहं चलम् । अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥</span>
     - *No doubt, mighty-armed one, the mind is hard to subdue and restless. But it is held through practice and dispassion.*
     - Rāma even uses the Gītā's word दुर्निग्रह (1.16.21). Kṛṣṇa's twofold answer — अभ्यास and वैराग्य — is exactly what Vasiṣṭha will teach. Rāma already has the second; the teaching gives him the first.
+- **Never try to control the mind.** Bhagavān Kṛṣṇa has a beautiful word for the mind: <span class="parallel">रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् । आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति</span> — *moving among sense-objects with senses free of attachment and aversion and under one's own sway, the one whose mind is obedient (विधेयात्मा) attains prasāda* (2.64). The mind is meant to be a tool that makes one cool, not a fool.
+- **Let the mind love something great.** A controlled mind is the *effect* of a mind that loves. Let it have prem for the Guru, for Īśvara, and control comes by itself. Give thought a conclusion, and give it a great object. Has anyone seen Lakṣmaṇa sitting for dhyāna or japa? He had Bhagavān himself before him. Join oneself to the great, and the mind is governed of its own accord. Try to control the mind independently, and the result is only suppression.
 
 ## Verse 1.16.25 { #1-16-25 }
 
 <p class="shloka">
 चित्तं कारणमर्थानां तस्मिन्सति जगत्त्रयम् ।<br>
-तस्मिन्क्षीणे जगत्क्षीणं तच्चिकित्स्यं प्रयत्नतः ॥ १.१६.२५ ॥
+तस्मिन्क्षीणे जगत्क्षीणं <u>तच्चिकित्स्यं प्रयत्नतः</u> ॥ १.१६.२५ ॥
 </p>
 
 <p class="anvaya">
@@ -486,6 +489,8 @@
     - **Maitri Upaniṣad 6.34:** <span class="parallel">मन एव मनुष्याणां कारणं बन्धमोक्षयोः</span> — *the mind alone is the cause of bondage and liberation for human beings.*
     - **Gītā 6.5–6:** <span class="parallel">उद्धरेदात्मनात्मानं… बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः</span> — *let one lift oneself by oneself… the self is a friend to one who has conquered it.*
 - **Tuning the mind.** "It must be treated with care" (प्रयत्नतः) — the whole of sādhanā is this careful treatment; see the reflection on the six faults of the mind at the top of this sarga.
+- **तच्चिकित्स्यं प्रयत्नतः — the phrase to underline.** How is the mind to be treated with care? By bhajan. And what is bhajan? The repeated आवर्तन (*āvartana*, turning over again and again) in the intellect of Īśvara's महत्ता (*mahattā*, greatness) — and, from that आवर्तन of his महत्ता, ras (रस, sweetness) flowing in the mind.
+- **Jñāna and bhakti.** There has been no great Vedāntin who was not also a great bhakta. Śaṅkara, who wrote the commentaries on the Upaniṣads and the Gītā, also wrote the *Bhaja Govindam* and many hymns; Madhusūdana Sarasvatī, author of the *Advaitasiddhi*, wrote that he knew no reality higher than Kṛṣṇa.
 
 ## Verse 1.16.26 { #1-16-26 }
 
@@ -506,11 +511,12 @@
 - **Thinning the mind (तनुता).** Not destroying it, but making it thin, transparent, by विवेक. Rāma already sees the way out.
 - **Muṇḍaka Upaniṣad 2.2.8:** <span class="parallel">भिद्यते हृदयग्रन्थिश्छिद्यन्ते सर्वसंशयाः । क्षीयन्ते चास्य कर्माणि तस्मिन्दृष्टे परावरे ॥</span> — *the knot of the heart is cut, all doubts are destroyed, and one's karmas wane, when That, the highest and the lowest, is seen.*
 - **Discernment first.** The mind thins through विवेक — the first remedy for the faults of the intellect (see the reflection at the top of this sarga): discernment of joy and sorrow, of seer and seen, of the lasting and the passing, of the real and the unreal.
+- **Sukha and duḥkha belong to vāsanā, not to circumstance.** Sukha-duḥkha are वासनात्मक (born of vāsanā), not परिस्थित्यात्मक (born of circumstance). As vāsanās wane, sukha and duḥkha wane with them. The growth of a person can be measured by how small the area of his sorrow has become. That is why Bhagavān Rāma felt no duḥkha when the kingdom was taken from him on the eve of his coronation: he had no āsakti for it.
 
 ## Verse 1.16.27 { #1-16-27 }
 
 <p class="shloka">
-सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम् ।<br>
+<u>सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम्</u> ।<br>
 विगतरतितयान्तर्नाभिनन्दामि लक्ष्मीं जडमलिनविलासां मेघलेखामिवेन्दुः ॥ १.१६.२७ ॥
 </p>
 
@@ -526,3 +532,5 @@
 - **The mind as enemy, and as the key to every virtue.** The same mind that binds is where all virtue is won. To conquer the mind is to win everything.
 - **Gītā 6.6:** <span class="parallel">अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्</span> — *for one who has not conquered himself, his own self acts like an enemy.*
 - **The moon and the cloud.** The moon is not harmed by the cloud, only veiled. Rāma's true nature, like the moon, is untouched.
+- **सकलगुणजयाशा यत्र बद्धा महद्भिस्तमरिमिह विजेतुं चित्तमभ्युत्थितोऽहम् — the line to underline.** Rāma rises to win the mind, where the great have placed all hope of every virtue.
+- **The mind is not different from Brahman.** Recall चित् + त = चित्त: the "enemy" to be conquered is consciousness itself, coloured by "this" and "I". Conquering it is not destroying something; it is the colouring falling away, so that only cit remains.
