@@ -23,6 +23,25 @@
 
     **Learn from sṛṣṭi.** Is creation ambitious? The more fruit a tree bears, the lower it bends — so that its shade can give rest to others, so that it can give its fruit. The truly great are very humble, with a giving nature. Look at Bhagavān Rāma.
 
+!!! note "Reflections: sukha, Virāṭ and tṛṣṇā"
+    **What is sukha?** Sukha is the experience of विस्तार (*vistāra*, expansion) in the aham. Sukha is never दृश्य: it is neither a धर्मी (a thing) nor a धर्म (a property of any thing). Sukha is always of the nature of the द्रष्टा, of the nature of चेतन. And the sense of संकोच (*saṅkoca*, contraction) in the aham is called duḥkha.
+
+    **Nyāya and Vedānta agree.** The Nyāya darśana gives another definition: <span class="parallel">अनुकूलवेदनीयं सुखम्</span> — *sukha is what is experienced as favourable*. कूल means a bank, a shore; अनुकूल is "along the bank", in one's favour. When one knows "this is अनुकूल to me", Nyāya calls that sukha. Vedānta says: when one knows "there is sukha in this", the aham is felt to expand. So the two definitions do not contradict each other.
+
+    **The world is alive with kriyā.** We see the world in pieces, because that is how perception (प्रत्यक्ष) shows it. But look at sṛṣṭi as a whole, and kriyā is going on everywhere. The earth itself moves through space at nearly 30 km every second. The whole world is a vibrant, dynamic system. Where there is क्रियाशक्ति, there is संकल्पशक्ति behind it.
+
+    **Where science and Vedānta part.** Here science and Vedānta diverge. Science does not accept a संकल्पशक्ति behind it, and calls it "natural". Vedānta says that "natural" is a way of escaping the question: because no one perceives the doer directly, it is called natural. But action is always of a doer, upon something. The tongue moves — and there is one within who moves it; so too the hands. If there is such vibrancy in sṛṣṭi, there is संकल्पशक्ति behind it; and if there is संकल्पशक्ति, there must be a कर्ता. Because संकल्पशक्ति pervades the whole brahmāṇḍa, its कर्ता is the one who holds (धारण) the whole brahmāṇḍa: his name is **Virāṭ**.
+
+    **Piṇḍa and brahmāṇḍa.** As one holds one's own body, so one is a mini-Virāṭ; Vedānta calls the individual in this state *viśva*. This body is a limb of Virāṭ; this life is a limb of Virāṭ. Everything in the body is intelligently fitted — eyes and nose each in their place — and when the body is given up, its processes stop and it decomposes. The brahmāṇḍa too has everything fitted in its place, and it has not decomposed. So, as the jīva is पिण्डाभिमानी (the one who owns the individual body), Virāṭ is ब्रह्माण्डाभिमानी (the one who owns the cosmic body). One has been fitted into Virāṭ at a specific place: one has been given a place, so do one's dharma there, as the sun's dharma is to shine. The body's supply comes from Virāṭ's five great elements, and to them it will return.
+
+    **In the presence of consciousness.** In the body everything runs automatically, and all of it stops when the jīva leaves the body. In sṛṣṭi everything runs automatically, and all of it would stop if Virāṭ gave up his body. Everything runs in the presence of consciousness.
+
+    **The aṃśa and the aṃśī.** A part (अंश) is at peace only when it works for the whole (अंशी). A part that does not work for the whole becomes paralysed. The organs of the body all complement one another. If, living within Virāṭ, one works only for oneself, one becomes a diseased organ of Virāṭ. This is the over-ambitious person of the reflection above. To be ambitious for society, for the country, for the Guru, for dharma — very good. Only for oneself — then something has gone wrong.
+
+    **This is tṛṣṇā.** The selfish person is a diseased limb of Virāṭ: he has cut himself off. He can never be happy in another's sukha; he takes no joy in seeing another go ahead. Again and again he compares — "I have been left behind" — and jealousy, anger and attachment arise in him. This is what the Yoga Vasiṣṭha calls tṛṣṇā.
+
+    The Gītā shows the whole as Īśvara's own body: <span class="parallel">इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् । मम देहे गुडाकेश</span> — *see here today the whole universe, moving and unmoving, standing as one in My body* (11.7). And the Puruṣa Sūkta: <span class="parallel">सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्</span> — *the Puruṣa has a thousand heads, a thousand eyes, a thousand feet* (Ṛg Veda 10.90.1).
+
 ## Verse 1.17.1 { #1-17-1 }
 
 <p class="shloka">
@@ -59,6 +78,7 @@
 **Pointers for Reflection:**
 
 - **Dried up.** Craving is not only painful but desiccating. It takes away the softness of the heart.
+- **Saṅkoca.** "Dried up, sap and softness gone": tṛṣṇā is the experience of contraction in the aham, which is the very definition of duḥkha (see the reflection at the top of this sarga).
 
 ## Verse 1.17.3 { #1-17-3 }
 
@@ -582,6 +602,7 @@
 **Pointers for Reflection:**
 
 - **The inner palace.** Rāma, a prince, speaks from experience: wealth and protection do not shield one from craving.
+- **Why lasting duḥkha?** Every other fault comes and goes; tṛṣṇā keeps the aham permanently contracted — cut off from the whole, comparing, never content with another's sukha. It "throws even one living safe in the inner palace into great danger": not circumstance, but vāsanā, decides sukha and duḥkha (1.16.26).
 
 ## Verse 1.17.33 { #1-17-33 }
 
