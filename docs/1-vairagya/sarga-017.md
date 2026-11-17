@@ -42,6 +42,27 @@
 
     The Gītā shows the whole as Īśvara's own body: <span class="parallel">इहैकस्थं जगत्कृत्स्नं पश्याद्य सचराचरम् । मम देहे गुडाकेश</span> — *see here today the whole universe, moving and unmoving, standing as one in My body* (11.7). And the Puruṣa Sūkta: <span class="parallel">सहस्रशीर्षा पुरुषः सहस्राक्षः सहस्रपात्</span> — *the Puruṣa has a thousand heads, a thousand eyes, a thousand feet* (Ṛg Veda 10.90.1).
 
+!!! note "Reflections: why Virāṭ? Order is always found in consciousness"
+    The reasoning behind Virāṭ can be put in one sentence: *kriyā, order and fittedness are always found in consciousness and never outside it; so the cosmos is best understood as the saṅkalpa of a cosmic consciousness, Virāṭ, of which each of us is a limb.* It unfolds in five steps — the first two can be checked directly, the last three follow from them.
+
+    1. **Order is always found in consciousness.** Every instance of order ever met — the orbits of planets, the eye set in the face, the turning of the seasons — was met as experience: seen, heard, read, thought. Even the scientist's "the earth moves at 30 km a second" reaches the scientist as readings and understanding, in awareness. This is not a theory; it is simply where all the evidence lies.
+    2. **Never outside it.** This does not claim that order vanishes when no one looks. It says something more modest: no one has ever *found* order outside consciousness. "It exists out there, on its own" is itself a thought, held in consciousness. Consciousness is the one thing never left out of any picture — even the picture of a world without observers.
+    3. **So it is best understood as saṅkalpa.** Two models are possible. In one, order exists independently and consciousness arrives late, as an onlooker — leaving unexplained why there is order at all, and how unconscious matter gave rise to awareness. In the other, order is the way consciousness itself unfolds. The second is not a fantasy: every dream is an instance of it. A dream has ordered kriyā and well-fitted bodies, and its only source is the dreamer's consciousness — its saṅkalpa, its shaping power. Saṅkalpa here is not deliberate planning; no one plans their dreams, yet consciousness shapes them entirely (3.1.45, 3.3.17).
+    4. **A cosmic consciousness, not "my" mind.** The world is not under personal control: one does not decide that the sun rises, that others think their own thoughts, or that the heart keeps beating. Yet inside a dream, too, the dream-self controls nothing — the other characters surprise it, the dream-sun rises without its consent — and still all of it is the dreamer's consciousness. So the personal mind is one figure within a larger saṅkalpa. That world-holding consciousness is **Virāṭ** — in the Yoga Vasiṣṭha, Brahmā, the cosmic mind (3.3.20). This is also why the world is shared and stable: all minds are figures in one saṅkalpa, as all characters share one dream.
+    5. **Each of us is a limb (aṃśa).** The body is made of Virāṭ's five elements and returns to them; one's place in the world is given, as the eye's place is given in the face; one's life runs in the same consciousness in which the whole cosmos runs. Hence the teaching above: a limb that works for the whole is healthy and at peace — that is dharma; a limb that works only for itself cuts itself off, compares, and contracts — that is tṛṣṇā, and that is duḥkha. Sukha, the विस्तार of the aham, is the aham moving towards what it truly is.
+
+    **In short.** Every instance of order is met in consciousness, and nowhere else. A dream shows that consciousness can produce a fully ordered world by itself. The world is not under private control, so its consciousness is larger than the personal mind. That larger, world-holding consciousness is Virāṭ — and each person is one living limb of it.
+
+    **A contemplation (five minutes).**
+
+    - Look at something orderly — a leaf, one's own hand, the rhythm of the breath — and notice that this order is appearing in awareness, now.
+    - Recall a dream: ordered, vivid, made entirely of consciousness.
+    - Notice the heartbeat: not done by "me", yet happening only in the presence of awareness.
+    - Ask: *in what is all this happening?*
+    - Rest a moment as a limb of something vast and alive; then return to the day, and do one's part.
+
+    The first steps are seen directly; the rest is understanding, which repetition turns into recognition. The Upaniṣad points to the same: <span class="parallel">केनेषितं पतति प्रेषितं मनः</span> — *impelled by whom does the mind go forth?* (Kena 1.1); <span class="parallel">यः पृथिव्यां तिष्ठन्पृथिव्या अन्तरः … एष त आत्मान्तर्याम्यमृतः</span> — *who dwells in the earth yet is within it … he is your Self, the inner controller, the immortal* (Bṛhadāraṇyaka 3.7.3).
+
 ## Verse 1.17.1 { #1-17-1 }
 
 <p class="shloka">
