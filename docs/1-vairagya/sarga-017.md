@@ -517,7 +517,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints दुर्लङ्घयेषु; corrected here to दुर्लङ्घ्येषु.
 - **Still when the light comes.** A hint of the cure: the peahen dances in fog but is quieted by light. Craving thrives in ignorance and calms in knowledge.
 
 ## Verse 1.17.27 { #1-17-27 }
@@ -883,7 +882,7 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints दुच्छेदामपि; corrected here to दुश्छेदामपि.
+- **Gītā 15.3 — the sword of non-attachment.** The Lord too speaks of cutting with a sword what is "so hard to cut": <span class="parallel">न रूपमस्येह तथोपलभ्यते नान्तो न चादिर्न च सम्प्रतिष्ठा । अश्वत्थमेनं सुविरूढमूलमसङ्गशस्त्रेण दृढेन छित्त्वा ॥</span> — *its form is not perceived here as such, nor its end, nor its beginning, nor its foundation; having cut this firmly rooted aśvattha tree with the strong sword of non-attachment…* (15.3). Here the sword is विवेक; there it is असङ्ग. They are one sword: discernment ripens into non-attachment, and what is clearly seen to be mithyā no longer holds.
 - **The sword of discernment.** Hope in the middle of the lament. Craving can be cut — not by force or suppression, but by विवेक.
 - **Gītā 4.42:** <span class="parallel">छित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत</span> — *having cut this doubt with the sword of knowledge, take refuge in yoga; arise, Bhārata.*
 
