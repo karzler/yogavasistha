@@ -799,7 +799,6 @@
 **Pointers for Reflection:**
 
 - **Tree, flower, fruit.** Discernment is the tree, calm its flower, happiness its fruit.
-- **Reading note.** The online text prints प्रशमनोद्भूत्तं; corrected here to प्रशमनोद्भूतं.
 
 ## Verse 2.13.48 { #2-13-48 }
 
@@ -817,7 +816,6 @@
 **Pointers for Reflection:**
 
 - **Like the sun.** The sun shines on everything without grasping or refusing. The free person works the same way.
-- **Reading note.** The online text prints वाञ्छयते; corrected here to वाञ्छ्यते.
 
 ## Verse 2.13.49 { #2-13-49 }
 
@@ -886,7 +884,6 @@
 **Pointers for Reflection:**
 
 - **शम (glossary).** The settling of the mind. The Gītā: <span class="parallel">योगारूढस्य तस्यैव शमः कारणमुच्यते</span> — *for one who has ascended to yoga, calm is said to be the means* (6.3).
-- **Reading note.** The online text prints शान्ति; corrected here to शान्तिः.
 
 ## Verse 2.13.53 { #2-13-53 }
 

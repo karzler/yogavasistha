@@ -30,7 +30,6 @@
 - **The third book begins.** Book 2 prepared the seeker; Book 3 begins the knowledge itself. Its subject is उत्पत्ति — how the world comes to appear.
 - **Like a dream.** The first image of the book is the one it will return to most: the world is to consciousness what a dream is to the dreamer — vivid, and made of the dreamer.
 - **The power of words.** We know things through names. "This" and "that" arise with the words for them. The Chāndogya: <span class="parallel">वाचारम्भणं विकारो नामधेयम्</span> — *the change is only a name, a matter of speech* (6.1.4).
-- **Reading note.** The online text prints यदिदंतत्; corrected here to यदिदं तत्.
 
 ## Verse 3.1.2 { #3-1-2 }
 
@@ -530,7 +529,6 @@
 **Pointers for Reflection:**
 
 - **Whatever is before it.** The mirror is not changed by what it shows. Neither is consciousness.
-- **Reading note.** The online text prints अद्यब्ध्युर्वी; corrected here to अद्र्यब्ध्युर्वी ("mountains, oceans, earth").
 
 ## Verse 3.1.31 { #3-1-31 }
 

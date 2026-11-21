@@ -198,7 +198,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints जगत्र्त्रये; corrected here to जगत्त्रये.
 - **The lamp in the wind.** The Gītā uses the opposite image for the steady mind (6.19): <span class="parallel">यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता</span>. *as a lamp in a windless place does not flicker.* Life flickers; the yogī's mind does not.
 
 ## Verse 1.28.12 { #1-28-12 }
@@ -471,7 +470,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints क्षण कनक; corrected here to क्षणं कनक.
 - **Night and dawn.** The sky changes moment by moment, yet the sky itself is untouched. Compare the sky of the mind (1.15.19).
 
 ## Verse 1.28.28 { #1-28-28 }
@@ -489,7 +487,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints क्ष्रणम्; corrected here to क्षणम्.
 - **The sky remains.** Clouds, thunder and silence pass across it; the sky itself does not change. This is the image the teaching will use for the Self.
 
 ## Verse 1.28.29 { #1-28-29 }

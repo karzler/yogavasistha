@@ -78,7 +78,6 @@
 **Pointers for Reflection:**
 
 - **The outer problem.** A rite and its obstacles. The Yoga Vasiṣṭha will later teach that every obstacle is met within the mind first.
-- **Reading note.** The online text prints सिद्धयर्थं; the correct form सिद्ध्यर्थं is used here.
 
 ## Verse 1.7.5 { #1-7-5 }
 

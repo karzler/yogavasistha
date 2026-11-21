@@ -394,7 +394,6 @@
 **Pointers for Reflection:**
 
 - **Gītā 12.13:** <span class="parallel">अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च</span> — *without hatred towards any being, friendly and compassionate.* The fearsome sage (1.6.20) is also full of करुणा.
-- **Reading note.** The online text prints करुणाक्रान्तचेतत्तवात्; करुणाक्रान्तचेतस्त्वात् is used here.
 
 ## Verse 1.6.23 { #1-6-23 }
 
@@ -412,7 +411,6 @@
 **Pointers for Reflection:**
 
 - **Wonder again.** As the messenger felt wonder before Ariṣṭanemi (1.1.43), so the court feels wonder before Viśvāmitra. In this text, wonder often marks the presence of the wise.
-- **Reading note.** The online text prints युक्तयज्ञोपवीताङ्ग; युक्तयज्ञोपवीताङ्गं is used here.
 
 ## Verse 1.6.24 { #1-6-24 }
 
@@ -430,7 +428,6 @@
 **Pointers for Reflection:**
 
 - **Jewels fall to the ground.** A beautiful image: the king's wealth literally falls at the sage's feet. Worldly splendour bows to spiritual greatness.
-- **Reading note.** The online text prints सुनिमालोक्य; मुनिमालोक्य is used here.
 
 ## Verse 1.6.25 { #1-6-25 }
 

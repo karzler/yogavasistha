@@ -119,7 +119,6 @@
 **Pointers for Reflection:**
 
 - **Past, present, future** — all beyond number. The ocean is one; the waves are endless. Against this background, one sage's state is a small matter — but Vasiṣṭha will show it is also no contradiction.
-- **Reading note.** The online text prints जन्तसर्ग; corrected here to जन्तुसर्ग.
 
 ## Verse 2.3.7 { #2-3-7 }
 
@@ -245,7 +244,6 @@
 **Pointers for Reflection:**
 
 - **खपुष्प — the sky-flower.** A standard example in Indian logic of something wholly unreal. Yet it can be imagined vividly. So with the after-death world.
-- **Reading note.** The online text prints स्वप्नसंवित्तिषुरवत्; corrected here to स्वप्नसंवित्तिपुरवत् ("like a city known in a dream").
 
 ## Verse 2.3.14 { #2-3-14 }
 
@@ -299,7 +297,6 @@
 **Pointers for Reflection:**
 
 - **The plantain stem.** Peel one layer and another appears, and another — and in the centre, nothing. A perfect image of worlds within minds within worlds, with no solid core.
-- **Reading note.** The online text prints तेवामन्त; corrected here to तेषामन्त.
 
 ## Verse 2.3.17 { #2-3-17 }
 
@@ -317,7 +314,6 @@
 **Pointers for Reflection:**
 
 - **Worlds without matter.** The after-death world has no elements, yet it is fully experienced. So experience does not need matter; it needs only mind. The question is then whether this waking world is any different — a question the Utpatti Prakaraṇa will press.
-- **Reading note.** The online text prints पृम्ब्यादि … जगद्भमाः; corrected here to पृथ्व्यादि … जगद्भ्रमाः.
 
 ## Verse 2.3.18 { #2-3-18 }
 
@@ -509,7 +505,6 @@
 **Pointers for Reflection:**
 
 - **Many forms, one heart.** समाशय — the same inner intent. What persists across lives is not form but disposition.
-- **Reading note.** The online text prints अभूम् … समाशयाऽ; corrected here to अभूम … समाशयाः.
 
 ## Verse 2.3.29 { #2-3-29 }
 

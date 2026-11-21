@@ -239,7 +239,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints कोप काक कृतालयः, with spaces; corrected here to the single compound कोपकाककृतालयः.
 - **Good and evil both as fruit.** Merit and demerit both bind. Compare Gītā 2.50, <span class="parallel">बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते</span>. *One united in wisdom gives up both good and evil deeds here.*
 
 ## Verse 1.18.14 { #1-18-14 }
@@ -446,7 +445,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints दीघदोर्दारु; corrected here to दीर्घदोर्दारु.
 - **Reading note.** गुग्गुलु (bdellium resin) is difficult here; the sense seems to be the ankles as the base on which the pillars stand.
 
 ## Verse 1.18.26 { #1-18-26 }

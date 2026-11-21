@@ -395,7 +395,6 @@
 **Pointers for Reflection:**
 
 - **The young renunciant.** Rāma is drifting toward the path of renunciation. This is precisely the path the Yoga Vasiṣṭha will gently correct: freedom does not require leaving the world (1.1.7–1.1.8; the theme of [wisdom lived, not renounced](../index.md#wisdom-lived)).
-- **Reading note.** The online text prints भूय सो; the correct form भूयः सो is used here.
 
 ## Verse 1.10.23 { #1-10-23 }
 

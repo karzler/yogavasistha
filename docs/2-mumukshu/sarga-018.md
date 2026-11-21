@@ -825,7 +825,6 @@
 **Pointers for Reflection:**
 
 - **Rules of reading.** Like any serious text, it has its conventions. Knowing them prevents misunderstanding.
-- **Reading note.** The online text prints चास्त्रं; corrected here to शास्त्रं.
 
 ## Verse 2.18.50 { #2-18-50 }
 

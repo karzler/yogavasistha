@@ -78,7 +78,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints श्रृणुकैः; corrected here to शृणुकैः.
 - **Still as a painting** — the image of 1.31.24 now describes the listeners. Rāma's stillness has spread to the assembly. The list of listeners runs on to 1.32.11.
 
 ## Verse 1.32.5 { #1-32-5 }
@@ -130,7 +129,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints भृत्यैऽरमात्यैः; corrected here to भृत्यैरमात्यैः.
 - **Even the animals.** A lovely detail: the horses stop chewing, the deer stand still. Rāma's words touch all beings — like Kṛṣṇa's flute in the Bhāgavata, which made even animals stand still.
 
 ## Verse 1.32.8 { #1-32-8 }
@@ -471,7 +469,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints आदरा दधिगतो; corrected here to आदरादधिगतो (word division).
 - **A closing verse in a longer metre** (drutavilambita).
 - **The student awakens the listeners.** A remarkable reversal: Rāma has not yet received the teaching, yet his questions have already awakened the siddhas. The Lord as student is still the Lord ([the Lord as student](../index.md#the-lord-as-student)).
 - **उपशम — peace.** The word of the very first verse (1.1.1) returns at the close of Rāma's speech.

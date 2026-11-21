@@ -148,7 +148,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints सुन्दरीभिः रनाहतान्तःकरणा; corrected here to सुन्दरीभिरनाहतान्तःकरणा.
 - **Steady in both hardship and prosperity.** The theme of the reflection at [1.14.3](sarga-014.md#1-14-3): hard situations need not become hard experience.
 - **Gītā 2.56:** <span class="parallel">दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः । वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते ॥</span> — *undisturbed in sorrow, without longing in pleasure, free from passion, fear and anger — such a one is called a sage of steady wisdom.*
 
@@ -567,7 +566,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints विरिञ्चयाः; corrected here to विरिञ्चयः.
 - **Time is relative.** A deep observation: 'long' and 'short' are only comparisons. This prepares the later teaching (Utpatti Prakaraṇa) that Time is a construction of the mind — a moment in a dream can feel like years.
 
 ## Verse 1.27.33 { #1-27-33 }

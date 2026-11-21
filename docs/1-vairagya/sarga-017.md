@@ -116,7 +116,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints चित्तमहारण्येव्यामोह; corrected here to चित्तमहारण्ये व्यामोह, a space restored.
 - **आशा — hope, expectation.** In the Yoga Vasiṣṭha, hope is not a virtue but a form of craving: always reaching for what is not here.
 - **Bhāgavata 11.8.44** (Piṅgalā's song): <span class="parallel">आशा हि परमं दुःखं नैराश्यं परमं सुखम्</span> — *hope is the greatest sorrow; freedom from hope is the greatest happiness.*
 
@@ -500,7 +499,6 @@
 **Pointers for Reflection:**
 
 - **Dancing without joy.** The saddest image of the sarga. Craving outlives its own pleasure; we go on wanting even when wanting no longer gives anything.
-- **Reading note.** The online text prints शक्रोति; corrected here to शक्नोति.
 
 ## Verse 1.17.26 { #1-17-26 }
 
@@ -726,7 +724,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints श्रृङ्खला; corrected here to शृङ्खला.
 - **The banyan of creation.** Compare **Gītā 15.1–3:** <span class="parallel">ऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम्</span> — the inverted tree of saṃsāra, which must be cut <span class="parallel">असङ्गशस्त्रेण दृढेन छित्त्वा</span> — *with the strong axe of non-attachment.*
 
 ## Verse 1.17.39 { #1-17-39 }

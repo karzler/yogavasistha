@@ -225,7 +225,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints पुर्णेन्दु; corrected here to पूर्णेन्दु.
 - **A portrait, built only to be dissolved.** Verses 13–16 describe the beloved as poets do; verse 16 reveals the poison. Rāma knows the poetry of desire as well as anyone.
 
 ## Verse 1.21.14 { #1-21-14 }

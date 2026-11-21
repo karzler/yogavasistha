@@ -46,7 +46,6 @@
 **Pointers for Reflection:**
 
 - **The three guṇas.** Rajas (agitation) and tamas (dullness) block understanding; sattva (clarity) admits it. The Gītā: <span class="parallel">सत्त्वात्संजायते ज्ञानम्</span> — *from sattva knowledge is born* (14.17).
-- **Reading note.** The online text prints रहिता … स्थिरौ; corrected here to रहितां … स्थिरो.
 
 ## Verse 2.12.3 { #2-12-3 }
 

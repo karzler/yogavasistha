@@ -130,7 +130,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints जलवह्नयनिलाजस्र; corrected here to जलवह्न्यनिलाजस्र.
 - **Fear from not understanding.** The child's fear is not from real danger but from not knowing. Knowledge removes fear — the whole teaching in a nutshell.
 - **Bṛhadāraṇyaka Upaniṣad 1.4.2:** <span class="parallel">द्वितीयाद्वै भयं भवति</span> — *fear arises only from a second.* The child, surrounded by a world it does not understand, lives in the fear of 'the other'. The knower, who sees no second, is fearless.
 
@@ -166,7 +165,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints दुर्विलारसं, which is not a word; corrected here to दुर्विलासं, as in 1.19.8.
 - **शासन — discipline.** A child is constantly corrected. The word also means teaching, as in अनुशासन. Childhood is a time to be taught — which is also Rāma's present condition before his guru.
 
 ## Verse 1.19.10 { #1-19-10 }
@@ -270,7 +268,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints ज्वलाजालैः; corrected here to ज्वालाजालैः.
 - **A reversal.** Not that the child is restless like lightning, but that lightning learned restlessness from the child. A poetic exaggeration (अतिशयोक्ति).
 
 ## Verse 1.19.16 { #1-19-16 }
@@ -441,7 +438,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints बालो परामेति; corrected here to बालः परामेति.
 - **School as tethering.** Rāma knew the gurukula himself (1.3.4). The discipline of learning is hard on a child.
 - **An irony.** Rāma, now the student of Vasiṣṭha, is again at the 'house of learning' — this time freely, by his own longing. The bondage of childhood becomes the freedom of the seeker.
 
@@ -477,7 +473,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints भोक्तमिन्दुम्; corrected here to भोक्तुमिन्दुम्.
 - **Wanting the moon.** The classic image of childish desire. In later Rāma literature, the child Rāma himself is said to have cried for the moon and been consoled with its reflection in a mirror — a fitting irony.
 - **Yet the longing is a clue.** The desire to embrace the whole world is, at bottom, the longing of the infinite Self for itself. Turned outward it is foolishness; turned inward it is liberation.
 

@@ -605,4 +605,3 @@
 **Pointers for Reflection:**
 
 - **Tradition and personal insight.** The lineage guides; one's own understanding arrives. Neither alone is enough (2.13.11).
-- **Reading note.** The online text prints बुद्धया; corrected here to बुद्ध्या.

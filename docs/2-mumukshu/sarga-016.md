@@ -384,7 +384,6 @@
 **Pointers for Reflection:**
 
 - **Practical guidance.** A beginner need not attempt everything. Choose the gate nearest you.
-- **Reading note.** The online text prints तस्मात्यत्नेन; corrected here to तस्माद्यत्नेन.
 
 ## Verse 2.16.23 { #2-16-23 }
 

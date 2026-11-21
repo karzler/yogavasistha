@@ -163,7 +163,6 @@
 **Pointers for Reflection:**
 
 - **The mirror again** (2.1.3). The Gītā: <span class="parallel">यथादर्शो मलेन च</span> (3.38).
-- **Reading note.** The online text prints वक्रम्; corrected here to वक्त्रम् ("face").
 
 ## Verse 2.15.10 { #2-15-10 }
 
@@ -317,7 +316,6 @@
 **Pointers for Reflection:**
 
 - **The full moon.** A recurring image for the complete mind.
-- **Reading note.** The online text prints कुलङ्क; corrected here to कलङ्क ("stain").
 
 ## Verse 2.15.19 { #2-15-19 }
 
@@ -335,7 +333,6 @@
 **Pointers for Reflection:**
 
 - **Beauty of evenness.** Contentment shows in the face (compare 2.13.56).
-- **Reading note.** The online text prints वक्रम्; corrected here to वक्त्रम् ("face").
 
 ## Verse 2.15.20 { #2-15-20 }
 

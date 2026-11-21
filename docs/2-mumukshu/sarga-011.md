@@ -62,7 +62,6 @@
 **Pointers for Reflection:**
 
 - **Why after creation?** Rāma asks for the motive in more detail. Vasiṣṭha will place it in the decline of the ages.
-- **Reading note.** The online text prints ब्रह्मन्मगवतो; corrected here to ब्रह्मन्भगवतो.
 
 ## Verse 2.11.4 { #2-11-4 }
 
@@ -98,7 +97,6 @@
 **Pointers for Reflection:**
 
 - **Seeing the whole.** The creator sees the arc of time. What he sees moves him to act.
-- **Reading note.** The online text prints सर्ग … दश; corrected here to सर्गं … ददर्श.
 
 ## Verse 2.11.6 { #2-11-6 }
 
@@ -269,7 +267,6 @@
 **Pointers for Reflection:**
 
 - **Kings too suffer.** Power does not exempt from misery. This is the background from which Rāma himself has recoiled (1.12–1.31).
-- **Reading note.** The online text prints युद्ध … मही … समथोः; corrected here to युद्धं … महीं … समर्थाः.
 
 ## Verse 2.11.16 { #2-11-16 }
 
@@ -1090,7 +1087,6 @@
 **Pointers for Reflection:**
 
 - **Frozen water.** The same water can be fluid or solid. The mind too can harden — and can thaw.
-- **Reading note.** The online text prints घनतषपयातं; corrected here to घनतामुपयातं.
 
 ## Verse 2.11.64 { #2-11-64 }
 
@@ -1176,7 +1172,6 @@
 **Pointers for Reflection:**
 
 - **The text recommends itself.** Studied with a prepared mind, it removes confusion. Note "somewhat": one need not be perfect to begin.
-- **Reading note.** The online text prints मौर्यस्य; corrected here to मौर्ख्यस्य ("of foolishness").
 
 ## Verse 2.11.69 { #2-11-69 }
 

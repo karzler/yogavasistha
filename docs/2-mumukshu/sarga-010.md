@@ -252,7 +252,6 @@
 **Pointers for Reflection:**
 
 - **Creation is like thinking.** Brahmā creates as the mind thinks. This simile is the seed of the Utpatti Prakaraṇa: the world as a projection of mind.
-- **Reading note.** The online text prints मुनिमूण्डल … सकल सग; corrected here to मुनिमण्डल … सकलं सर्गं.
 
 ## Verse 2.10.15 { #2-10-15 }
 
@@ -511,7 +510,6 @@
 
 - **A strange curse.** Brahmā deliberately clouds his son's knowledge. The reason is given in verse 38: so that the son may ask, and the answer be given to the world.
 - **The hare in the moon.** Indians see a hare in the moon's markings (hence शशधर, "hare-bearer"). The moon remains the moon; the mark only seems to darken it.
-- **Reading note.** The online text prints अभ्यास्रशतु; corrected here to अभ्याविशतु ("let it enter").
 
 ## Verse 2.10.30 { #2-10-30 }
 
@@ -736,7 +734,6 @@
 **Pointers for Reflection:**
 
 - **Rāma belongs here.** Dispassionate, wise, inquiring — a description of Rāma. He is the student for whom the highest teaching was intended.
-- **Reading note.** The online text prints विरर्क्ताचेत्ताश्च; corrected here to विरक्तचित्ताश्च.
 
 ## Verse 2.10.43 { #2-10-43 }
 

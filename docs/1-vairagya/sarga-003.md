@@ -31,7 +31,6 @@
     - *This is the Brahman-state, Pārtha. Reaching it, one is not deluded again. Established in it even at the end, one attains the peace of Brahman.*
     - The Gītā ends its second chapter with the ब्राह्मी स्थिति of the steady-minded; Bharadvāja asks for the जीवन्मुक्तस्थिति. Both ask what the free person's state is like.
 - **क्रमात्, step by step.** The student asks for an order, not a summary. The Yoga Vasiṣṭha's length is its answer to this request.
-- **Reading note.** The online text prints व्रह्मन्; the correct form ब्रह्मन् is used here.
 
 ## Verse 1.3.2 { #1-3-2 }
 
@@ -185,7 +184,6 @@
     - *When one gives up all the desires of the mind, Pārtha, content in the Self by the Self, then one is called steady in wisdom.*
     - प्रजहाति सर्वान् कामान् there, परित्यागः अशेषेण वासनानाम् here: the same completeness.
 - **Bṛhadāraṇyaka Upaniṣad 4.4.7:** <span class="parallel">यदा सर्वे प्रमुच्यन्ते कामा येऽस्य हृदि श्रिताः । अथ मर्त्योऽमृतो भवत्यत्र ब्रह्म समश्नुते ॥</span> — *when all desires in the heart are released, the mortal becomes immortal and attains Brahman here.* (The same verse appears in the Kaṭha; see 1.1.52.)
-- **Reading note.** The online text prints मोक्षं इत्युच्यते; the grammatical form मोक्ष इत्युच्यते is used here.
 
 ## Verse 1.3.9 { #1-3-9 }
 
@@ -357,7 +355,6 @@
     - *Those who strive for freedom from old age and death, taking refuge in me, know That Brahman fully, the inner Self and all action.*
     - जरामरणमोक्षाय there, जरामरणशान्तये here.
 - **From definition to example.** Verses 8–15 define liberation; now Vālmīki promises a living example: Rāma himself.
-- **Reading note.** The online text prints वक्ष्याभि; the correct form वक्ष्यामि is used here.
 
 ## Verse 1.3.17 { #1-3-17 }
 
@@ -795,7 +792,6 @@
 **Pointers for Reflection:**
 
 - **राजर्षि before ब्रह्मर्षि.** The royal sages are named first. Rāma, a future king, visits those who combined rule and wisdom — the ideal he will embody (compare Gītā 4.2, quoted at 1.1.23).
-- **Reading note.** The online text prints ब्राह्मणानां चे; the reading ब्राह्मणानां च, which fits the metre, is used here.
 
 ## Verse 1.3.41 { #1-3-41 }
 

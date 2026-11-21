@@ -867,4 +867,3 @@
 **Pointers for Reflection:**
 
 - **The heart as the infinite.** The Chāndogya: <span class="parallel">यावान्वा अयमाकाशस्तावानेषोऽन्तर्हृदय आकाशः । उभे अस्मिन्द्यावापृथिवी अन्तरेव समाहिते</span> — *as vast as this space is the space within the heart; both heaven and earth are contained in it* (8.1.3).
-- **Reading note.** The online text prints हरिहराञ्जज; corrected here to हरिहराब्जज ("Hari, Hara and the lotus-born").

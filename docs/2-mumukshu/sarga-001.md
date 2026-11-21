@@ -175,7 +175,6 @@
 
 - **Discernment born of reflection.** Neither Śuka nor Rāma was taught dispassion; it rose from looking honestly at life. Compare Rāma's own reflection at 1.12.
 - **The Buddha's way.** Prince Siddhārtha too saw old age, sickness and death and began to ask. Reflection on the course of the world (लोकयात्रा) is the common door of the seekers of every tradition.
-- **Reading note.** The online text prints उद्भूदयम्; corrected here to उदभूदयम् (उदभूत् + अयम्).
 
 ## Verse 2.1.10 { #2-1-10 }
 
@@ -301,7 +300,6 @@
 
 - **"I knew this already."** The subtlest obstacle: the teaching sounds familiar, so it is set aside. Familiarity is not realisation. The Kena Upaniṣad warns: <span class="parallel">यदि मन्यसे सुवेदेति दभ्रमेवापि नूनं त्वं वेत्थ</span> — *if you think "I know it well", you know very little* (2.1).
 - **The closeness of father and son.** It is hard to receive as a teacher one who is also one's own father. Familiarity of person, as well as of words, can block the teaching.
-- **Reading note.** The online text prints आऽज्ञासिषं; corrected here to अज्ञासिषं ("I knew").
 
 ## Verse 2.1.17 { #2-1-17 }
 

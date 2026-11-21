@@ -137,7 +137,7 @@ It aims to:
 
 **Share a verse.** At the end of every verse are two buttons. **Share this verse** sends the verse, its translation and a link that opens the page at that verse: on a phone it opens your share menu (WhatsApp, Messages, email and so on); on a computer it copies them, ready to paste anywhere. **Copy link** copies just the link to that verse.
 
-**About the text.** The Sanskrit follows the commonly printed text. Where it has an obvious misprint, the verse is corrected and a **Reading note** says what was changed; where a reading is uncertain, it is left as printed and flagged. The few verses missing from the online source are marked where they belong.
+**About the text.** The Sanskrit follows the commonly printed text. Obvious misprints are corrected silently in the verse; a **Reading note** is added only where a reading is uncertain or affects the meaning. The few verses missing from the online source are marked where they belong.
 
 [Start reading — Sarga 1](1-vairagya/sarga-001.md){ .md-button .md-button--primary }
 

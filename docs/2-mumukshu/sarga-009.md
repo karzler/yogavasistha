@@ -28,7 +28,6 @@
 **Pointers for Reflection:**
 
 - **Rāma presses the question.** If fate is unreal, why is belief in it so universal? A good student does not accept a conclusion until he understands why the opposite seemed true.
-- **Reading note.** The online text prints भगवन्तत्वधर्मज्ञ … दैव; corrected here to भगवन्सर्वधर्मज्ञ … दैवं (as at 2.9.11).
 
 ## Verse 2.9.2 { #2-9-2 }
 
@@ -166,7 +165,6 @@
 **Pointers for Reflection:**
 
 - **Even this is effort.** "My mind went that way" sounds passive, but the mind's direction was one's own. Fate is our own past choices, unacknowledged.
-- **Reading note.** The online text prints बुद्धितिथ मे; corrected here to बुद्धिरित्थं मे.
 
 ## Verse 2.9.10 { #2-9-10 }
 
@@ -324,7 +322,6 @@
 **Pointers for Reflection:**
 
 - **The answer to Rāma's objection.** Accumulated karma is not abolished; it is shown to be one's own mind. There is no external fate — only oneself, in the form of habits.
-- **Reading note.** The online text prints षुरुषस्तस्माद्दैव; corrected here to पुरुषस्तस्माद्दैवं.
 
 ## Verse 2.9.19 { #2-9-19 }
 
@@ -394,7 +391,6 @@
 **Pointers for Reflection:**
 
 - **A blessing.** Vasiṣṭha closes the argument with a wish for Rāma. The teaching is not a debate to win but a gift to give.
-- **Reading note.** The online text prints रधूद्वह; corrected here to रघूद्वह.
 
 ## Verse 2.9.23 { #2-9-23 }
 
@@ -466,7 +462,6 @@
 **Pointers for Reflection:**
 
 - **Ride the good current.** Where good tendencies flow, follow them. Effort here means cooperation, not struggle.
-- **Reading note.** The online text prints पदप्राप्स्यसि; corrected here to पदं प्राप्स्यसि.
 
 ## Verse 2.9.27 { #2-9-27 }
 

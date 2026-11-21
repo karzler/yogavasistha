@@ -377,7 +377,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints तत्त्वविदांवर; corrected here to तत्त्वविदां वर (word spacing).
 - **Gītā 10.11:** <span class="parallel">तेषामेवानुकम्पार्थमहमज्ञानजं तमः । नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥</span> — *out of compassion for them, dwelling in their hearts, I destroy the darkness born of ignorance with the shining lamp of knowledge.* Rāma asks for the very lamp that Kṛṣṇa promises.
 
 ## Verse 1.29.22 { #1-29-22 }

@@ -302,7 +302,6 @@
 **Pointers for Reflection:**
 
 - **The teaching goes home with them.** Outer splendour, inner stillness.
-- **Reading note.** The online text prints दिंग्मुखाः; corrected here to दिङ्मुखाः.
 
 ## Verse 3.4.18 { #3-4-18 }
 
@@ -406,7 +405,6 @@
 
 - **A longer metre** (śālinī). The mountain is pictured as Viṣṇu, the पीताम्बर, "one robed in yellow".
 - **Evening and morning.** This verse is repeated almost exactly at v. 33 for the eastern mountain at dawn.
-- **Reading note.** The online text prints समेघैःस्तारा; corrected here to समेघैस्तारा.
 
 ## Verse 3.4.24 { #3-4-24 }
 
@@ -457,7 +455,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints उपाजग्मुदिशो; corrected here to उपाजग्मुर्दिशो.
 
 ## Verse 3.4.27 { #3-4-27 }
 
@@ -750,7 +747,6 @@
 **Pointers for Reflection:**
 
 - **Mind = संकल्प.** Not a container of thoughts, but the activity of imagining itself.
-- **Reading note.** The online text prints यथो द्रवत्वात्; corrected here to यथा द्रवत्वात्.
 
 ## Verse 3.4.44 { #3-4-44 }
 
@@ -922,7 +918,6 @@
 
 - **केवलीभाव** — aloneness. Without an object, the subject is no longer "subject": only consciousness remains. The Jaina kevalin and the Yoga kaivalya point to the same aloneness.
 - **Reading note.** The last quarter, तत एवासतः सतः, is terse; the sense of discerning the real from the unreal is supplied.
-- **Reading note.** The online text prints भवेद्वलात्; corrected here to भवेद्बलात्.
 
 ## Verse 3.4.54 { #3-4-54 }
 
@@ -1062,7 +1057,6 @@
 **Pointers for Reflection:**
 
 - **A mantra** to drive away a ghost. The "mantra" is the truth stated in vv. 67–70.
-- **Reading note.** The online text prints नङक्ष्यति; corrected here to नङ्क्ष्यति.
 
 ## Verse 3.4.62 { #3-4-62 }
 

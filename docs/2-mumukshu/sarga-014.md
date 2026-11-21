@@ -454,7 +454,6 @@
 **Pointers for Reflection:**
 
 - **Unexamined charm.** Like a magic show: delightful until one sees how it is done. This is the essence of Vasiṣṭha's method: do not reject the world, examine it.
-- **Reading note.** The online text prints सर्वं एव; corrected here to सर्व एव.
 
 ## Verse 2.14.27 { #2-14-27 }
 
@@ -677,7 +676,6 @@
 **Pointers for Reflection:**
 
 - **Scripture is understood through inquiry.** Not blind acceptance. The Brahma Sūtra itself begins <span class="parallel">अथातो ब्रह्मजिज्ञासा</span> — *now, the inquiry into Brahman*.
-- **Reading note.** The online text prints स्रिद्धान्त; corrected here to सिद्धान्त.
 
 ## Verse 2.14.40 { #2-14-40 }
 

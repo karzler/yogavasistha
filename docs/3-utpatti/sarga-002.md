@@ -80,7 +80,6 @@
 **Pointers for Reflection:**
 
 - **What Death cannot cut.** The Gītā: <span class="parallel">नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः</span> — *weapons do not cut it, fire does not burn it* (2.23).
-- **Reading note.** The online text prints खङ्गधारा; corrected here to खड्गधारा ("sword-edge").
 
 ## Verse 3.2.5 { #3-2-5 }
 

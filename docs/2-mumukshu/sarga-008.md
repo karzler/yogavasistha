@@ -241,7 +241,6 @@
 
 - **Why bother?** If an outside director does everything, all beings could simply rest. No one acts that way; so no one truly believes it.
 - **Mahāvīra** taught that the soul is its own agent (*kartā*) and enjoyer (*bhoktā*); there is no external director of its karma.
-- **Reading note.** The online text prints विनियोक्रथ; corrected here to विनियोक्तृ ("director").
 
 ## Verse 2.8.15 { #2-8-15 }
 

@@ -699,7 +699,6 @@
 **Pointers for Reflection:**
 
 - **The anatomy of effort.** Heart → mind → body. First the aim arises within, then the mind inclines, then action follows. Effort begins as inner clarity. Compare 2.7.4.
-- **Reading note.** The online text prints सदाचरविजृम्भित; corrected here to सदाचारविजृम्भित.
 
 ## Verse 2.6.41 { #2-6-41 }
 

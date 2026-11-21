@@ -508,7 +508,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints हीररप्यजः, which is not a word; corrected here to हरिरप्यजः, "even unborn Hari"; the verse then names the three gods Brahmā, Viṣṇu and Śiva.
 - **Even the Trinity.** Brahmā, Viṣṇu and Śiva — the creator, preserver and destroyer — as cosmic functions, also come and go with the aeons. What remains is the Absolute, of which they are forms.
 
 ## Verse 1.26.30 { #1-26-30 }

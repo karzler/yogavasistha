@@ -97,7 +97,6 @@
 **Pointers for Reflection:**
 
 - **Causeless or self-caused** — two ways of saying the same thing.
-- **Reading note.** The online text prints अकारण भाति; corrected here to अकारणं भाति (metre requires the anusvāra).
 
 ## Verse 3.3.6 { #3-3-6 }
 
@@ -207,7 +206,6 @@
 **Pointers for Reflection:**
 
 - **Like produces like.** Pots from clay are clay. What comes from consciousness is consciousness.
-- **Reading note.** The online text prints यद्यतस्तत्तदेवति; corrected here to यद्यतस्तत्तदेवेति (तत् एव इति).
 
 ## Verse 3.3.13 { #3-3-13 }
 
@@ -463,7 +461,6 @@
 **Pointers for Reflection:**
 
 - **Satkārya.** The effect pre-exists in the cause and is of its nature — the Sāṅkhya principle, here carried to its Vedāntic end.
-- **Reading note.** The online text prints कार्य तादृग्; corrected here to कार्यं तादृग्.
 
 ## Verse 3.3.28 { #3-3-28 }
 
@@ -617,7 +614,6 @@
 **Pointers for Reflection:**
 
 - **Mind and its seen are one.** Like the seed and its future plant. Compare 3.1.42.
-- **Reading note.** The online text prints दृद्यस्ति; corrected here to हृद्यस्ति ("is in the heart").
 
 ## Verse 3.3.37 { #3-3-37 }
 

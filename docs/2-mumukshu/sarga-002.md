@@ -345,7 +345,6 @@
 **Pointers for Reflection:**
 
 - **The clean mirror.** The third time the image appears (2.1.3, 2.2.1). In a clean mind, truth reflects at once. The labour of teaching is mostly cleaning.
-- **Reading note.** The online text prints गतकल्पषः; corrected here to गतकल्मषः ("free of impurity").
 
 ## Verse 2.2.20 { #2-2-20 }
 

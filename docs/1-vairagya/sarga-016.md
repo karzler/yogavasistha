@@ -115,7 +115,6 @@
 **Pointers for Reflection:**
 
 - **The lost deer.** Separated from its source, the mind wanders anxiously. The teaching will show the mind its 'herd': its source in consciousness.
-- **Reading note.** The online text prints निवृतिं; the expected word is निर्वृतिं, peace. The sense is the same.
 - **Śānti is not in objects.** *Śānti* (शान्ति, निर्वृति) is the experience of *anantatā* (अनन्तता); it is never found in an object. So the mind that hunts among objects is "always empty", however much it gathers. The Chāndogya: <span class="parallel">यो वै भूमा तत्सुखं नाल्पे सुखमस्ति</span> — *the infinite alone is joy; there is no joy in the small* (7.23.1).
 
 ## Verse 1.16.5 { #1-16-5 }

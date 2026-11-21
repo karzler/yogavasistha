@@ -92,7 +92,7 @@ Please keep pull requests small and focused — one sarga or one kind of fix at 
 - **Verse format.** Follow the existing pages (and `templates/sarga-template.md`): Sanskrit in `<p class="shloka">`, word-by-word in `<p class="anvaya">` with Devanagari words followed by their meanings in brackets, then **Translation:** and **Pointers for Reflection:**.
 - **Verse ids.** Every verse heading carries an id like `{ #2-9-30 }` (prakaraṇa-sarga-verse) so it can be linked. Do not change existing ids — people may have shared them.
 - **Translations** are made from the Sanskrit, not copied from other translations.
-- **Sanskrit corrections** are made in the verse itself, with a **Reading note** in the pointers saying what the source printed and what it was corrected to. If a reading is only doubtful, leave it and flag it.
+- **Sanskrit corrections.** Obvious misprints (a missing virāma, anusvāra or visarga, a wrong letter) are corrected silently in the verse itself. Add a **Reading note** in the pointers only when a reading is uncertain or a correction changes the meaning; cite your source.
 - **Quotations** from the Gītā, Upaniṣads or other texts are given in the original (Devanagari, or Pāli/Prakrit in italics) with an English rendering and an exact reference.
 - **Voice.** Write impersonally — the commentary speaks about the text, not about the writer. Treat the text as scripture. Write "Śrī Rāma" in English prose.
 - **Glossary.** If you introduce a new key term, add it to `docs/glossary.md` in Devanagari alphabetical order, linked to its first occurrence.

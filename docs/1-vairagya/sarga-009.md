@@ -268,7 +268,6 @@
 **Pointers for Reflection:**
 
 - **Vasiṣṭha praises Viśvāmitra.** Whatever rivalry there was between them in other tellings, here Vasiṣṭha generously honours his fellow sage.
-- **Reading note.** The online text prints एप; the correct form एष is used here.
 
 ## Verse 1.9.15 { #1-9-15 }
 
@@ -424,4 +423,3 @@
 - **A closing verse in a longer metre** (upajāti).
 - **Gītā 2.3 again:** <span class="parallel">क्लैब्यं मा स्म गमः पार्थ</span> — *do not yield to weakness, Pārtha.* Vasiṣṭha's मा दीनतां गच्छ, "do not fall into helplessness", is Kṛṣṇa's first rebuke to Arjuna.
 - **Death and the teacher.** Near a true sage, even death leads to immortality. Vasiṣṭha means Viśvāmitra — but the words also describe what Vasiṣṭha himself will do for Rāma.
-- **Reading note.** The online text prints पुरूषस्य; the correct form पुरुषस्य is used here.

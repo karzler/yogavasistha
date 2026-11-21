@@ -26,7 +26,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints चूडमणि; corrected here to चूडामणि.
 - **दैव — Fate.** Time is now joined by Fate (दैव), Death (कृतान्त) and Destiny (नियति). Sarga 25 is a great cosmic dance of these powers, drawn in the imagery of Śiva's तांडव.
 - **Is Fate real?** In the Mumukṣu Prakaraṇa Vasiṣṭha will answer at length: 'fate' is only the momentum of one's own past effort, and present effort (पौरुष) can overcome it.
 
@@ -283,7 +282,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints वृहद्; corrected here to बृहद्.
 - **A catalogue of ornaments** (1.25.16–1.25.19). Her ornaments are the gods themselves: Kumāra's peacock, Śiva's heads, Indra's skull. The sentence runs on to verse 19.
 - **Reading note.** These verses are densely compressed; the translation gives the general picture rather than every detail.
 
