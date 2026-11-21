@@ -551,7 +551,6 @@
 
 **Pointers for Reflection:**
 
-- **Reading note.** The online text prints देहगृह मम; corrected here to देहगृहं मम.
 
 ## Verse 1.18.32 { #1-18-32 }
 
@@ -689,6 +688,7 @@
 **Pointers for Reflection:**
 
 - **Ungrateful.** We serve the body all our lives, and it abandons us at death. A sharp, personal way of putting impermanence.
+- **Learn verses 1.18.39 and 1.18.40 by heart.** They are given to awaken दुःख-बुद्धि towards the deha — the clear seeing that the body is a source of duḥkha, not a place to rest one's trust. The Gītā names this as part of knowledge itself: <span class="parallel">जन्ममृत्युजराव्याधिदुःखदोषानुदर्शनम्</span> — *seeing again and again the evil of birth, death, old age, disease and duḥkha* (13.8).
 
 ## Verse 1.18.40 { #1-18-40 }
 
@@ -707,6 +707,8 @@
 
 - **Abandon before being abandoned.** A decisive turn: Rāma resolves to give up the body before it gives him up. Not suicide — the context makes clear he means inner renunciation of identification.
 - **The hanging drop** — the image of 1.14.1 returns.
+- **Learn by heart, with 1.18.39.** Repeat the two verses until they come by themselves.
+- **Meditate on death.** Sit quietly and contemplate one's own dead body: lying still, carried away, laid on the pyre and burned, until only ash remains and returns to the five elements. This is not morbidity; it loosens the grip of देहाभिमान and turns the mind towards what does not die. The Buddha taught the same in the charnel-ground contemplations (Satipaṭṭhāna Sutta, Majjhima Nikāya 10), comparing one's own body with a body left on the cremation ground: *this body too is of that nature, it will become like that, it has not gone beyond that.* And the Kaṭha: <span class="parallel">न जायते म्रियते वा विपश्चित्</span> — *the knower is neither born nor dies* (1.2.18): what is seen burning is the body, never the seer.
 
 ## Verse 1.18.41 { #1-18-41 }
 
