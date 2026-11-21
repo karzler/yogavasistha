@@ -935,6 +935,13 @@
 - **पुरुषोत्तम.** In the Gītā (15.18), Puruṣottama is the Lord himself. Here it is the one who rests in the knowledge of not being the body. The two meet.
 - **Gītā 2.18, 2.20:** <span class="parallel">अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः</span> — *these bodies of the eternal embodied one are said to end*; <span class="parallel">न हन्यते हन्यमाने शरीरे</span> — *it is not killed when the body is killed.*
 - **Chāndogya Upaniṣad 8.12.1:** <span class="parallel">मघवन्मर्त्यं वा इदं शरीरमात्तं मृत्युना तदस्यामृतस्याशरीरस्यात्मनोऽधिष्ठानम्</span> — *Maghavan, this body is mortal, held by death; it is the dwelling of the immortal, bodiless Self.* The body is mortal; it is also the dwelling of the immortal. Both sides are true.
+- **Five discernments of deha and Self.** How is "I am not the body" seen? By setting the deha beside the Self, point by point:
+    1. **I am the द्रष्टा; the deha is दृश्य.** The body is seen — felt, known, observed. The one who sees it cannot be what is seen (3.1.22).
+    2. **I am अविकारी; the deha is विकारी.** The body is born, grows, ages, sickens and decays. That which knows every change does not change.
+    3. **The deha is in देश and काल; I am not.** The body has a place and a time — here, now, this age. The knower of place and time is not itself placed or dated.
+    4. **The deha is made of घटक (components); I am without components.** The body is assembled from elements, organs and cells, and will come apart into them. What has no parts cannot come apart.
+    5. **The deha is कर्मफल; I am the द्रष्टा of कर्मफल.** The body is the fruit of past karma (2.1–2.9). The one who witnesses that fruit is not itself a fruit.
+- **No real sambandha with the deha.** In truth there is no sambandha between the Self and the deha at all. If there were, the Self could never let the body go. Yet in svapna the waking body is left behind — another body is taken in the dream — and in suṣupti there is no body at all, and still "I" remain, to wake and say "I slept well." What can be dropped every night was never truly one's own. The Māṇḍūkya teaches the same through the three states and the Fourth beyond them (Māṇḍūkya 2–7); and the Gītā: <span class="parallel">देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति</span> — *as the embodied one passes through childhood, youth and old age in this body, so it passes to another body; the wise are not deluded by this* (2.13).
 
 ## Verse 1.18.54 { #1-18-54 }
 
