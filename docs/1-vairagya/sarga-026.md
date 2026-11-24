@@ -683,6 +683,7 @@
 - **बुद्धः — the awakened one.** The word means 'one who has awakened' and is also the title of the Buddha. The description fits both the Advaitic sage and the Buddhist ideal: inner coolness (शीतल, compare निर्वाण as 'cooling'), together with compassion and service to others. A clear moment of [the synthesis of traditions](../index.md#how-the-traditions-meet).
 - **Rest within, compassion without.** Notice the balance: the awakened one is not withdrawn but 'burns at others' pain'. This is the ideal of the Yoga Vasiṣṭha — and the life Śrī Rāma will lead.
 - **Gītā 5.25:** <span class="parallel">लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः । छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ॥</span> — *the sages attain the nirvāṇa of Brahman — their impurities gone, their doubts cut, self-controlled, delighting in the good of all beings.*
+- **Gītā 6.32:** <span class="parallel">आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन । सुखं वा यदि वा दुःखं स योगी परमो मतः ॥</span> — *one who, by comparison with himself, sees the same everywhere, Arjuna — whether it is sukha or duḥkha — is held to be the highest yogī* (6.32). This is परार्तिपरितप्तया: another's pain is felt as one's own, because the Self in all is one.
 
 ## Verse 1.26.40 { #1-26-40 }
 
