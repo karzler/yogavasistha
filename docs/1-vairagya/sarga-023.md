@@ -760,6 +760,8 @@
 
 - **अभाव and भाव.** The deepest verse of the sarga. All that appears as being is only the appearance (भास) of being, played out on something that is, from the world's point of view, 'nothing'.
 - **A Buddhist echo.** The language of emptiness (Madhyamaka) meets the Advaitic Self that delights in itself (आत्मरति, Chāndogya 7.25.2). See [how the traditions meet](../index.md#how-the-traditions-meet).
+- **Important for students of Vedānta: time is not separate from the Ātmā.** स्वात्मना आत्मनि रमते — it delights *by itself, in itself*. Kāla, which seemed to be an outside power devouring the world, turns out to be the Ātmā's own play: अपने से अपने में रमण करता है. There is no second thing here: the player, the play and the playground are one. This completes the third definition of kāla at 1.23.5 — time is krama superimposed on consciousness; and here, that very superimposition is consciousness sporting within itself. Seen so, Time the devourer is no longer an enemy to fear, but one's own Self at play.
+- **The Gītā names the Lord as Time** — <span class="parallel">कालोऽस्मि</span> (11.32), <span class="parallel">अहमेवाक्षयः कालः</span> — *I alone am imperishable Time* (10.33) — and the one who knows the Self as <span class="parallel">आत्मरतिरेव स्यादात्मतृप्तश्च मानवः</span> — *the one who delights in the Self, content in the Self* (3.17).
 
 ## Verse 1.23.44 { #1-23-44 }
 
