@@ -97,6 +97,17 @@
 **Pointers for Reflection:**
 
 - **महेश्वर — the great lord.** Time is given the name of Śiva. Kashmir Śaivism (the [synthesis of traditions](../index.md#a-synthesis)) knows Śiva as Mahākāla, 'great Time'.
+- **Three definitions of kāla in Vedānta.**
+    1. **व्यवहारोपपादकः कालः — time is what makes vyavahāra possible.** All transactions run through kāla. When two people agree to meet, the very next question is: when, and where? A time and a venue are fixed, and kept. Kāla is उपपादक: it does not create the transaction, it facilitates it.
+    2. **गुणव्यतिकरः कालः — time is what pervades everything and disturbs it.** Kāla enters every thing and spoils it: it turns black hair white, youth into old age, the new into the worn-out. This is the face of time in this verse — the great lord who swallows all that is seen. The Gītā: <span class="parallel">कालोऽस्मि लोकक्षयकृत्प्रवृद्धः</span> — *I am Time, grown mighty, the destroyer of worlds* (11.32).
+    3. **क्रमसंवित् कालः — time is the experience of sequence (क्रम) superimposed on consciousness.** Kāla is not "out there"; it is an अध्यारोप of krama upon चैतन्य. See below.
+- **Kāla as krama superimposed on consciousness — going deeper.**
+    - **Consciousness itself has no before and after.** Every "before" and every "after" is known by one awareness, present to both. The knower of a sequence cannot itself be one of its moments: if it were, it could never compare the earlier with the later. So the one who knows time stands outside time.
+    - **Time is born from the difference between vṛttis.** One thought arises, then a different one, then another. The *difference* between them is felt as a step; the steps, strung together by memory, are felt as duration. Kāla is that string of differences, laid over unchanging awareness — as the rope's stillness is overlaid with the snake's movement.
+    - **This can be tested.** With dissimilar, jarring thoughts — waiting anxiously, bored, restless — there is a "spike": the clock is checked three or four times in one minute, and the minute is endless. When one similar, conducive thought flows — a positive vṛtti, absorbed work, bhajan, satsaṅga — there is no spike, and hours pass "in no time". The clock has not changed; the krama of vṛttis has. In deep sleep, where there are no vṛttis at all, there is no time at all: one wakes and cannot say whether a minute or eight hours have passed — except by inference.
+    - **Time stretches and shrinks in the Yoga Vasiṣṭha.** In Book 3, King Lavaṇa lives a whole lifetime of sixty years in a moment of court; in the story of Līlā, generations pass in one room. Time is the measure of the mind's movement, not a container that holds it.
+    - **Other traditions agree.** For the Buddhist Abhidharma, time is not a real thing but a designation (prajñapti) for the succession of momentary events. For Kashmir Śaivism, kāla is one of the five कञ्चुक, the "coverings" by which infinite consciousness limits itself and seems to live in sequence. The Gītā's Lord says: <span class="parallel">कालः कलयतामहम्</span> — *among reckoners, I am Time* (10.30): the reckoning belongs to consciousness.
+    - **For practice.** When time drags or rushes, notice the krama of vṛttis behind it; then notice the awareness that knows both "before" and "after" and is itself neither. To rest there, even for a moment, is to stand where Time, the great devourer, has nothing to swallow.
 
 ## Verse 1.23.6 { #1-23-6 }
 
