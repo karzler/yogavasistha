@@ -680,6 +680,7 @@
 
 **Pointers for Reflection:**
 
+- **A निगमन-वाक्य — the concluding statement.** In the Indian syllogism, निगमन is the final member: the thesis, now established. After surveying every kind of life and finding no lasting sukha in any of them, Rāma states the conclusion of the whole inquiry: बुद्ध एव सुखी — *only the awakened one is happy*. Everything before leads here.
 - **बुद्धः — the awakened one.** The word means 'one who has awakened' and is also the title of the Buddha. The description fits both the Advaitic sage and the Buddhist ideal: inner coolness (शीतल, compare निर्वाण as 'cooling'), together with compassion and service to others. A clear moment of [the synthesis of traditions](../index.md#how-the-traditions-meet).
 - **Rest within, compassion without.** Notice the balance: the awakened one is not withdrawn but 'burns at others' pain'. This is the ideal of the Yoga Vasiṣṭha — and the life Śrī Rāma will lead.
 - **Gītā 5.25:** <span class="parallel">लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः । छिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ॥</span> — *the sages attain the nirvāṇa of Brahman — their impurities gone, their doubts cut, self-controlled, delighting in the good of all beings.*
