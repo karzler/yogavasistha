@@ -745,6 +745,7 @@
 
 - **Greatness measured by desire.** Janaka ranks himself, Vyāsa and Śuka not by learning or office but by how little they want. Freedom is measured by the thinning of desire — exactly how Vasiṣṭha will define liberation (2.2.5).
 - **Śāntideva** prays to be content with little: the less one needs, the less one is bound.
+- **Why Janaka praises Śuka.** For twenty-one days Śuka was tested — seven days ignored at the gate (2.1.21), seven in the courtyard (2.1.22), seven among the pleasures of the inner palace (2.1.23). Neglect did not stir anger in him; luxury did not stir kāma. Through all of it he remained स्थित in tattva. That is the greatness Janaka honours — not learning or lineage, but steadiness. The Gītā's स्थितप्रज्ञ: <span class="parallel">दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः । वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते</span> — *unshaken in sorrow, free of longing in pleasure, beyond attachment, fear and anger: such a one is called a sage of steady wisdom* (2.56).
 
 ## Verse 2.1.41 { #2-1-41 }
 
