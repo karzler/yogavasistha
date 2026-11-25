@@ -659,9 +659,21 @@
 
 **Pointers for Reflection:**
 
+- **A very important verse — one of the most important verses of the whole text.** It holds the entire teaching in two lines: what is, how bondage comes about, and how freedom comes.
 - **One Self, self-bound, self-freed.** No outside jailer, no outside saviour. Bondage is self-made by संकल्प (intention, imagining), and freedom is its absence.
 - **The Gītā:** <span class="parallel">उद्धरेदात्मनात्मानं नात्मानमवसादयेत् । आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः</span> — *lift yourself by yourself; do not let yourself sink. The self alone is one's friend, and the self alone one's enemy* (6.5).
 - **Mahāvīra** said the same: *purisā, tumam eva tumaṃ mittaṃ, kiṃ bahiyā mittam icchasi* — *O man, you are your own friend; why seek a friend outside?* (Ācārāṅga Sūtra 1.3.3).
+- **From asmi to bhaviṣyāmi.** We do not remain established in **asmi** (अस्मि, "I am"); we imagine in **bhaviṣyāmi** (भविष्यामि, "I shall become"). Then we act to make it so. Bhava means to become. Every saṅkalpa is a "shall become" laid over the plain "am" — and that is the bondage the verse speaks of.
+- **निःसंकल्पः च मुच्यते — be careful.** This is not talking about thoughtlessness. As long as the notion *aham idam asmi* (अहम् इदम् अस्मि, "I am this") remains, there is sṛṣṭi, and there is bandhana. Thoughts may come and go; it is the saṅkalpa "I am this — I shall become that" whose ending is freedom. A blank mind with "I am this" intact is still bound (compare 3.1.32–40).
+- **न इतरत् — nothing else.** There is nothing here other than **akhaṇḍa caitanya** (अखण्ड चैतन्य), undivided consciousness — अविच्छिन्नचिदात्मा.
+- **One seer, who does not change.** There is a द्रष्टा who is never altered. If the seer were found within deśa and kāla, it would not be found in svapna — where the waking place and time are gone. Yet the seer is there in the dream too, and in deep sleep. So there is one unbroken (अच्छिन्न), infinite (अनन्त) consciousness, present in every state (compare 1.18.53).
+- **Dehākāra-vṛtti, cidābhāsa, jīva — how the one seems to become "me".**
+    1. **The reflecting medium.** The antaḥkaraṇa (mind and intellect) is subtle and clear, like water or a mirror.
+    2. **The vṛtti that takes the shape of the body.** In it arises a vṛtti whose form is the body — देहाकार-वृत्ति, "I am this body". It is like a pot of water placed in the sunlight.
+    3. **Cidābhāsa.** Consciousness, falling on that vṛtti, is reflected in it, as the sun is reflected in the water of the pot. This reflected consciousness is चिदाभास, the "appearance of consciousness". It is not a second consciousness — there is only one sun — but it *seems* to belong to the pot, to have its size and its place.
+    4. **Jīva.** The reflection, together with the medium it appears in, is what is called the jīva — "I, this person, here, now". When the water ripples, the reflection trembles; the sun does not. So the jīva seems to suffer, change, be born and die, while the original consciousness, the sākṣī, is untouched.
+    5. **Freedom.** Recognising that one is not the trembling reflection but the light that is reflected — that is the release the verse calls निःसंकल्प. The Pañcadaśī works this out in its *Citradīpa* chapter, with the pot-space, the water-space and the great space.
+- **Mṛtyu to mṛtyu.** Making saṅkalpa after saṅkalpa, a whole life is spent; then a new body is taken, and it begins again. So one is caught in the cycle of birth and death. The Kaṭha Upaniṣad: <span class="parallel">मृत्योः स मृत्युमाप्नोति य इह नानेव पश्यति</span> — *he goes from death to death who sees difference here* (2.1.10).
 
 ## Verse 2.1.37 { #2-1-37 }
 
