@@ -755,13 +755,14 @@
 </p>
 
 <p class="anvaya">
-ब्रह्मन् (O brahmin), पूर्ण-चेतसा भवता (by you, of full mind) प्राप्तव्यम् अखिलं प्राप्तम् (all that is to be attained has been attained); [त्वं] दृश्ये न पतसि (you do not fall into the visible); त्वं मुक्तः (you are free); भ्रान्तिम् उत्सृज (give up the delusion).
+ब्रह्मन् (O brahmin), पूर्ण-चेतसा भवता (by you, whose consciousness has become pūrṇa — you who are now whole) प्राप्तव्यम् अखिलं प्राप्तम् (all that is to be attained has been attained); [त्वं] दृश्ये न पतसि (you do not fall into the visible); त्वं मुक्तः (you are free); भ्रान्तिम् उत्सृज (give up the delusion).
 </p>
 
-**Translation:** "Brahmin, your mind is full; you have attained all that is to be attained. You no longer fall into the visible world. You are free — let go of your doubt."
+**Translation:** "Brahmin, you have become pūrṇa; you have attained all that is to be attained. You no longer fall into the visible world. You are free — let go of your doubt."
 
 **Pointers for Reflection:**
 
+- **पूर्णचेतसा — you have become pūrṇa.** Not "a full mind", as if filled with something, but consciousness that is complete, whole, lacking nothing. One who is pūrṇa has nothing left to attain — hence प्राप्तं प्राप्तव्यमखिलम्. The peace-chant: <span class="parallel">पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते</span> — *that is pūrṇa, this is pūrṇa; from pūrṇa, pūrṇa arises* (Bṛhadāraṇyaka 5.1.1).
 - **"You are free."** The decisive word. Śuka's only remaining delusion was the thought that he was not yet free. The teacher's last act is to remove the idea that something more is needed.
 - **भ्रान्तिमुत्सृज.** As Kṛṣṇa says at the end: <span class="parallel">मा शुचः</span> — *do not grieve* (Gītā 18.66).
 
